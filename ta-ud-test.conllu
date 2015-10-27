@@ -1,4 +1,5 @@
 # sent_id a_tree-ta-s1-root
+# full_sent பிகாரிலிருந்து ஏராளமான இளைஞர்கள் வேலை தேடி வெளி மாநிலங்களுக்கு குடிபெயர்ந்து வருகின்றனர் .
 # orig_file_sentence 001#1
 1	பிகார்	பிகார்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=pikār
 2	இலிருந்து	இலிருந்து	ADP	PP-------	AdpType=Post	1	case	_	Translit=iliruntu
@@ -13,6 +14,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s2-root
+# full_sent மத்திய திட்டங்கள் முறையாக அமல்படுத்தப் பட்டால் பிகாரிலிருந்து இளைஞர்கள் குடிபெயர்வது தடுக்கப் படும் என்றார் ராகுல் .
 # orig_file_sentence 001#2
 1	மத்திய	மத்திய	ADJ	JJ-------	_	2	amod	_	Translit=mattiya
 2	திட்டங்கள்	திட்டம்	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nsubj	_	Translit=tiṭṭaṅkaḷ
@@ -30,6 +32,7 @@
 14	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s3-root
+# full_sent உத்தரப் பிரதேசத்தில் காங்கிரஸ் கட்சியைப் பலப்படுத்த நான் எடுத்த முயற்சிகளுக்கு பலன் கிடைக்காது என்று என்னிடம் பலர் தெரிவித்தனர் .
 # orig_file_sentence 001#3
 1	உத்தரப்	உத்தர	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=uttarap
 2	பிரதேசத்தில்	பிரதேசம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=piratēcattil
@@ -49,6 +52,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id a_tree-ta-s4-root
+# full_sent ஆனால் நான் நம்பிக்கையோடு கட்சியை பலப்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டேன் .
 # orig_file_sentence 001#4
 1	ஆனால்	ஆனால்	ADV	AA-------	_	8	advmod	_	Translit=ānāl
 2	நான்	நான்	PRON	RpN-1SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=nān
@@ -61,6 +65,7 @@
 9	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s5-root
+# full_sent அதற்கு கடந்த சட்டப்பேரவைத் தேர்தலில் பலன்கிட்டியது .
 # orig_file_sentence 001#5
 1	அதற்கு	அது	ADV	AA-------	_	5	advmod	_	Translit=atarku
 2	கடந்த	கடந்த	ADJ	JJ-------	_	3	amod	_	Translit=kaṭanta
@@ -70,6 +75,7 @@
 6	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id a_tree-ta-s6-root
+# full_sent கட்சி வெற்றி பெற்றதோடு ஆட்சியில் உள்ள கட்சிக்கு ஒரு மாற்றுக் கட்சியாக வளர்ந்துள்ளது .
 # orig_file_sentence 001#6
 1	கட்சி	கட்சி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nsubj	_	Translit=kaṭci
 2	வெற்றி	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	dobj	_	Translit=verri
@@ -86,6 +92,7 @@
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id a_tree-ta-s7-root
+# full_sent அதுபோன்று பிகாரிலும் காங்கிரஸ் வெற்றி பெறும் என்ற நம்பிக்கை எனக்கு உள்ளது .
 # orig_file_sentence 001#7
 1	அதுபோன்று	அதுபோல்	ADV	AA-------	_	10	advmod	_	Translit=atupōnru
 2	பிகாரில்	பிகார்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=pikāril
@@ -100,6 +107,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id a_tree-ta-s8-root
+# full_sent மக்கள் காங்கிரஸ் கட்சி மீது மிகுந்த நம்பிக்கை வைத்துள்ளனர் .
 # orig_file_sentence 001#8
 1	மக்கள்	மக்கள்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	7	nsubj	_	Translit=makkaḷ
 2	காங்கிரஸ்	காங்கிரஸ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=kāṅkiras
@@ -112,6 +120,7 @@
 9	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s9-root
+# full_sent பிகாரில் கடந்த 20 ஆண்டுகளாக தேங்கிக் கிடக்கும் வளர்ச்சியை மீண்டும் ஏற்படுத்த காங்கிரஸ் எல்லா முயற்சிகளை மேற்கொள்ளும் என்றார் .
 # orig_file_sentence 001#9
 1	பிகாரில்	பிகார்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=pikāril
 2	கடந்த	கடந்த	ADJ	JJ-------	_	4	amod	_	Translit=kaṭanta
@@ -131,6 +140,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id a_tree-ta-s10-root
+# full_sent ஐ.பி.எல். அமைப்பின் முன்னாள் ஆணையர் லலித் மோடி உள்ளிட்ட 7 பேர் மீது 5 பிரிவுகளின் கீழ் சென்னை மாநகரப் போலீஸார் வழக்குப் பதிவு செய்துள்ளனர் .
 # orig_file_sentence 001#10
 1	ஐ.பி.எல்.	ஐ.பி.எல்.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=ai.pi.el.
 2	அமைப்பின்	அமைப்பு	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=amaippin
@@ -155,6 +165,7 @@
 21	.	.	PUNCT	Z#-------	PunctType=Peri	19	punct	_	Translit=.
 
 # sent_id a_tree-ta-s11-root
+# full_sent 20 ஓவர் கிரிக்கெட் போட்டிகள் நடத்துவதற்காக ஏற்படுத்தப்பட்ட ஐபிஎல் அமைப்பின் ஆணையராக இருந்தவர் லலித் மோடி .
 # orig_file_sentence 001#11
 1	20	20	NUM	U=-------	NumForm=Digit	2	nummod	_	Translit=20
 2	ஓவர்	ஓவர்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=ōvar
@@ -173,6 +184,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s12-root
+# full_sent இவர் 2009 ஜனவரி முதல் 2010 ஜூன் மாதம் வரை பதவியில் இருந்த போது பல்வேறு மோசடிகள் செய்ததாக புகார் எழுந்தன .
 # orig_file_sentence 001#12
 1	இவர்	இவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs	14	nsubj	_	Translit=ivar
 2	2009	2009	NUM	U=-------	NumForm=Digit	3	nummod	_	Translit=2009
@@ -194,6 +206,7 @@
 18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.
 
 # sent_id a_tree-ta-s13-root
+# full_sent இது தொடர்பாக இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியத்தின் கௌரவ செயலாளர் என். சீனிவாசன், சென்னை மாநகர போலீஸ் கமிஷனர் டி. ராஜேந்திரனை புதன்கிழமை நேரில் சந்தித்து புகார் மனு ஒன்றை அளித்தார் .
 # orig_file_sentence 001#13
 1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Translit=itu
 2	தொடர்பாக	தொடர்பு	ADV	AA-------	_	24	advmod	_	Translit=toṭarpāka
@@ -222,6 +235,7 @@
 25	.	.	PUNCT	Z#-------	PunctType=Peri	24	punct	_	Translit=.
 
 # sent_id a_tree-ta-s14-root
+# full_sent அதில், ஐபிஎல் கிரிக்கெட் போட்டிகளின் போது, ஊடக உரிமைகள் வழங்கியது, விளம்பரங்கள் ஒளிபரப்ப நேரம் ஒதுக்கியது, பாதுகாப்பு ஏற்பாடுகள் செய்தது ஆகியவற்றில் லலித் மோடி குறிப்பிட்ட சிலருக்கு ஆதரவாக செயல்பட்டு மோசடி செய்ததாக குறிப்பிடப்பட்டிருந்தது .
 # orig_file_sentence 001#14
 1	அதில்	அது	PRON	RpL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	nmod	_	Translit=atil
 2	,	,	PUNCT	Z:-------	PunctType=Comm	31	punct	_	Translit=,
@@ -259,6 +273,7 @@
 34	.	.	PUNCT	Z#-------	PunctType=Peri	31	punct	_	Translit=.
 
 # sent_id a_tree-ta-s15-root
+# full_sent இதன் மூலம் ரூ. 470 கோடிக்கு மோசடி நடைபெற்றுள்ளதாகவும் அந்த புகாரில் தெரிவிக்கப்பட்டிருந்தது .
 # orig_file_sentence 001#15
 1	இதன்	இது	PRON	RpG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Translit=itan
 2	மூலம்	மூலம்	ADP	PP-------	AdpType=Post	1	case	_	Translit=mūlam
@@ -278,6 +293,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id a_tree-ta-s16-root
+# full_sent இந்த வழக்கை, மாநகர மத்திய குற்றப் பிரிவுக்கு மாற்றி கமிஷனர் ராஜேந்திரன் புதன்கிழமை உத்தரவிட்டார் .
 # orig_file_sentence 001#16
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	வழக்கை	வழக்கு	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	8	dobj	_	Translit=valakkai
@@ -294,6 +310,7 @@
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s17-root
+# full_sent இதையடுத்து, புகார் மனுவில் குறிப்பிடப்பட்டுள்ள விவரங்கள் மற்றும் ஆவணங்களை அடிப்படையாகக் கொண்டு, இந்திய குற்றவியல் சட்டத்தின் 409, 420, 468, 477 (ஏ ), 120 ( பி ) ஆகிய பிரிவுகளின் கீழ், லலித் மோடி, வேணு நாயர், ஆண்ரூ ஜார்ஜியோ, சீமஸ் ஓபிரயன், ஹரீஷ் கிருஷ்ணமாச்சாரி, அஜய் வர்மா ஆகியோர் மீது மாநகர மத்திய குற்றப் பிரிவு போலீஸார் வழக்குப் பதிவு செய்து விசாரணையை தொடங்கியுள்ளனர் .
 # orig_file_sentence 001#17
 1	இதையடுத்து	இதையடுத்து	ADV	AA-------	_	65	advmod	_	Translit=itaiyaṭuttu
 2	,	,	PUNCT	Z:-------	PunctType=Comm	65	punct	_	Translit=,
@@ -364,6 +381,7 @@
 67	.	.	PUNCT	Z#-------	PunctType=Peri	65	punct	_	Translit=.
 
 # sent_id a_tree-ta-s18-root
+# full_sent மத்திய குற்றப் பிரிவு ஏடிஎஸ்பி வெங்கடேஸ்வரன் இதற்கான விசாரணை அதிகாரியாக நியமிக்கப்பட்டுள்ளார் .
 # orig_file_sentence 001#18
 1	மத்திய	மத்திய	ADJ	JJ-------	_	5	amod	_	Translit=mattiya
 2	குற்றப்	குற்றம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=kurrap
@@ -379,6 +397,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s19-root
+# full_sent இந்தியப் பயணத்தின் போது அமெரிக்க அதிபர் பராக் ஒபாமா பாகிஸ்தானுக்கு செல்ல மாட்டார் என்று தெரிய வந்துள்ளது .
 # orig_file_sentence 001#19
 1	இந்தியப்	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=intiyap
 2	பயணத்தின்	பயணம்	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	9	nmod	_	Translit=payaṇattin
@@ -397,6 +416,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s20-root
+# full_sent இந்தியாவுக்கு அடுத்த மாதம் முதல் வாரத்தில் ஒபாமா செல்லவுள்ளார் இதற்கான பாதுகாப்பு ஏற்பாடுகளை அமெரிக்க அதிகாரிகள் செய்து வருகின்றனர் .
 # orig_file_sentence 001#20
 1	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	7	dobj	_	Translit=intiyāvukku
 2	அடுத்த	அடுத்த	ADJ	JJ-------	_	3	amod	_	Translit=aṭutta
@@ -416,6 +436,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id a_tree-ta-s21-root
+# full_sent அவர் எந்தத் தேதியில் இந்தியாவுக்குச் செல்கிறார் என்பது இதுவரை உறுதி செய்யப்படவில்லை .
 # orig_file_sentence 001#21
 1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs	5	nsubj	_	Translit=avar
 2	எந்தத்	எந்த	DET	DD-------	_	3	det	_	Translit=entat
@@ -430,6 +451,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s22-root
+# full_sent அநேகமாக அவர் நவம்பர் 6-ம் தேதி இந்தியா செல்லலாம் என்று எதிர்பார்க்கப் படுகிறது .
 # orig_file_sentence 001#22
 1	அநேகமாக	அநேகமாக	ADV	AA-------	_	7	advmod	_	Translit=anēkamāka
 2	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs	7	nsubj	_	Translit=avar
@@ -445,6 +467,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id a_tree-ta-s23-root
+# full_sent இந்தப் பயணத்தின் போது அவர் பாகிஸ்தானுக்குச் செல்ல மாட்டார் என்று வெள்ளை மாளிகை செய்திக்குறிப்பு தெரிவிக்கிறது .
 # orig_file_sentence 001#23
 1	இந்தப்	இந்த	DET	DD-------	_	2	det	_	Translit=intap
 2	பயணத்தின்	பயணம்	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	12	nmod	_	Translit=payaṇattin
@@ -461,6 +484,7 @@
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s24-root
+# full_sent அடுத்த ஆண்டு அவர் பாகிஸ்தானுக்குச் செல்வார் என்றும், பாகிஸ்தான் அதிபர் ஆசிப் அலி ஜர்தாரியை வாஷிங்டன் வருமாறு அவர் அழைத்துள்ளார் என்றும் அந்தச் செய்திக்குறிப்பு தெரிவிக்கிறது .
 # orig_file_sentence 001#24
 1	அடுத்த	அடுத்த	ADJ	JJ-------	_	2	amod	_	Translit=aṭutta
 2	ஆண்டு	ஆண்டு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	dobj	_	Translit=āṇṭu
@@ -483,12 +507,13 @@
 19	உள்ளார்	உள்	AUX	VR-T3SHAA	Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|VerbForm=Fin|Voice=Act	18	aux	_	Translit=uḷḷār
 20	என்ற்	என்	PART	Tt-T----A	Negative=Pos|VerbForm=Inf	18	mark	_	Translit=enr
 21	உம்	உம்	PART	Tv-------	_	18	dobj	_	Translit=um
-22	அந்தச்	அந்த	DET	DD-------	_	23	det	_	Translit=antac
+22	அந்தச்	அந்த	DET	DD-------	_	23	amod	_	Translit=antac
 23	செய்திக்குறிப்பு	செய்திக்குறிப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	24	nsubj	_	Translit=ceytikkurippu
 24	தெரிவிக்கிறது	தெரிவி	VERB	Vr-P3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=terivikkiratu
 25	.	.	PUNCT	Z#-------	PunctType=Peri	24	punct	_	Translit=.
 
 # sent_id a_tree-ta-s25-root
+# full_sent கேரள முன்னாள் முதல்வரும், காங்கிரஸ் மூத்த தலைவருமான கருணாகரன் காய்ச்சல் காரணமாக மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாக அவரது குடும்ப வட்டாரங்கள் தெரிவித்தன .
 # orig_file_sentence 001#25
 1	கேரள	கேரள	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=kēraḷa
 2	முன்னாள்	முன்னாள்	ADJ	JJ-------	_	3	amod	_	Translit=munnāḷ
@@ -516,6 +541,7 @@
 24	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id a_tree-ta-s26-root
+# full_sent 93 வயதான கருணாகரனின் உடல்நிலை சீராக உள்ளது .
 # orig_file_sentence 001#26
 1	93	93	NUM	U=-------	NumForm=Digit	2	nummod	_	Translit=93
 2	வயத்	வயது	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	3	nmod	_	Translit=vayat
@@ -527,6 +553,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s27-root
+# full_sent காய்ச்சல் மற்றும் சுவாசப் பிரச்னையால் அவர் அவதிப்பட்டு வருவதாக மருத்துவமனை வட்டாரங்கள் தெரிவித்தன .
 # orig_file_sentence 001#27
 1	காய்ச்சல்	காய்ச்சல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=kāyccal
 2	மற்றும்	மற்றும்	CONJ	CC-------	_	1	cc	_	Translit=marrum
@@ -542,6 +569,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id a_tree-ta-s28-root
+# full_sent அரசு ரப்பர் கழகம், தேயிலை தோட்டக் கழகம் மற்றும் வனத்தோட்டக் கழகப் பணியாளர்களுக்கு 2009-2010ஆம் ஆண்டிற்கான போனஸ் வழங்க முதல்வர் உத்தரவிட்டுள்ளார் .
 # orig_file_sentence 001#28
 1	அரசு	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=aracu
 2	ரப்பர்	ரப்பர்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=rappar
@@ -565,6 +593,7 @@
 20	.	.	PUNCT	Z#-------	PunctType=Peri	18	punct	_	Translit=.
 
 # sent_id a_tree-ta-s29-root
+# full_sent அரசு ரப்பர் கழகத் தோட்டத் தொழிலாளர்கள் 2 ஆயிரத்து 886 பேருக்கும், தேயிலை தோட்டக் கழகத் தொழிலாளர்கள் 9 ஆயிரத்து 275 பேருக்கும் 20 சதவீத போனஸ் வழங்கிடவும் ; அதுபோலவே, அரசு ரப்பர் கழகப் பணியாளர்கள் 118 பேருக்கும், தேயிலை தோட்டப் பணியாளர்கள் 313 பேருக்கும், வனத்தோட்டக் கழகப் பணியாளர்கள் 359 பேருக்கும் 20 சதவீத போனஸ் வழங்கவும் முதல்வர் உத்தரவிட்டுள்ளார் .
 # orig_file_sentence 001#29
 1	அரசு	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=aracu
 2	ரப்பர்	ரப்பர்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=rappar
@@ -626,6 +655,7 @@
 58	.	.	PUNCT	Z#-------	PunctType=Peri	56	punct	_	Translit=.
 
 # sent_id a_tree-ta-s30-root
+# full_sent இதன் காரணமாக, அரசு ரப்பர் கழகம், தேயிலை தோட்டக் கழகம், வனத்தோட்டக் கழகம் ஆகிய மூன்று அமைப்புகளையும் சேர்ந்த 12 ஆயிரத்து 951 தொழிலாளர்கள் மற்றும் பணியாளர்களுக்கு ரூ. 6 கோடியே 96 லட்சத்து 30 ஆயிரம் 2009-2010 ஆம் ஆண்டுக்குரிய போனஸாக வழங்கப்படும் என தமிழக அரசு தெரிவித்துள்ளது .
 # orig_file_sentence 001#30
 1	இதன்	இது	PRON	RpG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Translit=itan
 2	காரணம்	காரணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	39	nmod	_	Translit=kāraṇam
@@ -675,6 +705,7 @@
 46	.	.	PUNCT	Z#-------	PunctType=Peri	44	punct	_	Translit=.
 
 # sent_id a_tree-ta-s31-root
+# full_sent அமெரிக்க அதிபர் ஒபாமா மும்பை மற்றும் தில்லிக்கு அடுத்த மாதம் வரவிருப்பதாகத் தெரிவித்த வெள்ளை மாளிகை, அவரது பயண அட்டவணை இதுவரை இறுதிசெய்யப் படவில்லை எனக் கூறியுள்ளது .
 # orig_file_sentence 001#31
 1	அமெரிக்க	அமெரிக்கா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=amerikka
 2	அதிபர்	அதிபர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	3	nmod	_	Translit=atipar
@@ -703,6 +734,7 @@
 25	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id a_tree-ta-s32-root
+# full_sent இந்திய பயணத்தின் போது ஒபாமா பொற்கோயிலுக்கு செல்லும் திட்டம் ரத்து செய்யப் பட்டு விட்டதாகக் கூறப்படுவது குறித்து வெள்ளை மாளிகை ஊடகச் செயலர் ராபர்ட் கிப்ஸ் இடம் செய்தியாளர்கள் கேட்டனர் .
 # orig_file_sentence 001#32
 1	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=intiya
 2	பயணத்தின்	பயணம்	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=payaṇattin
@@ -730,6 +762,7 @@
 24	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id a_tree-ta-s33-root
+# full_sent அவரது பயணத்திட்டம் இதுவரை இறுதி செய்யப் படவில்லை எனத் தெரிவித்தார் .
 # orig_file_sentence 001#33
 1	அவரது	அவர்	PRON	RpG-3SH--	Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs	2	nmod	_	Translit=avaratu
 2	பயணத்திட்டம்	பயணத்திட்டம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nsubj	_	Translit=payaṇattiṭṭam
@@ -743,6 +776,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s34-root
+# full_sent இந்தியா உள்ளிட்ட ஆசிய நாடுகளுக்கான ஒபாமாவின் சுற்றுப்பயண அட்டவணை அடுத்த வாரம் இறுதி செய்யப் பட்டு விடும் என்றார் அவர் .
 # orig_file_sentence 001#34
 1	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	dobj	_	Translit=intiyā
 2	உள்ளிட்ட	உள்ளிடு	ADJ	Jd-D----A	Negative=Pos|Tense=Past|VerbForm=Part	4	amod	_	Translit=uḷḷiṭṭa
@@ -763,6 +797,7 @@
 17	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id a_tree-ta-s35-root
+# full_sent இந்தியாவில் மலேரியா நோய் காரணமாக ஆண்டுக்கு ஏறக்குறைய 2 லட்சம் பேர் உயிரிழப்பதாக மருத்துவ இதழான லான்செட் நடத்திய ஆய்வில் தெரியவந்துள்ளது .
 # orig_file_sentence 001#35
 1	இந்தியாவில்	இந்தியா	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	11	nmod	_	Translit=intiyāvil
 2	மலேரியா	மலேரியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=malēriyā
@@ -787,6 +822,7 @@
 21	.	.	PUNCT	Z#-------	PunctType=Peri	19	punct	_	Translit=.
 
 # sent_id a_tree-ta-s36-root
+# full_sent உலக சுகாதார அமைப்பு இந்தியாவில் மலேரியா நோயால் ஆண்டுக்கு 15 ஆயிரம் பேர் உயிரிழப்பதாக தெரிவித்திருந்தது .
 # orig_file_sentence 001#36
 1	உலக	உலகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=ulaka
 2	சுகாதார	சுகாதாரம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=cukātāra
@@ -805,6 +841,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id a_tree-ta-s37-root
+# full_sent ஆனால் லான்செட் இதழ் ஆண்டுக்கு 80 ஆயிரம் குழந்தைகள் உட்பட 2 லட்சம் பேர் உயிரிழப்பதாகத் தெரிவித்துள்ளது .
 # orig_file_sentence 001#37
 1	ஆனால்	ஆனால்	ADV	AA-------	_	14	advmod	_	Translit=ānāl
 2	லான்செட்	லான்செட்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=lānceṭ
@@ -824,6 +861,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id a_tree-ta-s38-root
+# full_sent 90 சதவீத உயிரிழப்புகள் ஊரகப் பகுதிகளில் ஏற்படுகின்றன .
 # orig_file_sentence 001#38
 1	90	90	NUM	U=-------	NumForm=Digit	2	nummod	_	Translit=90
 2	சதவீத	சதவீத	ADJ	JJ-------	_	3	amod	_	Translit=catavīta
@@ -834,6 +872,7 @@
 7	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id a_tree-ta-s39-root
+# full_sent எந்த விதமான மருத்துவ சிகிச்சையும் அளிக்காததால் 86 சதவீத உயிரிழப்புகள் வீட்டிலேயே நிகழ்வதாக லான்செட் தெரிவிக்கிறது .
 # orig_file_sentence 001#39
 1	எந்த	எந்த	DET	DD-------	_	4	det	_	Translit=enta
 2	விதமான	விதம்	ADJ	JJ-------	_	4	amod	_	Translit=vitamāna
@@ -853,6 +892,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id a_tree-ta-s40-root
+# full_sent 2002 முதல் 6 ஆயிரத்து 671 பகுதிகளில் இந்த ஆய்வு நடத்தப்பட்டுள்ளது .
 # orig_file_sentence 001#40
 1	2002	2002	NUM	U=-------	NumForm=Digit	9	advmod	_	Translit=2002
 2	முதல்	முதல்	ADP	PP-------	AdpType=Post	1	case	_	Translit=mutal
@@ -868,17 +908,19 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s41-root
+# full_sent மலேரியாவுக்கு ஒரிசாவில் தான் அதிக அளவிலான உயிரிழப்புகள் ஏற்படுகின்றன .
 # orig_file_sentence 001#41
 1	மலேரியாவுக்கு	மலேரியா	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	7	nmod	_	Translit=malēriyāvukku
 2	ஒரிசாவில்	ஒரிசா	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	nmod	_	Translit=oricāvil
 3	தான்	தான்	PART	Tq-------	_	2	advmod:emph	_	Translit=tān
-4	அதிக	அதிகம்	DET	QQ-------	NumType=Card	6	det	_	Translit=atika
+4	அதிக	அதிகம்	DET	QQ-------	NumType=Card	6	amod	_	Translit=atika
 5	அளவிலான	அளவு	ADJ	JJ-------	_	6	amod	_	Translit=aḷavilāna
 6	உயிரிழப்புகள்	உயிரிழப்பு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	dobj	_	Translit=uyirilappukaḷ
 7	ஏற்படுகின்றன	ஏற்படு	VERB	Vr-P3PNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ērpaṭukinrana
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s42-root
+# full_sent அங்கு மட்டும் ஆண்டுக்கு 50 ஆயிரம் பேர் உயிரிழக்கின்றனர் .
 # orig_file_sentence 001#42
 1	அங்கு	அங்கு	ADV	AA-------	_	2	advmod	_	Translit=aṅku
 2	மட்டும்	மட்டும்	ADV	AA-------	_	7	advmod	_	Translit=maṭṭum
@@ -890,6 +932,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s43-root
+# full_sent அதற்கு அடுத்ததாக சத்தீஸ்கர், ஜார்கண்ட், அசாம் மாநிலங்களில் அதிக உயிரிழப்புகள் ஏற்படுவதாக லான்செட் ஆய்வு முடிவில் தெரிவிக்கப்பட்டுள்ளது .
 # orig_file_sentence 001#43
 1	அதற்கு	அது	ADV	AA-------	_	2	advmod	_	Translit=atarku
 2	அடுத்ததாக	அடுத்ததாக	ADV	AA-------	_	16	advmod	_	Translit=aṭuttatāka
@@ -899,7 +942,7 @@
 6	,	,	PUNCT	Z:-------	PunctType=Comm	8	punct	_	Translit=,
 7	அசாம்	அசாம்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	_	Translit=acām
 8	மாநிலங்களில்	மாநிலம்	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	11	nmod	_	Translit=mānilaṅkaḷil
-9	அதிக	அதிகம்	DET	QQ-------	NumType=Card	10	det	_	Translit=atika
+9	அதிக	அதிகம்	DET	QQ-------	NumType=Card	10	amod	_	Translit=atika
 10	உயிரிழப்புகள்	உயிரிழப்பு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	11	nsubj	_	Translit=uyirilappukaḷ
 11	ஏற்படுவத்	ஏற்படு	VERB	VzNF3SNAA	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act	16	ccomp	_	Translit=ērpaṭuvat
 12	ஆக	ஆக	PART	Tg-------	_	11	mark	_	Translit=āka
@@ -912,6 +955,7 @@
 19	.	.	PUNCT	Z#-------	PunctType=Peri	16	punct	_	Translit=.
 
 # sent_id a_tree-ta-s44-root
+# full_sent நொய்டாவில் எச்சிஎல் ( HCள் ) நிறுவனத்தில் பணியாற்றி வந்த 35 வயது சாஃப்ட்வேர் எஞினியர் ஒருவர் புதன்கிழமை இரவு தூக்கிட்டு தற்கொலை செய்து கொண்டதாக போலீசார் தெரிவித்தனர் .
 # orig_file_sentence 001#44
 1	நொய்டாவில்	நொய்டா	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	nmod	_	Translit=noyṭāvil
 2	எச்சிஎல்	எச்சிஎல்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=ecciel
@@ -938,6 +982,7 @@
 23	.	.	PUNCT	Z#-------	PunctType=Peri	22	punct	_	Translit=.
 
 # sent_id a_tree-ta-s45-root
+# full_sent ஹைதராபாதைச் சேர்ந்த எஞினியர் ரத்தன்குமார் நொய்டாவில் கடந்த 5 மாதங்களாக வசித்து வந்தார் .
 # orig_file_sentence 001#45
 1	ஹைதராபாதைச்	ஹைதராபாத்	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	dobj	_	Translit=haitarāpātaic
 2	சேர்ந்த	சேர்	ADP	PP-------	AdpType=Post	1	case	_	Translit=cērnta
@@ -953,6 +998,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id a_tree-ta-s46-root
+# full_sent வழக்கம்போல் அலுவலகத்தில் இருந்து மாலையில் வீட்டுக்கு வந்த அவர் நள்ளிரவு வரை கணிப்பொறியில் இணையதளங்களில் உலா வந்துள்ளார் .
 # orig_file_sentence 001#46
 1	வழக்கம்போல்	வழக்கம்போல்	ADV	AA-------	_	6	advmod	_	Translit=valakkampōl
 2	அலுவலகத்தில்	அலுவலகம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=aluvalakattil
@@ -971,6 +1017,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id a_tree-ta-s47-root
+# full_sent பின்னர் அறைக்குள் சென்று தூக்கிட்டு தற்கொலை செய்து கொண்டதாக காவல்நிலைய அதிகாரி பிரதாப் சிங் தெரிவித்தார் .
 # orig_file_sentence 001#47
 1	பின்னர்	பின்னர்	ADV	AA-------	_	4	advmod	_	Translit=pinnar
 2	அறைக்க்	அறை	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=araikk
@@ -989,6 +1036,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id a_tree-ta-s48-root
+# full_sent அவர் தற்கொலை செய்து கொண்ட போது வீட்டில் யாரும் இருக்கவில்லை .
 # orig_file_sentence 001#48
 1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs	3	nsubj	_	Translit=avar
 2	தற்கொலை	தற்கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	dobj	_	Translit=tarkolai
@@ -1002,6 +1050,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s49-root
+# full_sent அவரது மனைவி, அவர்களது மகளுடன் பெற்றோர் வீட்டிற்கு சென்றிருந்தார் .
 # orig_file_sentence 001#49
 1	அவரது	அவர்	PRON	RpG-3SH--	Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs	2	nmod	_	Translit=avaratu
 2	மனைவி	மனைவி	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	9	nmod	_	Translit=manaivi
@@ -1016,6 +1065,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s50-root
+# full_sent தற்கொலை செய்து கொண்டதற்கான காரணம் எதுவும் அவர் எழுதிவைக்கவில்லை .
 # orig_file_sentence 001#50
 1	தற்கொலை	தற்கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	dobj	_	Translit=tarkolai
 2	செய்து	செய்	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	4	acl	_	Translit=ceytu
@@ -1029,6 +1079,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s51-root
+# full_sent இதுகுறித்து விசாரித்து வருகிறோம் என பிரதாப் சிங் தெரிவித்தார் .
 # orig_file_sentence 001#51
 1	இதுகுறித்து	இதுகுறித்து	ADV	AA-------	_	2	advmod	_	Translit=itukurittu
 2	விசாரித்து	விசாரி	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	7	ccomp	_	Translit=vicārittu
@@ -1040,6 +1091,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s52-root
+# full_sent கணவன் - மனைவி போல சேர்ந்து வாழ்ந்தோம் என்று கூறி, அதற்காக ஜீவனாம்சம் கோரி வழக்கு தொடுக்க முடியாது என்று உச்ச நீதிமன்றம் வியாழக்கிழமை தீர்ப்பளித்தது .
 # orig_file_sentence 001#52
 1	கணவன்	கணவன்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	6	nmod	_	Translit=kaṇavan
 2	-	-	PUNCT	Z:-------	PunctType=Comm	1	punct	_	Translit=-
@@ -1064,6 +1116,7 @@
 21	.	.	PUNCT	Z#-------	PunctType=Peri	20	punct	_	Translit=.
 
 # sent_id a_tree-ta-s53-root
+# full_sent தமிழ்நாட்டின் கோயமுத்தூரைச் சேர்ந்த டி. பச்சையம்மாள் என்பவர் டி. வேலுசாமி என்பவர் உடன் கணவன் - மனைவி போல வாழ்ந்ததாகவும், வேலுசாமி இப்போது தன்னைப் புறக்கணிப்பதால் தனக்கு மாதம்தோறும் ஜீவனாம்சம் தருமாறு அவருக்கு உத்தரவிட வேண்டும் என்றும் வழக்கு தொடுத்தார் .
 # orig_file_sentence 001#53
 1	தமிழ்நாட்டின்	தமிழ்நாடு	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=tamilnāṭṭin
 2	கோயமுத்தூரைச்	கோயமுத்தூர்	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	dobj	_	Translit=kōyamuttūraic
@@ -1102,6 +1155,7 @@
 35	.	.	PUNCT	Z#-------	PunctType=Peri	34	punct	_	Translit=.
 
 # sent_id a_tree-ta-s54-root
+# full_sent உச்ச நீதிமன்ற நீதிபதிகள் மார்க்கண்டேய கட்ஜு, டி.எஸ். தாக்கூர் அடங்கிய பெஞ்ச் மனுவை விசாரித்தது .
 # orig_file_sentence 001#54
 1	உச்ச	உச்சம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=ucca
 2	நீதிமன்ற	நீதிமன்றம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=nītimanra
@@ -1118,6 +1172,7 @@
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s55-root
+# full_sent வீட்டுக்குள் நடக்கும் கொடுமைகளிலிருந்து பெண்களை அதிலும் குறிப்பாக வீட்டு வேலை செய்யும் பெண்களைப் பாதுகாக்கும் 2005-வது சட்டத்தின் அடிப்படையில் பச்சையம்மாள் வழக்கு தொடுத்திருந்தார் .
 # orig_file_sentence 001#55
 1	வீட்டுக்க்	வீடு	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=vīṭṭukk
 2	உள்	உள்	ADP	PP-------	AdpType=Post	1	case	_	Translit=uḷ
@@ -1143,6 +1198,7 @@
 22	.	.	PUNCT	Z#-------	PunctType=Peri	20	punct	_	Translit=.
 
 # sent_id a_tree-ta-s56-root
+# full_sent பச்சையம்மாள் தனக்கு மனைவி அல்ல என்றும் லட்சுமி என்பவரே தன்னுடைய மனைவி என்றும் எதிர் வழக்காடிய வேலுசாமி வாதாடினார் .
 # orig_file_sentence 001#56
 1	பச்சையம்மாள்	பச்சையம்மாள்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	4	nsubj	_	Translit=paccaiyammāḷ
 2	தனக்கு	தன்	PRON	RhD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	dobj	_	Translit=tanakku
@@ -1164,6 +1220,7 @@
 18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.
 
 # sent_id a_tree-ta-s57-root
+# full_sent வார விடுமுறைகளில் சேர்ந்து வாழ்வதோ, வாரத்துக்கு ஒரு நாள் ஒரே வீட்டில் தங்கியிருப்பதோ, கணவன் - மனைவிக்கு இடையிலான தாம்பத்ய உறவுக்கு ஈடாகக் கருதப்பட மாட்டாது என்று கூறிய நீதிபதிகள், கணவன் இடமிருந்து ஜீவனாம்சம் கோரும் மனைவியர் 4 அம்சங்களைப் பூர்த்தி செய்தவர்களாக இருக்க வேண்டும் என்றனர் .
 # orig_file_sentence 001#57
 1	வார	வாரம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=vāra
 2	விடுமுறைகளில்	விடுமுறை	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	4	nmod	_	Translit=viṭumuraikaḷil
@@ -1210,6 +1267,7 @@
 43	.	.	PUNCT	Z#-------	PunctType=Peri	42	punct	_	Translit=.
 
 # sent_id a_tree-ta-s58-root
+# full_sent 1. ஒரு ஆணும் பெண்ணும் வாழ்க்கைத் துணைவர்கள் என்று சமூகம் ஏற்க வேண்டும் .
 # orig_file_sentence 001#58
 1	1.	1.	NUM	Ux-------	NumType=Card	11	dobj	_	Translit=1.
 2	ஒரு	ஒரு	ADJ	JJ-------	_	3	amod	_	Translit=oru
@@ -1226,6 +1284,7 @@
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id a_tree-ta-s59-root
+# full_sent 2. இருவரும் திருமண வயதை எட்டியிருக்க வேண்டும் .
 # orig_file_sentence 001#59
 1	2.	2.	NUM	Ux-------	NumType=Card	6	iobj	_	Translit=2.
 2	இருவர்	இருவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	6	iobj	_	Translit=iruvar
@@ -1237,6 +1296,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id a_tree-ta-s60-root
+# full_sent 3. இருவரும் திருமணம் செய்து கொள்வதற்கேற்ற தகுதிகளுடன் இருக்க வேண்டும் .
 # orig_file_sentence 001#60
 1	3.	3.	NUM	U=-------	NumForm=Digit	10	dobj	_	Translit=3.
 2	இருவர்	இருவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	5	dobj	_	Translit=iruvar
@@ -1252,6 +1312,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id a_tree-ta-s61-root
+# full_sent 4. இருவரும் விருப்பப்பட்டே சில காலம் ஒன்றாகத் தங்கியிருக்க வேண்டும் ; .
 # orig_file_sentence 001#61
 1	4.	4.	NUM	Ux-------	NumType=Card	8	advmod	_	Translit=4.
 2	இருவரும்	இருவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	8	nsubj	_	Translit=iruvarum
@@ -1266,6 +1327,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s62-root
+# full_sent அதன் மூலம் அவர்களை கணவன், மனைவியராக சமூகம் அங்கீகரிக்க வேண்டும் .
 # orig_file_sentence 001#62
 1	அதன்	அதன்	PRON	RpG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nmod	_	Translit=atan
 2	மூலம்	மூலம்	ADP	PP-------	AdpType=Post	1	case	_	Translit=mūlam
@@ -1280,8 +1342,9 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s63-root
+# full_sent இந்த நாலும் இல்லாமல் ஒரு ஆடவனின் அழைப்பை ஏற்று அவர் உடன் கூடி வாழ்ந்தோம் என்று கூறுவதையெல்லாம் ஏற்று அவர்களுக்கு ஜீவனாம்சம் தர உத்தரவிட முடியாது என்று நீதிபதிகள் உறுதிபடத் தெரிவித்தனர் .
 # orig_file_sentence 001#63
-1	இந்த	இந்த	PRON	DD-------	_	2	nmod	_	Translit=inta
+1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	நால்	நால்	NUM	Ux-------	NumType=Card	8	iobj	_	Translit=nāl
 3	உம்	உம்	PART	Tv-------	_	2	advmod:emph	_	Translit=um
 4	இல்லாமல்	இல்	VERB	Vt-T----N	Negative=Neg|VerbForm=Part	2	case	_	Translit=illāmal
@@ -1309,6 +1372,7 @@
 26	.	.	PUNCT	Z#-------	PunctType=Peri	25	punct	_	Translit=.
 
 # sent_id a_tree-ta-s64-root
+# full_sent இந்த வழக்கில் வேலுசாமி கூறுகிறார் போல அவருக்கு லட்சுமி என்ற முதல் மனைவி இருந்தாரா என்றும் விசாரிக்குமாறு நீதிபதிகள் உத்தரவிட்டனர் .
 # orig_file_sentence 001#64
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	வழக்கில்	வழக்கு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=valakkil
@@ -1331,6 +1395,7 @@
 19	.	.	PUNCT	Z#-------	PunctType=Peri	18	punct	_	Translit=.
 
 # sent_id a_tree-ta-s65-root
+# full_sent இந்தியா வகுத்துள்ள அணுசக்தி இழப்பீட்டு மசோதா சர்வதேச அளவில் வகுக்கப்பட்டுள்ள விதிமுறைகளிலிருந்து சற்று மாறுபட்டுள்ளது .
 # orig_file_sentence 001#65
 1	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj	_	Translit=intiyā
 2	வகுத்த்	வகு	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	3	advcl	_	Translit=vakutt
@@ -1351,6 +1416,7 @@
 17	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id a_tree-ta-s66-root
+# full_sent இந்த மாறுபாடுகளை இந்தியா உடனடியாக சரி செய்ய வேண்டும் என்று இந்திய-அமெரிக்க உறவு மேம்பாடு குறித்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது .
 # orig_file_sentence 001#66
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	மாறுபாடுகளை	மாறுபாடு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	6	dobj	_	Translit=mārupāṭukaḷai
@@ -1371,6 +1437,7 @@
 17	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id a_tree-ta-s67-root
+# full_sent அணு மின் நிலையங்களுக்குத் தேவையான உபகரணங்களை அளிக்கும் நிறுவனங்கள் தான் அணு உலைகளில் விபத்து ஏற்பட்டால் பொறுப்பாக வேண்டும் .
 # orig_file_sentence 001#67
 1	அணு	அணு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=aṇu
 2	மின்	மின்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=min
@@ -1390,6 +1457,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id a_tree-ta-s68-root
+# full_sent இந்த நிபந்தனை 80 ஆண்டுகளுக்குப் பொருந்தும் என்று இந்திய நாடாளுமன்றத்தில் நிறைவேற்றப்பட்ட இழப்பீட்டு மசோதாவில் குறிப்பிடப்பட்டுள்ளது .
 # orig_file_sentence 001#68
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	நிபந்தனை	நிபந்தனை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	dobj	_	Translit=nipantanai
@@ -1408,6 +1476,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s69-root
+# full_sent இது சர்வதேச விதிமுறைகளைக் காட்டிலும் முற்றிலும் மாறுபட்டுள்ளது .
 # orig_file_sentence 001#69
 1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=itu
 2	சர்வதேச	சர்வதேசம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=carvatēca
@@ -1419,6 +1488,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id a_tree-ta-s70-root
+# full_sent எனவே சர்வதேச விதிமுறைகள் படி இந்தியா மாற்றம் செய்ய வேண்டும் என்று அந்த அறிக்கை தெரிவித்துள்ளது .
 # orig_file_sentence 001#70
 1	எனவே	எனவே	ADV	AA-------	_	7	advmod	_	Translit=enavē
 2	சர்வதேச	சர்வதேசம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=carvatēca
@@ -1436,6 +1506,7 @@
 14	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s71-root
+# full_sent அமெரிக்காவின் முன்னாள் அரசியல் விவகாரத்துறை இணையமைச்சர் நிகோலஸ் பர்ன்ஸ் மற்றும் முன்னாள் வெளியுறவுத்துறை துணையமைச்சர் ரிச்சர் ஆர்மிடேஜ் மற்றும் பேராசிரியர் ரிச்சர்ட் ஃபோன்டெய்ன் ஆகியோர் சேர்ந்து தயாரித்த அறிக்கையில் இத்தகவல் வெளியாகியுள்ளது .
 # orig_file_sentence 001#71
 1	அமெரிக்காவின்	அமெரிக்கா	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=amerikkāvin
 2	முன்னாள்	முன்னாள்	ADJ	JJ-------	_	3	amod	_	Translit=munnāḷ
@@ -1464,6 +1535,7 @@
 25	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id a_tree-ta-s72-root
+# full_sent இந்தியா-அமெரிக்கா இடையிலான அணுசக்தி ஒப்பந்தம் Kஉறித்தும், இந்த ஒப்பந்தத்தால் இரு நாடுகள் இடையிலான உறவு எந்த அளவுக்கு மேம்படும் என்பது Kஉறித்தும் அறிக்கை தயாரித்துள்ளனர் .
 # orig_file_sentence 001#72
 1	இந்தியா-அமெரிக்கா	இந்தியா-அமெரிக்கா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=intiyā-amerikkā
 2	இடையில்	இடை	ADP	PP-------	AdpType=Post	1	case	_	Translit=iṭaiyil
@@ -1492,6 +1564,7 @@
 25	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id a_tree-ta-s73-root
+# full_sent இரு நாடுகள் இடையிலான ஒப்பந்தத்தை சரிவர நிறைவேற்றா விடில் அதனால் இரு நாடுகள் இடையிலான உறவு கடுமையாக பாதிக்கப்படும் .
 # orig_file_sentence 001#73
 1	இரு	இரு	NUM	Ux-------	NumType=Card	2	nummod	_	Translit=iru
 2	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod	_	Translit=nāṭukaḷ
@@ -1513,6 +1586,7 @@
 18	.	.	PUNCT	Z#-------	PunctType=Peri	16	punct	_	Translit=.
 
 # sent_id a_tree-ta-s74-root
+# full_sent இதனால் அமெரிக்காவும், இந்தியாவும் அணு சக்தி ஒப்பந்தத்தில் சர்வதேச அளவில் வகுக்கப்பட்டுள்ள நடைமுறைகளை சரிவர பின்பற்ற வேண்டும் என்றும் அறிக்கையில் குறிப்பிடப்பட்டுள்ளது .
 # orig_file_sentence 001#74
 1	இதனால்	இதனால்	ADV	AA-------	_	17	advmod	_	Translit=itanāl
 2	அமெரிக்காவ்	அமெரிக்காவ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nsubj	_	Translit=amerikkāv
@@ -1541,6 +1615,7 @@
 25	.	.	PUNCT	Z#-------	PunctType=Peri	22	punct	_	Translit=.
 
 # sent_id a_tree-ta-s75-root
+# full_sent சமீபத்தில் இந்திய நாடாளுமன்றத்தில் நிறைவேற்றப்பட்ட அணு விபத்து இழப்பீட்டு மசோதா, சர்வதேச தரத்திலிருந்து அதிகமாக மாறுபடுகிறது .
 # orig_file_sentence 001#75
 1	சமீபத்தில்	சமீபம்	ADV	AA-------	_	4	advmod	_	Translit=camīpattil
 2	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=intiya
@@ -1559,6 +1634,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id a_tree-ta-s76-root
+# full_sent அணு உலைகளுக்கு உதிரி பாகங்களை சப்ளை செய்யும் நிறுவனங்கள் தான் விபத்து ஏற்பட்டால் பொறுப்பேற்க வேண்டும் என்றும், இது 80 ஆண்டுகளுக்குப் பொருந்தும் என்றும் தெரிவித்துள்ளது .
 # orig_file_sentence 001#76
 1	அணு	அணு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=aṇu
 2	உலைகளுக்கு	உலை	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	6	dobj	_	Translit=ulaikaḷukku
@@ -1586,6 +1662,7 @@
 24	.	.	PUNCT	Z#-------	PunctType=Peri	22	punct	_	Translit=.
 
 # sent_id a_tree-ta-s77-root
+# full_sent இது அமெரிக்க நிறுவனங்களை மிகுந்த ஏமாற்றத்துக்குள்ளாக்கியுள்ளது .
 # orig_file_sentence 001#77
 1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=itu
 2	அமெரிக்க	அமெரிக்கா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=amerikka
@@ -1596,6 +1673,7 @@
 7	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id a_tree-ta-s78-root
+# full_sent எனவே இந்தப் பிரச்னையைத் தீர்க்க இந்தியா உடனடியாக நடவடிக்கை எடுக்க வேண்டும் .
 # orig_file_sentence 001#78
 1	எனவே	எனவே	ADV	AA-------	_	8	advmod	_	Translit=enavē
 2	இந்தப்	இந்த	DET	DD-------	_	3	det	_	Translit=intap
@@ -1609,6 +1687,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s79-root
+# full_sent இதை நிறைவேற்றா விட்டால் இரு நாடுகள் இடையே மேற்கொள்ளப்பட்ட மிக முக்கியமான ஒப்பந்தம் செயல்படாமல் போவதோடு, அரசியல் ரீதியில் இரு நாடுகள் இடையே பெரும் விரிசல் ஏற்படுவதற்கான வாய்ப்பு உள்ளது என்றும் அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது .
 # orig_file_sentence 001#79
 1	இதை	இது	PRON	RpA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	dobj	_	Translit=itai
 2	நிறைவேற்றா	நிறைவேற்று	VERB	Vt-T----N	Negative=Neg|VerbForm=Part	29	advcl	_	Translit=niraivērrā
@@ -1617,7 +1696,7 @@
 5	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	nmod	_	Translit=nāṭukaḷ
 6	இடையே	இடையே	ADP	PP-------	AdpType=Post	5	case	_	Translit=iṭaiyē
 7	மேற்கொள்ளப்பட்ட	மேற்கொள்	ADJ	Jd-D----A	Negative=Pos|Tense=Past|VerbForm=Part	10	amod	_	Translit=mērkoḷḷappaṭṭa
-8	மிக	மிக	DET	QQ-------	NumType=Card	9	det	_	Translit=mika
+8	மிக	மிக	DET	QQ-------	NumType=Card	9	amod	_	Translit=mika
 9	முக்கியமான	முக்கியம்	ADJ	JJ-------	_	10	amod	_	Translit=mukkiyamāna
 10	ஒப்பந்தம்	ஒப்பந்தம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nsubj	_	Translit=oppantam
 11	செயல்படாமல்	செயல்படு	VERB	Vt-T----N	Negative=Neg|VerbForm=Part	12	advcl	_	Translit=ceyalpaṭāmal
@@ -1644,6 +1723,7 @@
 32	.	.	PUNCT	Z#-------	PunctType=Peri	29	punct	_	Translit=.
 
 # sent_id a_tree-ta-s80-root
+# full_sent அணு விபத்து இழப்பீடு மசோதாவில் மாற்றங்கள் செய்து எஞ்சிய பிற அணு ஆயுத பரவல் நிபந்தனைகளையும் இந்தியா நிறைவேற்றினால் அது இந்தியாவுக்கு வரலாற்று ரீதியில் மிகப் பெரிய சாதனையாக இருக்கும் என்றும் குறிப்பிடப்பட்டுள்ளது .
 # orig_file_sentence 001#80
 1	அணு	அணு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=aṇu
 2	விபத்து	விபத்து	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=vipattu
@@ -1664,7 +1744,7 @@
 17	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	22	dobj	_	Translit=intiyāvukku
 18	வரலாற்று	வரலாறு	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	19	nmod	_	Translit=varalārru
 19	ரீதியில்	ரீதி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	22	nmod	_	Translit=rītiyil
-20	மிகப்	மிக	DET	QQ-------	NumType=Card	21	det	_	Translit=mikap
+20	மிகப்	மிக	DET	QQ-------	NumType=Card	21	amod	_	Translit=mikap
 21	பெரிய	பெரிய	ADJ	JJ-------	_	22	amod	_	Translit=periya
 22	சாதனையாக	சாதனை	ADV	AA-------	_	23	advmod	_	Translit=cātanaiyāka
 23	இருக்கும்	இரு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	26	ccomp	_	Translit=irukkum
@@ -1676,6 +1756,7 @@
 29	.	.	PUNCT	Z#-------	PunctType=Peri	26	punct	_	Translit=.
 
 # sent_id a_tree-ta-s81-root
+# full_sent அமெரிக்காவின் முன்னாள் அதிபர் ஜார்ஜ் புஷ் அமைச்சரவையில் மிக முக்கியமானவர்களில் ஒருவரான நிகோலஸ் பர்ன்ஸ், இரு நாடுகள் இடையிலான அணு சக்தி ஒப்பந்தம் கையெழுத்தாவதில் மிகுந்த தீவிரம் காட்டினார் .
 # orig_file_sentence 001#81
 1	அமெரிக்காவின்	அமெரிக்கா	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=amerikkāvin
 2	முன்னாள்	முன்னாள்	ADJ	JJ-------	_	3	amod	_	Translit=munnāḷ
@@ -1683,7 +1764,7 @@
 4	ஜார்ஜ்	ஜார்ஜ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=jārj
 5	புஷ்	புஷ்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	6	nmod	_	Translit=puṣ
 6	அமைச்சரவையில்	அமைச்சரவை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	nmod	_	Translit=amaiccaravaiyil
-7	மிக	மிக	DET	QQ-------	NumType=Card	8	det	_	Translit=mika
+7	மிக	மிக	DET	QQ-------	NumType=Card	8	amod	_	Translit=mika
 8	முக்கியமானவர்களில்	முக்கியமானவர்	NOUN	NNL-3PA--	Animacy=Anim|Case=Loc|Gender=Com|Number=Plur|Person=3	9	nmod	_	Translit=mukkiyamānavarkaḷil
 9	ஒருவர்	ஒருவர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	10	nmod	_	Translit=oruvar
 10	ஆன	ஆன	PART	Tg-------	_	12	nmod	_	Translit=āna
@@ -1704,6 +1785,7 @@
 25	.	.	PUNCT	Z#-------	PunctType=Peri	24	punct	_	Translit=.
 
 # sent_id a_tree-ta-s82-root
+# full_sent இந்தியா கொண்டு வந்துள்ள அணு விபத்து இழப்பீட்டு மசோதாவால், இரு நாடுகள் இடையிலான அணுசக்தி ஒப்பந்தம் நிறைவேற்றுவதில் சந்தேகமான நிலை உருவாகியுள்ளது என்றும் அவர் குறிப்பிட்டுள்ளார் .
 # orig_file_sentence 001#82
 1	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj	_	Translit=intiyā
 2	கொண்டு	கொள்	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	4	advcl	_	Translit=koṇṭu
@@ -1733,6 +1815,7 @@
 26	.	.	PUNCT	Z#-------	PunctType=Peri	24	punct	_	Translit=.
 
 # sent_id a_tree-ta-s83-root
+# full_sent இந்திய-அமெரிக்க அணுசக்தி உடன்பாடு இருவழிச் சாலை போன்றது .
 # orig_file_sentence 001#83
 1	இந்திய-அமெரிக்க	இந்திய-அமெரிக்கா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=intiya-amerikka
 2	அணுசக்தி	அணுசக்தி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=aṇucakti
@@ -1743,6 +1826,7 @@
 7	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id a_tree-ta-s84-root
+# full_sent இதை நிறைவேற்றுவதில் இந்தியாவுக்கும் சில சங்கடங்கள் உள்ளன என்பதையும் உணர்ந்துள்ளதாக அவர் குறிப்பிட்டார் .
 # orig_file_sentence 001#84
 1	இதை	இது	PRON	RpA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	dobj	_	Translit=itai
 2	நிறைவேற்றுவதில்	நிறைவேற்று	VERB	VzLF3SNAA	Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act	7	advcl	_	Translit=niraivērruvatil
@@ -1761,6 +1845,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id a_tree-ta-s85-root
+# full_sent அணுசக்தி ஒப்பந்தத்தை அமல்படுத்தும் போது, புதிதாக அணுசக்தி மசோதாவை கொண்டு வரலாம் .
 # orig_file_sentence 001#85
 1	அணுசக்தி	அணுசக்தி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=aṇucakti
 2	ஒப்பந்தத்தை	ஒப்பந்தம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	dobj	_	Translit=oppantattai
@@ -1776,6 +1861,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s86-root
+# full_sent ராணுவ தளவாட தயாரிப்பில் நிலவும் தடைகளை நீக்க வேண்டும் .
 # orig_file_sentence 001#86
 1	ராணுவ	ராணுவம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=rāṇuva
 2	தளவாட	தளவாடம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=taḷavāṭa
@@ -1787,6 +1873,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id a_tree-ta-s87-root
+# full_sent காப்புரிமை தொடர்பான விதிமீறல் விவரங்களை பேசித் தீர்த்துக் கொள்ளலாம் என்றும் பர்ன்ஸ் குறிப்பிட்டுள்ளார் .
 # orig_file_sentence 001#87
 1	காப்புரிமை	காப்புரிமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=kāppurimai
 2	தொடர்பான	தொடர்பு	ADJ	JJ-------	_	4	amod	_	Translit=toṭarpāna
@@ -1804,6 +1891,7 @@
 14	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s88-root
+# full_sent அமெரிக்கா, நார்வேயில் உள்ள புலிகள் மீண்டும் ஒருங்கிணைய முயற்சி செய்து வருகின்றனர் என்று இலங்கை பிரதமர் டி.எம். ஜெயரத்ன கூறினார் .
 # orig_file_sentence 001#88
 1	அமெரிக்கா	அமெரிக்கா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=amerikkā
 2	,	,	PUNCT	Z:-------	PunctType=Comm	1	punct	_	Translit=,
@@ -1824,6 +1912,7 @@
 17	.	.	PUNCT	Z#-------	PunctType=Peri	16	punct	_	Translit=.
 
 # sent_id a_tree-ta-s89-root
+# full_sent இலங்கை நாடாளுமன்றத்தில் புதன்கிழமை நடைபெற்ற விவாதத்தில் கலந்து கொண்டு ஜெயரத்ன பேசியதாவது : .
 # orig_file_sentence 001#89
 1	இலங்கை	இலங்கை	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=ilaṅkai
 2	நாடாளுமன்றத்தில்	நாடாளுமன்றம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=nāṭāḷumanrattil
@@ -1839,6 +1928,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s90-root
+# full_sent கடந்த ஆண்டு முள்ளிவாய்க்காலில் நடந்த இறுதிப் போரில் ராணுவம் வெற்றி பெற்றது .
 # orig_file_sentence 001#90
 1	கடந்த	கடந்த	ADJ	JJ-------	_	2	amod	_	Translit=kaṭanta
 2	ஆண்டு	ஆண்டு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=āṇṭu
@@ -1852,6 +1942,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s91-root
+# full_sent இந்த நிலையில் அமெரிக்கா மற்றும் நார்வேயில் உள்ள புலிகள் அமைப்பைச் சேர்ந்தவர்கள் மீண்டும் ஒருங்கிணைய முயற்சித்து வருகின்றனர் .
 # orig_file_sentence 001#91
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	நிலையில்	நிலை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	12	nmod	_	Translit=nilaiyil
@@ -1869,6 +1960,7 @@
 14	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.
 
 # sent_id a_tree-ta-s92-root
+# full_sent அமெரிக்கா, நார்வேயில் உள்ள புலிகள் படை தலைவர்கள், புலிகள் புலனாய்வுப் பிரிவை மீண்டும் ஏற்படுத்த முயற்சித்து வருகின்றனர் .
 # orig_file_sentence 001#92
 1	அமெரிக்கா	அமெரிக்கா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	_	Translit=amerikkā
 2	,	,	PUNCT	Z:-------	PunctType=Comm	1	punct	_	Translit=,
@@ -1888,6 +1980,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id a_tree-ta-s93-root
+# full_sent அது மட்டுமல்லாமல் ஆயுதப் பிரிவையும் ஏற்படுத்த அவர்கள் முயற்சித்து வருகின்றனர் .
 # orig_file_sentence 001#93
 1	அது	அது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Translit=atu
 2	மட்டுமல்லாமல்	மட்டுமல்லாமல்	ADV	AA-------	_	8	advmod	_	Translit=maṭṭumallāmal
@@ -1901,6 +1994,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s94-root
+# full_sent இலங்கையில் தனியாக ஒரு மாநிலத்தை அமைக்கும் அவர்களது திட்டத்துக்காக இதைச் செய்து வருகின்றனர் .
 # orig_file_sentence 001#94
 1	இலங்கையில்	இலங்கை	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=ilaṅkaiyil
 2	தனியாக	தனி	ADV	AA-------	_	5	advmod	_	Translit=taniyāka
@@ -1916,6 +2010,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id a_tree-ta-s95-root
+# full_sent நார்வே, அமெரிக்காவில் உள்ள புலிகள் பிரிவின் 2 தலைவர்களும் இந்த காரியத்தில் மும்முரமாக ஈடுபட்டு வருகின்றனர் .
 # orig_file_sentence 001#95
 1	நார்வே	நார்வே	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=nārvē
 2	,	,	PUNCT	Z:-------	PunctType=Comm	1	punct	_	Translit=,
@@ -1934,6 +2029,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id a_tree-ta-s96-root
+# full_sent சமீபத்தில் புலிகள் பயன்படுத்தி வந்த வெடிபொருட்கள் அடங்கிய ஜாக்கெட்டுகள் கைப்பற்றப்பட்டுள்ளன .
 # orig_file_sentence 001#96
 1	சமீபத்தில்	சமீபம்	ADV	AA-------	_	8	advmod	_	Translit=camīpattil
 2	புலிகள்	புலி	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	3	nsubj	_	Translit=pulikaḷ
@@ -1948,6 +2044,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s97-root
+# full_sent சாதாரணமாக புலிகளின் தற்கொலைப் படையைச் சேர்ந்தவர்கள் இந்த ஜாக்கெட்டுகளை அணிந்து கொண்டு மனித வெடிகுண்டாக மாறி தாக்குதல் நடத்துவர் .
 # orig_file_sentence 001#97
 1	சாதாரணமாக	சாதாரணம்	ADV	AA-------	_	15	advmod	_	Translit=cātāraṇamāka
 2	புலிகளின்	புலி	NOUN	NNG-3PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3	4	nmod	_	Translit=pulikaḷin
@@ -1967,6 +2064,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id a_tree-ta-s98-root
+# full_sent இந்த வெடிகுண்டு ஜாக்கெட்டுகளை சமீபத்தில் பாதுகாப்புப் படையினர் கண்டறிந்து செயலிழக்கச் செய்துள்ளனர் .
 # orig_file_sentence 001#98
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	வெடிகுண்டு	வெடிகுண்டு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=veṭikuṇṭu
@@ -1981,6 +2079,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s99-root
+# full_sent தோற்கடிக்கப்பட்ட புலிகளின் தலைவர்கள் இதுபோன்ற காரியங்களில் ஈடுபட்டு வருகின்றனர் என்றார் அவர் .
 # orig_file_sentence 001#99
 1	தோற்கடிக்கப்பட்ட	தோற்கடி	ADJ	Jd-D----A	Negative=Pos|Tense=Past|VerbForm=Part	3	amod	_	Translit=tōrkaṭikkappaṭṭa
 2	புலிகளின்	புலி	NOUN	NNG-3PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3	3	nmod	_	Translit=pulikaḷin
@@ -1994,6 +2093,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s1-root
+# full_sent ஆனால் புலிகள் அமைப்பை ஒருங்கிணைக்க முயற்சித்து வரும் தலைவர்களின் பெயர்களை அவர் நாடாளுமன்றத்தில் குறிப்பிடவில்லை .
 # orig_file_sentence 002#1
 1	ஆனால்	ஆனால்	ADV	AA-------	_	11	advmod	_	Translit=ānāl
 2	புலிகள்	புலி	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	3	nmod	_	Translit=pulikaḷ
@@ -2010,6 +2110,7 @@
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id a_tree-ta-s2-root
+# full_sent கடந்த ஆண்டு நடந்த போருக்குப் பின்னர் புலிகள் எந்தவிதத் தாக்குதலையும் நடத்தவில்லை .
 # orig_file_sentence 002#2
 1	கடந்த	கடந்த	ADJ	JJ-------	_	2	amod	_	Translit=kaṭanta
 2	ஆண்டு	ஆண்டு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	dobj	_	Translit=āṇṭu
@@ -2024,6 +2125,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s3-root
+# full_sent இந்த நிலையில் புலிகள் என்று சந்தேகிக்கப்படும் நபர்களை இலங்கை ராணுவத்தினர் கைது செய்து சிறையில் அடைத்து வருகின்றனர் .
 # orig_file_sentence 002#3
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	நிலையில்	நிலை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	13	nmod	_	Translit=nilaiyil
@@ -2042,6 +2144,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id a_tree-ta-s4-root
+# full_sent அவசர நிலை பிரகடன சட்டத்தை இலங்கை அரசு அமல்படுத்தி வருகிறது .
 # orig_file_sentence 002#4
 1	அவசர	அவசரம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=avacara
 2	நிலை	நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=nilai
@@ -2054,6 +2157,7 @@
 9	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s5-root
+# full_sent இந்த சட்டத்துக்கு சர்வதேச அளவில் எதிர்ப்பு இருந்தும் கூட அதை அரசு அமல்படுத்தி வருகிறது .
 # orig_file_sentence 002#5
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta
 2	சட்டத்துக்கு	சட்டம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	5	nsubj	_	Translit=caṭṭattukku
@@ -2070,6 +2174,7 @@
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id a_tree-ta-s6-root
+# full_sent எதிர்க்கட்சி அரசியல் தலைவர்களை பயமுறுத்துவதற்காக இதை ஆளும் கட்சி பயன்படுத்தி வருகிறது என்று எதிர்க்கட்சிகள் குற்றம்சாட்டியுள்ளன .
 # orig_file_sentence 002#6
 1	எதிர்க்கட்சி	எதிர்க்கட்சி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=etirkkaṭci
 2	அரசியல்	அரசியல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=araciyal
@@ -2088,6 +2193,7 @@
 15	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id a_tree-ta-s7-root
+# full_sent ஐ.நா. அமைப்பில் சீர்திருத்தம் கொண்டுவரும் விஷயத்தில் செய்ய வேண்டியவை ஏராளம் உள்ளது என முன்னாள் மத்திய அமைச்சரும், ஐ.நா. அமைப்புடன் பல ஆண்டுகள் தொடர்புடையவருமான சசி தரூர் தெரிவித்தார் .
 # orig_file_sentence 002#7
 1	ஐ.நா.	ஐ.நா.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=ai.nā.
 2	அமைப்பில்	அமைப்பு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=amaippil
@@ -2117,6 +2223,7 @@
 26	.	.	PUNCT	Z#-------	PunctType=Peri	25	punct	_	Translit=.
 
 # sent_id a_tree-ta-s8-root
+# full_sent நாடாளுமன்ற உறுப்பினர்கள் சிலருடன் அவர் ஐ.நா. சென்றுள்ளார் .
 # orig_file_sentence 002#8
 1	நாடாளுமன்ற	நாடாளுமன்றம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=nāṭāḷumanra
 2	உறுப்பினர்கள்	உறுப்பினர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	3	nmod	_	Translit=uruppinarkaḷ
@@ -2128,6 +2235,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id a_tree-ta-s9-root
+# full_sent ஐ.நா. அமைப்பில் பல்வேறு சீர்திருத்தங்கள் கொண்டுவரப் பட வேண்டும் என இந்தியா வலியுறுத்தி வருகிறது .
 # orig_file_sentence 002#9
 1	ஐ.நா.	ஐ.நா.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=ai.nā.
 2	அமைப்பில்	அமைப்பு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=amaippil
@@ -2143,6 +2251,7 @@
 12	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id a_tree-ta-s10-root
+# full_sent ஐ.நா. அமைப்பில் சீர்திருத்தம் கொண்டு வருவது என்பது முடியாதது ஒன்றும் இல்லை .
 # orig_file_sentence 002#10
 1	ஐ.நா.	ஐ.நா.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=ai.nā.
 2	அமைப்பில்	அமைப்பு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=amaippil
@@ -2157,6 +2266,7 @@
 11	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id a_tree-ta-s11-root
+# full_sent ஆனால் அது எப்போதைக்கு சாத்தியம் என்பதை நாம் பார்க்க வேண்டும் என்றார் .
 # orig_file_sentence 002#11
 1	ஆனால்	ஆனால்	ADV	AA-------	_	7	advmod	_	Translit=ānāl
 2	அது	அது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=atu
@@ -2170,6 +2280,7 @@
 10	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id a_tree-ta-s12-root
+# full_sent இப்போது நடந்து வரும் பேச்சுகள் தூண்டுதலாக உள்ளது .
 # orig_file_sentence 002#12
 1	இப்போது	இப்போது	ADV	AA-------	_	2	advmod	_	Translit=ippōtu
 2	நடந்து	நட	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	3	advcl	_	Translit=naṭantu
@@ -2181,6 +2292,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s13-root
+# full_sent ஆனால், நடைபெறும் பேச்சுவார்த்தையையும், மாற்று யோசனைகளையும் பார்க்கும் போது சீர்திருத்த விஷயத்தில் நாம் இன்னும் எடுக்க வேண்டிய நடவடிக்கைகள் ஏராளம் உள்ளன என்றே சொல்ல வேண்டும் .
 # orig_file_sentence 002#13
 1	ஆனால்	ஆனால்	ADV	AA-------	_	23	advmod	_	Translit=ānāl
 2	,	,	PUNCT	Z:-------	PunctType=Comm	23	punct	_	Translit=,
@@ -2209,6 +2321,7 @@
 25	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id a_tree-ta-s14-root
+# full_sent 1995ல் அப்போதைய ஐ.நா. பொதுச்சபை தலைவரும் மலேசிய நாட்டவருமான ரஸôலி இஸ்மாயில் தயாரித்த வரைவு தீர்மானத்தையும் இப்போது நடக்கும் பேச்சுவார்த்தையையும் பார்க்கும் போது நாம் இந்த விஷயத்தில் மிகவும் பின்தங்கி விட்டது தெரிகிறது .
 # orig_file_sentence 002#14
 1	1995ல்	1995ல்	NUM	U=L-3SN-A	Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|NumForm=Digit|Person=3	13	dobj	_	Translit=1995l
 2	அப்போதைய	அப்போதைய	ADJ	JJ-------	_	5	advmod	_	Translit=appōtaiya
@@ -2235,13 +2348,14 @@
 23	நாம்	நாம்	PRON	RpN-1PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	27	nsubj	_	Translit=nām
 24	இந்த	இந்த	DET	DD-------	_	25	det	_	Translit=inta
 25	விஷயத்தில்	விஷயம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	27	nmod	_	Translit=viṣayattil
-26	மிகவும்	மிகவும்	PRON	QQ-------	NumType=Card	27	advmod	_	Translit=mikavum
+26	மிகவும்	மிகவும்	DET	QQ-------	NumType=Card	27	advmod	_	Translit=mikavum
 27	பின்தங்கி	பின்தங்கு	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	29	advcl	_	Translit=pintaṅki
 28	விட்டது	விடு	AUX	VR-D3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	aux	_	Translit=viṭṭatu
 29	தெரிகிறது	தெரி	VERB	Vr-P3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=terikiratu
 30	.	.	PUNCT	Z#-------	PunctType=Peri	29	punct	_	Translit=.
 
 # sent_id a_tree-ta-s15-root
+# full_sent நமது எதிர்பார்ப்புகளை நிறைவேற்றக் கூடியதாக வரைவு தீர்மானம் இருந்தது .
 # orig_file_sentence 002#15
 1	நமது	நம்	PRON	RpG-1PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=1|PronType=Prs	2	nmod	_	Translit=namatu
 2	எதிர்பார்ப்புகளை	எதிர்பார்ப்பு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	3	dobj	_	Translit=etirpārppukaḷai
@@ -2254,6 +2368,7 @@
 9	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id a_tree-ta-s16-root
+# full_sent ஆனால் அப்போது அதை நிறைவேற்ற முடியாமல் போனது .
 # orig_file_sentence 002#16
 1	ஆனால்	ஆனால்	ADV	AA-------	_	4	advmod	_	Translit=ānāl
 2	அப்போது	அப்போது	ADV	AA-------	_	4	advmod	_	Translit=appōtu
@@ -2264,6 +2379,7 @@
 7	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id a_tree-ta-s17-root
+# full_sent மேலும் அது வாக்கெடுப்புக்கும் செல்லவில்லை என்றார் தரூர் .
 # orig_file_sentence 002#17
 1	மேலும்	மேலும்	ADV	AA-------	_	5	advmod	_	Translit=mēlum
 2	அது	அது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=atu
@@ -2276,6 +2392,7 @@
 9	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s18-root
+# full_sent 1992-96ல் ஐநா பொதுச் செயலராக இருந்த புட்ரோஸ் காலி, ஐ.நா.வின் 50வது ஆண்டு விழாவுக்குள் ஐ.நா. சீர்திருத்தம் நிறைவேற்றப்படும் என்று உறுதி அளித்தார் .
 # orig_file_sentence 002#18
 1	1992-96ல்	1992-96ல்	NUM	U=L-3SN-A	Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|NumForm=Digit|Person=3	6	dobj	_	Translit=1992-96l
 2	ஐநா	ஐநா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=ainā
@@ -2301,6 +2418,7 @@
 22	.	.	PUNCT	Z#-------	PunctType=Peri	21	punct	_	Translit=.
 
 # sent_id a_tree-ta-s19-root
+# full_sent கடந்த வாரம் ஜெர்மானிய அரசு ஒரு முடிவு எதுத்தது .
 # orig_file_sentence 002#19
 1	கடந்த	கட	ADJ	JJ-------	_	2	amod	_	Translit=kaṭanta
 2	வாரம்	வாரம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	_	Translit=vāram
@@ -2312,6 +2430,7 @@
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id a_tree-ta-s20-root
+# full_sent அதாவது, நாட்டில் உள்ள அனைத்து அணுஉலைக் கூடங்களையும் படிப்படியாக 11 ஆண்டுகளில் மூடி விட வேண்டும் .
 # orig_file_sentence 002#20
 1	அதாவது	அதாவது	ADV	AA-------	_	13	advmod	_	Translit=atāvatu
 2	,	,	PUNCT	Z:-------	PunctType=Comm	13	punct	_	Translit=,
@@ -2331,6 +2450,7 @@
 16	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id a_tree-ta-s21-root
+# full_sent 2022-ம் ஆண்டில் gஎர்மனியில் அணுஉலைக் கூடங்களே இல்லாத நிலை ஏற்பட வேண்டும் என்பது தான் அது .
 # orig_file_sentence 002#21
 1	2022-ம்	2022	ADJ	Uy-------	NumType=Ord	2	amod	_	Translit=2022-m
 2	ஆண்டில்	ஆண்டு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	nmod	_	Translit=āṇṭil
