@@ -5,11 +5,11 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>600</sentences><tokens>9581</tokens><words>9581</words><fused>0</fused></total>
+    <total><sentences>600</sentences><tokens>8635</tokens><words>9581</words><fused>835</fused></total>
   </size>
   <lemmas unique="2023" /><!-- ., ,, உள், உம், என், படு, இரு, ஆகு, அவர், இந்தியா, தெரிவி, செய், ஆக, ஆன, நாடு -->
   <forms unique="3583" /><!-- ., ,, உம், ஆக, உள்ளது, ஆன, என்று, உள்ள, அவர், பட்ட், வேண்டும், இந்த, மற்றும், அரசு, நாடுகள் -->
-  <fusions unique="0" /><!--  -->
+  <fusions unique="620" /><!-- என்றும், இடையிலான, செயலாளராக, தெரிவிக்கப்பட்டுள்ளது, தெரிவித்துள்ளது, தெரிவித்துள்ளார், குறிப்பிடத்தக்கது, வெளியிட்டுள்ள, இடத்தையும், Kஉறித்தும், பேருக்கும், பாதிக்கப்படும், குறிப்பிடப்பட்டுள்ளது, காரணமாக, கூறியுள்ளார் -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="14">
     <tag name="ADJ">682</tag><!-- உள், மத்திய, இரு, ஒரு, நடைபெறு, உள்ளிடு, கடந்த, வரு, புதிய, வா -->
