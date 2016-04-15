@@ -7,8 +7,8 @@
   <size>
     <total><sentences>600</sentences><tokens>9581</tokens><words>9581</words><fused>0</fused></total>
   </size>
-  <lemmas unique="2023" /><!-- ., ,, உள், உம், என், படு, இரு, ஆகு, அவர், இந்தியா, தெரிவி, செய், ஆன, ஆக, நாடு -->
-  <forms unique="3583" /><!-- ., ,, உம், ஆக, உள்ளது, ஆன, என்று, உள்ள, அவர், பட்ட், வேண்டும், இந்த, மற்றும், நாடுகள், அரசு -->
+  <lemmas unique="2023" /><!-- ., ,, உள், உம், என், படு, இரு, ஆகு, அவர், இந்தியா, தெரிவி, செய், ஆக, ஆன, நாடு -->
+  <forms unique="3583" /><!-- ., ,, உம், ஆக, உள்ளது, ஆன, என்று, உள்ள, அவர், பட்ட், வேண்டும், இந்த, மற்றும், அரசு, நாடுகள் -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="14">
@@ -75,7 +75,7 @@
   <deps unique="27">
     <dep name="acl">35</dep>
     <dep name="advcl">357</dep>
-    <dep name="advmod">429</dep>
+    <dep name="advmod">435</dep>
     <dep name="advmod:emph">232</dep>
     <dep name="amod">667</dep>
     <dep name="appos">7</dep>
@@ -92,7 +92,7 @@
     <dep name="dobj">652</dep>
     <dep name="iobj">37</dep>
     <dep name="mark">285</dep>
-    <dep name="nmod">2845</dep>
+    <dep name="nmod">2839</dep>
     <dep name="nsubj">665</dep>
     <dep name="nsubjpass">1</dep>
     <dep name="nummod">218</dep>

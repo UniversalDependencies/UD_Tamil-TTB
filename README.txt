@@ -27,6 +27,13 @@ http://ufal.mff.cuni.cz/interset ... Interset was used to convert POS tags and f
   url       = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 }
 
+
+Changelog
+
+2016-05-15 v1.3
+  * Added Latin transliteration of lemmas and full sentences.
+
+
 === Machine-readable metadata =================================================
 Documentation status: stub
 Data source: automatic
