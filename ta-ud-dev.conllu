@@ -242,8 +242,8 @@
 3	உறுப்பினர்	உறுப்பினர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	2	cc	_	Translit=uruppinar|LTranslit=uruppinar
 4	என்ற	என்	PART	Td-D----A	Negative=Pos|Tense=Past|VerbForm=Part	1	mark	_	Translit=enra|LTranslit=en
 5	முறையில்	முறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	19	nmod	_	Translit=muraiyil|LTranslit=murai
-6	முதல்வர்	முதல்வர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	8	cc	_	Translit=mutalvar|LTranslit=mutalvar
-7	என்கிற	என்	PART	Td-P----A	Negative=Pos|Tense=Pres|VerbForm=Part	6	mark	_	Translit=enkira|LTranslit=en
+6	முதல்வர்	முதல்வர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	7	mark	_	Translit=mutalvar|LTranslit=mutalvar
+7	என்கிற	என்	PART	Td-P----A	Negative=Pos|Tense=Pres|VerbForm=Part	8	mark	_	Translit=enkira|LTranslit=en
 8	நிலையில்	நிலை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	19	nmod	_	Translit=nilaiyil|LTranslit=nilai
 9	அந்தக்	அந்த	DET	DD-------	_	10	det	_	Translit=antak|LTranslit=anta
 10	கடமையை	கடமை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	11	dobj	_	Translit=kaṭamaiyai|LTranslit=kaṭamai

@@ -33,6 +33,7 @@ Changelog
 2016-05-15 v1.3
   * Added Latin transliteration of lemmas and full sentences.
   * Added orthographic words (surface tokens) and their mapping to nodes.
+  * Improved conversion of AuxY.
 
 
 === Machine-readable metadata =================================================

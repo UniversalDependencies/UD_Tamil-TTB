@@ -81,7 +81,7 @@
     <dep name="appos">7</dep>
     <dep name="aux">602</dep>
     <dep name="case">267</dep>
-    <dep name="cc">114</dep>
+    <dep name="cc">113</dep>
     <dep name="ccomp">166</dep>
     <dep name="compound">13</dep>
     <dep name="compound:prt">1</dep>
@@ -91,7 +91,7 @@
     <dep name="det">109</dep>
     <dep name="dobj">652</dep>
     <dep name="iobj">37</dep>
-    <dep name="mark">285</dep>
+    <dep name="mark">286</dep>
     <dep name="nmod">2839</dep>
     <dep name="nsubj">665</dep>
     <dep name="nsubjpass">1</dep>
