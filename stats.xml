@@ -16,7 +16,7 @@
     <tag name="ADP">288</tag><!-- ஆகு, உடன், குறி, இலிருந்து, மீது, இரு, மூலம், சார்பு, போல், உள் -->
     <tag name="ADV">381</tag><!-- ஆகு, இன்று, மேலும், ஆனால், பின்னர், இதனால், இது, இதுகுறித்து, ஏற்கெனவே, இதுவரை -->
     <tag name="AUX">627</tag><!-- உள், படு, வேண்டு, இரு, வரு, கொள், இல், செய், விடு, வா -->
-    <tag name="CONJ">46</tag><!-- மற்றும், அல்லது -->
+    <tag name="CCONJ">46</tag><!-- மற்றும், அல்லது -->
     <tag name="DET">108</tag><!-- இந்த, அந்த, எந்த, மிக, அதிகம், அந்தந்த, ஒரு -->
     <tag name="NOUN">2753</tag><!-- அரசு, நாடு, ஆண்டு, தலைவர், மக்கள், இடம், பேர், கட்சி, செயலாளர், முதல்வர் -->
     <tag name="NUM">252</tag><!-- இரு, ஆயிரம், 2, லட்சம், மூன்று, 10, ஒன்று, 20, இரண்டு, கோடி -->
@@ -44,8 +44,6 @@
     <feat name="Mood" value="Cnd" upos="AUX,PART,VERB">28</feat><!-- இருந்தால், விட்டால், ஆனால், உடைத்தால், ஏற்பட்டால், கட்டினால், பட்டால், பெற்றால், வந்தால், இருப்பின் -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- இருங்கள் -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">718</feat><!-- உள்ளது, வேண்டும், உள்ளார், இல்லை, உள்ளனர், தெரிவித்தார், பட்டது, உள்ளன, என்றார், இருந்தது -->
-    <feat name="Negative" value="Neg" upos="ADJ,AUX,VERB">35</feat><!-- முடியாது, கூடாது, இல்லாமல், செயல்படாமல், செய்யாத, தரா, நிறைவேற்றா, மாட்டாது, அல்லாத, எடுக்காத -->
-    <feat name="Negative" value="Pos" upos="ADJ,AUX,NOUN,NUM,PART,VERB">2294</feat><!-- உள்ளது, என்று, பட்ட், உள்ள, வேண்டும், உள்ளார், இல்லை, என, என்ற், பட்டது -->
     <feat name="Number" value="Plur" upos="AUX,NOUN,PRON,PROPN,VERB">909</feat><!-- நாடுகள், இல்லை, உள்ளனர், பேர், மக்கள், உள்ளன, அதிகாரிகள், வருகின்றனர், அனைவரும், அவர்கள் -->
     <feat name="Number" value="Sing" upos="AUX,NOUN,NUM,PART,PRON,PROPN,VERB">4395</feat><!-- உள்ளது, அவர், வேண்டும், அரசு, இந்தியா, உள்ளார், தலைவர், பட்டது, செயலாளர், தெரிவித்தார் -->
     <feat name="NumForm" value="Digit" upos="NUM">149</feat><!-- 2, 10, 20, 3, 80, 16, 4, 5, 50, 6 -->
@@ -54,7 +52,9 @@
     <feat name="Person" value="1" upos="AUX,PRON,VERB">68</feat><!-- நான், உள்ளோம், எனது, நாம், உள்ளேன், தனக்கு, நாங்கள், போராடுவோம், எனக்கு, கொள்கிறேன் -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">12</feat><!-- நீங்கள், அஞ்சுகிறீர்கள், இருக்கிறீர்கள், இருங்கள், உங்களுக்கு, உங்களைச், உங்கள், கவலைப்படாதீர்கள், வருகிறீர்கள், விரும்புகிறீர்கள் -->
     <feat name="Person" value="3" upos="AUX,NOUN,NUM,PART,PRON,PROPN,VERB">5224</feat><!-- உள்ளது, அவர், வேண்டும், அரசு, நாடுகள், இந்தியா, உள்ளார், இல்லை, தலைவர், பட்டது -->
-    <feat name="Polite" value="Pol" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">798</feat><!-- அவர், உள்ளார், தலைவர், செயலாளர், தெரிவித்தார், முதல்வர், என்றார், அமைச்சர், அதிபர், உறுப்பினர் -->
+    <feat name="Polarity" value="Neg" upos="ADJ,AUX,VERB">35</feat><!-- முடியாது, கூடாது, இல்லாமல், செயல்படாமல், செய்யாத, தரா, நிறைவேற்றா, மாட்டாது, அல்லாத, எடுக்காத -->
+    <feat name="Polarity" value="Pos" upos="ADJ,AUX,NOUN,NUM,PART,VERB">2294</feat><!-- உள்ளது, என்று, பட்ட், உள்ள, வேண்டும், உள்ளார், இல்லை, என, என்ற், பட்டது -->
+    <feat name="Polite" value="Form" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">798</feat><!-- அவர், உள்ளார், தலைவர், செயலாளர், தெரிவித்தார், முதல்வர், என்றார், அமைச்சர், அதிபர், உறுப்பினர் -->
     <feat name="PronType" value="Ind" upos="PRON">8</feat><!-- யாரும், எதுவும், யாருக்கும், யாரையும் -->
     <feat name="PronType" value="Int" upos="PRON">6</feat><!-- யார், எத்தகையது, ஏத், யாருடைய -->
     <feat name="PronType" value="Prs" upos="PRON">222</feat><!-- அவர், இது, அனைவரும், அவர்கள், தனது, அது, அதை, நான், அவரது, அவர்களை -->
@@ -72,7 +72,7 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">155</feat><!-- பட்ட், பட்டது, பட்டு, ப்படும், படுகிறது, ப்பட, படவ், படுகின்றனர், பட்டதற்கு, பட்டனர் -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="27">
+  <deps unique="28">
     <dep name="acl">35</dep>
     <dep name="advcl">357</dep>
     <dep name="advmod">435</dep>
@@ -89,13 +89,14 @@
     <dep name="cop">1</dep>
     <dep name="csubj">11</dep>
     <dep name="det">109</dep>
-    <dep name="dobj">652</dep>
     <dep name="iobj">37</dep>
     <dep name="mark">286</dep>
-    <dep name="nmod">2839</dep>
+    <dep name="nmod">1985</dep>
     <dep name="nsubj">665</dep>
-    <dep name="nsubjpass">1</dep>
+    <dep name="nsubj:pass">1</dep>
     <dep name="nummod">218</dep>
+    <dep name="obj">652</dep>
+    <dep name="obl">854</dep>
     <dep name="parataxis">5</dep>
     <dep name="punct">1000</dep>
     <dep name="root">600</dep>
