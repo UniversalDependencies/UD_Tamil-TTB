@@ -1,6 +1,6 @@
-# sent_id s1/ta
-# full_sent சாதாரண , சாமானிய ஏழையெளிய மக்களுக்கு மனசாட்சிக்கு விரோதம் இல்லாமல் , அனைவரும் பாடுபட வேண்டும் .
-# full_sent_translit cātāraṇa , cāmāniya ēlaiyeḷiya makkaḷukku manacāṭcikku virōtam illāmal , anaivarum pāṭupaṭa vēṇṭum .
+# sent_id = dev-s1/ta
+# text = சாதாரண, சாமானிய ஏழையெளிய மக்களுக்கு மனசாட்சிக்கு விரோதம் இல்லாமல், அனைவரும் பாடுபட வேண்டும்.
+# translit = cātāraṇa, cāmāniya ēlaiyeḷiya makkaḷukku manacāṭcikku virōtam illāmal, anaivarum pāṭupaṭa vēṇṭum.
 # orig_file_sentence 001#1
 1	சாதாரண	சாதாரணம்	ADJ	JJ-------	_	5	amod	_	SpaceAfter=No|Translit=cātāraṇa|LTranslit=cātāraṇam
 2	,	,	PUNCT	Z:-------	PunctType=Comm	3	punct	_	Translit=,|LTranslit=,
@@ -16,9 +16,9 @@
 12	வேண்டும்	வேண்டு	AUX	VR-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	11	aux	_	SpaceAfter=No|Translit=vēṇṭum|LTranslit=vēṇṭu
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id s2/ta
-# full_sent அனைத்துத் துறைகளையும் விட , மருத்துவத் துறை தான் மனிதாபிமானத்தோடு உடன்பாடு கொண்ட துறையாகும் .
-# full_sent_translit anaittut turaikaḷaiyum viṭa , maruttuvat turai tān manitāpimānattōṭu uṭanpāṭu koṇṭa turaiyākum .
+# sent_id = dev-s2/ta
+# text = அனைத்துத் துறைகளையும் விட, மருத்துவத் துறை தான் மனிதாபிமானத்தோடு உடன்பாடு கொண்ட துறையாகும்.
+# translit = anaittut turaikaḷaiyum viṭa, maruttuvat turai tān manitāpimānattōṭu uṭanpāṭu koṇṭa turaiyākum.
 # orig_file_sentence 001#2
 1	அனைத்துத்	அனைத்து	ADJ	JJ-------	_	2	amod	_	Translit=anaittut|LTranslit=anaittu
 2-3	துறைகளையும்	_	_	_	_	_	_	_	_
@@ -35,9 +35,9 @@
 12	துறையாகும்	துறை	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=turaiyākum|LTranslit=turai
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id s3/ta
-# full_sent ஆகவே , அனைவரும் மனிதாபிமானத்தோடு , மனித நேயத்தோடு மருத்துவத் துறைப் பணியை ஆற்ற வேண்டும் என்று கேட்டுக் கொள்கிறேன் என முதல்வர் கருணாநிதி பேசினார் .
-# full_sent_translit ākavē , anaivarum manitāpimānattōṭu , manita nēyattōṭu maruttuvat turaip paṇiyai ārra vēṇṭum enru kēṭṭuk koḷkirēn ena mutalvar karuṇāniti pēcinār .
+# sent_id = dev-s3/ta
+# text = ஆகவே, அனைவரும் மனிதாபிமானத்தோடு, மனித நேயத்தோடு மருத்துவத் துறைப் பணியை ஆற்ற வேண்டும் என்று கேட்டுக் கொள்கிறேன் என முதல்வர் கருணாநிதி பேசினார்.
+# translit = ākavē, anaivarum manitāpimānattōṭu, manita nēyattōṭu maruttuvat turaip paṇiyai ārra vēṇṭum enru kēṭṭuk koḷkirēn ena mutalvar karuṇāniti pēcinār.
 # orig_file_sentence 001#3
 1	ஆகவே	ஆகவே	ADV	AA-------	_	19	advmod	_	SpaceAfter=No|Translit=ākavē|LTranslit=ākavē
 2	,	,	PUNCT	Z:-------	PunctType=Comm	19	punct	_	Translit=,|LTranslit=,
@@ -60,9 +60,9 @@
 19	பேசினார்	பேசு	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pēcinār|LTranslit=pēcu
 20	.	.	PUNCT	Z#-------	PunctType=Peri	19	punct	_	Translit=.|LTranslit=.
 
-# sent_id s4/ta
-# full_sent இந்த நிகழ்ச்சியில் , மத்திய சென்னை மக்களவைத் தொகுதி எம்.பி.யும் , மத்திய அமைச்சருமான தயாநிதி மாறன் , மாநில அமைச்சர்கள் உள்ளிட்ட பலரும் கலந்து கொண்டனர் .
-# full_sent_translit inta nikalcciyil , mattiya cennai makkaḷavait tokuti em.pi.yum , mattiya amaiccarumāna tayāniti māran , mānila amaiccarkaḷ uḷḷiṭṭa palarum kalantu koṇṭanar .
+# sent_id = dev-s4/ta
+# text = இந்த நிகழ்ச்சியில், மத்திய சென்னை மக்களவைத் தொகுதி எம்.பி.யும், மத்திய அமைச்சருமான தயாநிதி மாறன், மாநில அமைச்சர்கள் உள்ளிட்ட பலரும் கலந்து கொண்டனர்.
+# translit = inta nikalcciyil, mattiya cennai makkaḷavait tokuti em.pi.yum, mattiya amaiccarumāna tayāniti māran, mānila amaiccarkaḷ uḷḷiṭṭa palarum kalantu koṇṭanar.
 # orig_file_sentence 001#4
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta|LTranslit=inta
 2	நிகழ்ச்சியில்	நிகழ்ச்சி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	23	obl	_	SpaceAfter=No|Translit=nikalcciyil|LTranslit=nikalcci
@@ -93,9 +93,9 @@
 24	கொண்டனர்	கொள்	AUX	VR-D3PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	23	aux	_	SpaceAfter=No|Translit=koṇṭanar|LTranslit=koḷ
 25	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	_	Translit=.|LTranslit=.
 
-# sent_id s5/ta
-# full_sent தனக்கு உடல் நிலை இடம் தரா விட்டாலும் , அரசு நிகழ்ச்சியில் பங்கேற்க வந்துள்ளதாக முதல்வர் கருணாநிதி தெரிவித்தார் .
-# full_sent_translit tanakku uṭal nilai iṭam tarā viṭṭālum , aracu nikalcciyil paṅkērka vantuḷḷatāka mutalvar karuṇāniti terivittār .
+# sent_id = dev-s5/ta
+# text = தனக்கு உடல் நிலை இடம் தரா விட்டாலும், அரசு நிகழ்ச்சியில் பங்கேற்க வந்துள்ளதாக முதல்வர் கருணாநிதி தெரிவித்தார்.
+# translit = tanakku uṭal nilai iṭam tarā viṭṭālum, aracu nikalcciyil paṅkērka vantuḷḷatāka mutalvar karuṇāniti terivittār.
 # orig_file_sentence 001#5
 1	தனக்கு	தன்	PRON	RhD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	obj	_	Translit=tanakku|LTranslit=tan
 2	உடல்	உடல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=uṭal|LTranslit=uṭal
@@ -118,9 +118,9 @@
 17	தெரிவித்தார்	தெரிவி	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=terivittār|LTranslit=terivi
 18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
-# sent_id s6/ta
-# full_sent சென்னையில் வியாழக்கிழமை நடைபெற்ற கஸ்தூரிபா காந்தி தாய்சேய் நல மருத்துவமனையின் 125-ம் ஆண்டு விழாவில் பேசும் போது அவர் இதைக் கூறினார் .
-# full_sent_translit cennaiyil viyālakkilamai naṭaiperra kastūripā kānti tāycēy nala maruttuvamanaiyin 125-m āṇṭu vilāvil pēcum pōtu avar itaik kūrinār .
+# sent_id = dev-s6/ta
+# text = சென்னையில் வியாழக்கிழமை நடைபெற்ற கஸ்தூரிபா காந்தி தாய்சேய் நல மருத்துவமனையின் 125-ம் ஆண்டு விழாவில் பேசும் போது அவர் இதைக் கூறினார்.
+# translit = cennaiyil viyālakkilamai naṭaiperra kastūripā kānti tāycēy nala maruttuvamanaiyin 125-m āṇṭu vilāvil pēcum pōtu avar itaik kūrinār.
 # orig_file_sentence 001#6
 1	சென்னையில்	சென்னை	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=cennaiyil|LTranslit=cennai
 2	வியாழக்கிழமை	வியாழக்கிழமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=viyālakkilamai|LTranslit=viyālakkilamai
@@ -140,9 +140,9 @@
 16	கூறினார்	கூறு	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kūrinār|LTranslit=kūru
 17	.	.	PUNCT	Z#-------	PunctType=Peri	16	punct	_	Translit=.|LTranslit=.
 
-# sent_id s7/ta
-# full_sent அவர் பேசியதாவது : .
-# full_sent_translit avar pēciyatāvatu : .
+# sent_id = dev-s7/ta
+# text = அவர் பேசியதாவது:.
+# translit = avar pēciyatāvatu:.
 # orig_file_sentence 001#7
 1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nsubj	_	Translit=avar|LTranslit=avar
 2-3	பேசியதாவது	_	_	_	_	_	_	_	SpaceAfter=No
@@ -151,9 +151,9 @@
 4	:	:	PUNCT	Z:-------	PunctType=Comm	2	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 5	.	.	PUNCT	Z#-------	PunctType=Peri	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id s8/ta
-# full_sent மருத்துவமனைக்கு வருகை தந்ததும் , அதற்கேற்ப உடல்நிலையும் சரியில்லை .
-# full_sent_translit maruttuvamanaikku varukai tantatum , atarkērpa uṭalnilaiyum cariyillai .
+# sent_id = dev-s8/ta
+# text = மருத்துவமனைக்கு வருகை தந்ததும், அதற்கேற்ப உடல்நிலையும் சரியில்லை.
+# translit = maruttuvamanaikku varukai tantatum, atarkērpa uṭalnilaiyum cariyillai.
 # orig_file_sentence 001#8
 1	மருத்துவமனைக்கு	மருத்துவமனை	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obj	_	Translit=maruttuvamanaikku|LTranslit=maruttuvamanai
 2	வருகை	வருகை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	_	Translit=varukai|LTranslit=varukai
@@ -168,9 +168,9 @@
 9	சரியில்லை	சரி	VERB	Vr-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=cariyillai|LTranslit=cari
 10	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id s9/ta
-# full_sent உடல் நிலை சரியில்லாத காரணத்தால் , மருத்துவமனை விழாவுக்கு வரவில்லை .
-# full_sent_translit uṭal nilai cariyillāta kāraṇattāl , maruttuvamanai vilāvukku varavillai .
+# sent_id = dev-s9/ta
+# text = உடல் நிலை சரியில்லாத காரணத்தால், மருத்துவமனை விழாவுக்கு வரவில்லை.
+# translit = uṭal nilai cariyillāta kāraṇattāl, maruttuvamanai vilāvukku varavillai.
 # orig_file_sentence 001#9
 1	உடல்	உடல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=uṭal|LTranslit=uṭal
 2	நிலை	நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	_	Translit=nilai|LTranslit=nilai
@@ -184,9 +184,9 @@
 9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	_	Translit=illai|LTranslit=il
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id s10/ta
-# full_sent பிறருடைய உடல்நிலை சரியாக இருக்க வேண்டுமென்ற காரணத்துக்காக அமைக்கப்பட்டிருக்கிற மருத்துவமனையின் திறப்பு விழா என்பதால் கலந்து கொண்டுள்ளேன் .
-# full_sent_translit piraruṭaiya uṭalnilai cariyāka irukka vēṇṭumenra kāraṇattukkāka amaikkappaṭṭirukkira maruttuvamanaiyin tirappu vilā enpatāl kalantu koṇṭuḷḷēn .
+# sent_id = dev-s10/ta
+# text = பிறருடைய உடல்நிலை சரியாக இருக்க வேண்டுமென்ற காரணத்துக்காக அமைக்கப்பட்டிருக்கிற மருத்துவமனையின் திறப்பு விழா என்பதால் கலந்து கொண்டுள்ளேன்.
+# translit = piraruṭaiya uṭalnilai cariyāka irukka vēṇṭumenra kāraṇattukkāka amaikkappaṭṭirukkira maruttuvamanaiyin tirappu vilā enpatāl kalantu koṇṭuḷḷēn.
 # orig_file_sentence 001#10
 1	பிறருடைய	பிறர்	NOUN	NNG-3SH--	Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Form	2	nmod	_	Translit=piraruṭaiya|LTranslit=pirar
 2	உடல்நிலை	உடல்நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obj	_	Translit=uṭalnilai|LTranslit=uṭalnilai
@@ -210,9 +210,9 @@
 17	உள்ளேன்	உள்	AUX	VR-T1SAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|VerbForm=Fin|Voice=Act	15	aux	_	Translit=uḷḷēn|LTranslit=uḷ
 18	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.|LTranslit=.
 
-# sent_id s11/ta
-# full_sent மேலும் , இந்தத் தொகுதியின் ( சேப்பாக்கம் ) சட்டப் பேரவை உறுப்பினர் என்ற முறையில் நிகழ்ச்சியில் கலந்து கொள்வது எனது கடமை .
-# full_sent_translit mēlum , intat tokutiyin ( cēppākkam ) caṭṭap pēravai uruppinar enra muraiyil nikalcciyil kalantu koḷvatu enatu kaṭamai .
+# sent_id = dev-s11/ta
+# text = மேலும், இந்தத் தொகுதியின் (சேப்பாக்கம்) சட்டப் பேரவை உறுப்பினர் என்ற முறையில் நிகழ்ச்சியில் கலந்து கொள்வது எனது கடமை.
+# translit = mēlum, intat tokutiyin (cēppākkam) caṭṭap pēravai uruppinar enra muraiyil nikalcciyil kalantu koḷvatu enatu kaṭamai.
 # orig_file_sentence 001#11
 1	மேலும்	மேலும்	ADV	AA-------	_	17	advmod	_	SpaceAfter=No|Translit=mēlum|LTranslit=mēlum
 2	,	,	PUNCT	Z:-------	PunctType=Comm	17	punct	_	Translit=,|LTranslit=,
@@ -233,9 +233,9 @@
 17	கடமை	கடமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=kaṭamai|LTranslit=kaṭamai
 18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
-# sent_id s12/ta
-# full_sent சட்டப் பேரவை உறுப்பினர் என்ற முறையில் முதல்வர் என்கிற நிலையில் அந்தக் கடமையை நிறைவேற்ற உடல்நிலை இடம் தரா விட்டாலும் , இங்கே வந்திருக்கிறேன் என்று முதல்வர் கருணாநிதி தெரிவித்தார் .
-# full_sent_translit caṭṭap pēravai uruppinar enra muraiyil mutalvar enkira nilaiyil antak kaṭamaiyai niraivērra uṭalnilai iṭam tarā viṭṭālum , iṅkē vantirukkirēn enru mutalvar karuṇāniti terivittār .
+# sent_id = dev-s12/ta
+# text = சட்டப் பேரவை உறுப்பினர் என்ற முறையில் முதல்வர் என்கிற நிலையில் அந்தக் கடமையை நிறைவேற்ற உடல்நிலை இடம் தரா விட்டாலும், இங்கே வந்திருக்கிறேன் என்று முதல்வர் கருணாநிதி தெரிவித்தார்.
+# translit = caṭṭap pēravai uruppinar enra muraiyil mutalvar enkira nilaiyil antak kaṭamaiyai niraivērra uṭalnilai iṭam tarā viṭṭālum, iṅkē vantirukkirēn enru mutalvar karuṇāniti terivittār.
 # orig_file_sentence 001#12
 1	சட்டப்	சட்டம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=caṭṭap|LTranslit=caṭṭam
 2	பேரவை	பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	appos	_	Translit=pēravai|LTranslit=pēravai
@@ -265,9 +265,9 @@
 24	தெரிவித்தார்	தெரிவி	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=terivittār|LTranslit=terivi
 25	.	.	PUNCT	Z#-------	PunctType=Peri	24	punct	_	Translit=.|LTranslit=.
 
-# sent_id s13/ta
-# full_sent விஜயதசமியை முன்னிட்டு தமிழக மக்களுக்கு அதிமுக பொதுச்செயலர் ஜெயலலிதா வாழ்த்து தெரிவித்துள்ளார் .
-# full_sent_translit vijayatacamiyai munniṭṭu tamilaka makkaḷukku atimuka potucceyalar jeyalalitā vālttu terivittuḷḷār .
+# sent_id = dev-s13/ta
+# text = விஜயதசமியை முன்னிட்டு தமிழக மக்களுக்கு அதிமுக பொதுச்செயலர் ஜெயலலிதா வாழ்த்து தெரிவித்துள்ளார்.
+# translit = vijayatacamiyai munniṭṭu tamilaka makkaḷukku atimuka potucceyalar jeyalalitā vālttu terivittuḷḷār.
 # orig_file_sentence 001#13
 1	விஜயதசமியை	விஜயதசமி	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obj	_	Translit=vijayatacamiyai|LTranslit=vijayatacami
 2	முன்னிட்டு	முன்னிட்டு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	9	advcl	_	Translit=munniṭṭu|LTranslit=munniṭṭu
@@ -282,9 +282,9 @@
 10	உள்ளார்	உள்	AUX	VR-T3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	9	aux	_	Translit=uḷḷār|LTranslit=uḷ
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id s14/ta
-# full_sent நவராத்திரி விழாவும் , அதற்கு சிகரம் வைத்தாற் போல விஜயதசமி விழாவும் தமிழ்நாடு முழுவதும் கோலாகலமாகக் கொண்டாடப் படுகிறது .
-# full_sent_translit navarāttiri vilāvum , atarku cikaram vaittār pōla vijayatacami vilāvum tamilnāṭu muluvatum kōlākalamākak koṇṭāṭap paṭukiratu .
+# sent_id = dev-s14/ta
+# text = நவராத்திரி விழாவும், அதற்கு சிகரம் வைத்தாற் போல விஜயதசமி விழாவும் தமிழ்நாடு முழுவதும் கோலாகலமாகக் கொண்டாடப் படுகிறது.
+# translit = navarāttiri vilāvum, atarku cikaram vaittār pōla vijayatacami vilāvum tamilnāṭu muluvatum kōlākalamākak koṇṭāṭap paṭukiratu.
 # orig_file_sentence 001#14
 1	நவராத்திரி	நவராத்திரி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=navarāttiri|LTranslit=navarāttiri
 2-3	விழாவும்	_	_	_	_	_	_	_	SpaceAfter=No
@@ -308,18 +308,18 @@
 17	படுகிறது	படு	AUX	VR-P3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	16	aux	_	SpaceAfter=No|Translit=paṭukiratu|LTranslit=paṭu
 18	.	.	PUNCT	Z#-------	PunctType=Peri	16	punct	_	Translit=.|LTranslit=.
 
-# sent_id s15/ta
-# full_sent நவம் என்றால் ஒன்பது .
-# full_sent_translit navam enrāl onpatu .
+# sent_id = dev-s15/ta
+# text = நவம் என்றால் ஒன்பது.
+# translit = navam enrāl onpatu.
 # orig_file_sentence 001#15
 1	நவம்	நவம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=navam|LTranslit=navam
 2	என்றால்	என்	PART	Tw-T----A	Mood=Cnd|Polarity=Pos|VerbForm=Fin	1	mark	_	Translit=enrāl|LTranslit=en
 3	ஒன்பது	ஒன்பது	NUM	Ux-------	NumType=Card	0	root	_	SpaceAfter=No|Translit=onpatu|LTranslit=onpatu
 4	.	.	PUNCT	Z#-------	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id s16/ta
-# full_sent நவராத்திரி நாட்களில் முதல் மூன்று நாட்கள் வெற்றி வேண்டி துர்கா தேவியையும் , அடுத்த மூன்று நாட்கள் செல்வம் வேண்டி மகாலட்சுமியையும் , கடைசி மூன்று நாட்கள் கல்வி வேண்டி சரஸ்வதி தேவியையும் மக்கள் வழிபடுகிறார்கள் .
-# full_sent_translit navarāttiri nāṭkaḷil mutal mūnru nāṭkaḷ verri vēṇṭi turkā tēviyaiyum , aṭutta mūnru nāṭkaḷ celvam vēṇṭi makālaṭcumiyaiyum , kaṭaici mūnru nāṭkaḷ kalvi vēṇṭi carasvati tēviyaiyum makkaḷ valipaṭukirārkaḷ .
+# sent_id = dev-s16/ta
+# text = நவராத்திரி நாட்களில் முதல் மூன்று நாட்கள் வெற்றி வேண்டி துர்கா தேவியையும், அடுத்த மூன்று நாட்கள் செல்வம் வேண்டி மகாலட்சுமியையும், கடைசி மூன்று நாட்கள் கல்வி வேண்டி சரஸ்வதி தேவியையும் மக்கள் வழிபடுகிறார்கள்.
+# translit = navarāttiri nāṭkaḷil mutal mūnru nāṭkaḷ verri vēṇṭi turkā tēviyaiyum, aṭutta mūnru nāṭkaḷ celvam vēṇṭi makālaṭcumiyaiyum, kaṭaici mūnru nāṭkaḷ kalvi vēṇṭi carasvati tēviyaiyum makkaḷ valipaṭukirārkaḷ.
 # orig_file_sentence 001#16
 1	நவராத்திரி	நவராத்திரி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=navarāttiri|LTranslit=navarāttiri
 2	நாட்களில்	நாள்	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	29	obl	_	Translit=nāṭkaḷil|LTranslit=nāḷ
@@ -355,9 +355,9 @@
 29	வழிபடுகிறார்கள்	வழிபடு	VERB	Vr-P3PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=valipaṭukirārkaḷ|LTranslit=valipaṭu
 30	.	.	PUNCT	Z#-------	PunctType=Peri	29	punct	_	Translit=.|LTranslit=.
 
-# sent_id s17/ta
-# full_sent மகிஷாசுரனை தேவியானவள் ஒன்பது நாட்கள் போரிட்டு வெற்றி வாகை சூடிய நாளே விஜயதசமி .
-# full_sent_translit makiṣācuranai tēviyānavaḷ onpatu nāṭkaḷ pōriṭṭu verri vākai cūṭiya nāḷē vijayatacami .
+# sent_id = dev-s17/ta
+# text = மகிஷாசுரனை தேவியானவள் ஒன்பது நாட்கள் போரிட்டு வெற்றி வாகை சூடிய நாளே விஜயதசமி.
+# translit = makiṣācuranai tēviyānavaḷ onpatu nāṭkaḷ pōriṭṭu verri vākai cūṭiya nāḷē vijayatacami.
 # orig_file_sentence 001#17
 1	மகிஷாசுரனை	மகிஷாசுரன்	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	_	Translit=makiṣācuranai|LTranslit=makiṣācuran
 2	தேவியானவள்	தேவியானவள்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	5	nsubj	_	Translit=tēviyānavaḷ|LTranslit=tēviyānavaḷ
@@ -373,9 +373,9 @@
 11	விஜயதசமி	விஜயதசமி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=vijayatacami|LTranslit=vijayatacami
 12	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id s18/ta
-# full_sent கைவினை கலைஞர்களுக்கு பெருமை சேர்க்கும் விதமாகௌம் , உழைப்பிற்கும் , தொழிலுக்கும் மதிப்பளிக்கும் விதமாகௌம் இந்த நாட்கள் அமைந்து இருக்கின்றன .
-# full_sent_translit kaivinai kalaiñarkaḷukku perumai cērkkum vitamākaum , ulaippirkum , tolilukkum matippaḷikkum vitamākaum inta nāṭkaḷ amaintu irukkinrana .
+# sent_id = dev-s18/ta
+# text = கைவினை கலைஞர்களுக்கு பெருமை சேர்க்கும் விதமாகௌம், உழைப்பிற்கும், தொழிலுக்கும் மதிப்பளிக்கும் விதமாகௌம் இந்த நாட்கள் அமைந்து இருக்கின்றன.
+# translit = kaivinai kalaiñarkaḷukku perumai cērkkum vitamākaum, ulaippirkum, tolilukkum matippaḷikkum vitamākaum inta nāṭkaḷ amaintu irukkinrana.
 # orig_file_sentence 001#18
 1	கைவினை	கைவினை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=kaivinai|LTranslit=kaivinai
 2	கலைஞர்களுக்கு	கலைஞர்	NOUN	NND-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3	4	obj	_	Translit=kalaiñarkaḷukku|LTranslit=kalaiñar
@@ -404,9 +404,9 @@
 21	இருக்கின்றன	இரு	AUX	VR-P3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	SpaceAfter=No|Translit=irukkinrana|LTranslit=iru
 22	.	.	PUNCT	Z#-------	PunctType=Peri	20	punct	_	Translit=.|LTranslit=.
 
-# sent_id s19/ta
-# full_sent வெற்றித் திருநாளாம் விஜயதசமி அன்று தொடங்கும் அனைத்து நற்காரியங்களும் வெற்றியில் முடிவடையும் என்பது அனைவரது நம்பிக்கை .
-# full_sent_translit verrit tirunāḷām vijayatacami anru toṭaṅkum anaittu narkāriyaṅkaḷum verriyil muṭivaṭaiyum enpatu anaivaratu nampikkai .
+# sent_id = dev-s19/ta
+# text = வெற்றித் திருநாளாம் விஜயதசமி அன்று தொடங்கும் அனைத்து நற்காரியங்களும் வெற்றியில் முடிவடையும் என்பது அனைவரது நம்பிக்கை.
+# translit = verrit tirunāḷām vijayatacami anru toṭaṅkum anaittu narkāriyaṅkaḷum verriyil muṭivaṭaiyum enpatu anaivaratu nampikkai.
 # orig_file_sentence 001#19
 1	வெற்றித்	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	obj	_	Translit=verrit|LTranslit=verri
 2	திருநாளாம்	திருநாளாம்	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	3	amod	_	Translit=tirunāḷām|LTranslit=tirunāḷām
@@ -424,9 +424,9 @@
 13	நம்பிக்கை	நம்பிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=nampikkai|LTranslit=nampikkai
 14	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.|LTranslit=.
 
-# sent_id s20/ta
-# full_sent இந்த நன்னாளில் , அனைவரும் எல்லா நலன்களையும் , வளங்களையும் பெற்று அமைதியுடன் வாழ்வதற்கு ஏற்ற வகையில் தமிழகத்தில் விரைவில் நல்லாட்சி மலர மக்கள் உறுதி எடுத்துக் கொள்ள வேண்டும் என்று தெரிவித்து , தமிழக மக்கள் அனைவருக்கும் மனமார்ந்த விஜயதசமி நல்வாழ்த்துகளை தெரிவித்துக் கொள்வதாக ஜெயலலிதா தனது அறிக்கையில் குறிப்பிட்டுள்ளார் .
-# full_sent_translit inta nannāḷil , anaivarum ellā nalankaḷaiyum , vaḷaṅkaḷaiyum perru amaitiyuṭan vālvatarku ērra vakaiyil tamilakattil viraivil nallāṭci malara makkaḷ uruti eṭuttuk koḷḷa vēṇṭum enru terivittu , tamilaka makkaḷ anaivarukkum manamārnta vijayatacami nalvālttukaḷai terivittuk koḷvatāka jeyalalitā tanatu arikkaiyil kurippiṭṭuḷḷār .
+# sent_id = dev-s20/ta
+# text = இந்த நன்னாளில், அனைவரும் எல்லா நலன்களையும், வளங்களையும் பெற்று அமைதியுடன் வாழ்வதற்கு ஏற்ற வகையில் தமிழகத்தில் விரைவில் நல்லாட்சி மலர மக்கள் உறுதி எடுத்துக் கொள்ள வேண்டும் என்று தெரிவித்து, தமிழக மக்கள் அனைவருக்கும் மனமார்ந்த விஜயதசமி நல்வாழ்த்துகளை தெரிவித்துக் கொள்வதாக ஜெயலலிதா தனது அறிக்கையில் குறிப்பிட்டுள்ளார்.
+# translit = inta nannāḷil, anaivarum ellā nalankaḷaiyum, vaḷaṅkaḷaiyum perru amaitiyuṭan vālvatarku ērra vakaiyil tamilakattil viraivil nallāṭci malara makkaḷ uruti eṭuttuk koḷḷa vēṇṭum enru terivittu, tamilaka makkaḷ anaivarukkum manamārnta vijayatacami nalvālttukaḷai terivittuk koḷvatāka jeyalalitā tanatu arikkaiyil kurippiṭṭuḷḷār.
 # orig_file_sentence 001#20
 1	இந்த	இந்த	DET	DD-------	_	2	det	_	Translit=inta|LTranslit=inta
 2	நன்னாளில்	நன்னாள்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	23	obl	_	SpaceAfter=No|Translit=nannāḷil|LTranslit=nannāḷ
@@ -477,9 +477,9 @@
 42	உள்ளார்	உள்	AUX	VR-T3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	41	aux	_	Translit=uḷḷār|LTranslit=uḷ
 43	.	.	PUNCT	Z#-------	PunctType=Peri	41	punct	_	Translit=.|LTranslit=.
 
-# sent_id s21/ta
-# full_sent தி.மு.க. அரசின் தொழிலாளர் விரோத நடவடிக்கைகளைக் கண்டித்து இடதுசாரிக் கட்சிகள் சார்பில் சென்னையில் அக்டோபர் 21-ம் தேதி ஆர்ப்பாட்டம் நடைபெறும் என அக்கட்சிகள் வெளியிட்டுள்ள கூட்டறிக்கையில் தெரிவிக்கப்பட்டுள்ளது .
-# full_sent_translit ti.mu.ka. aracin tolilāḷar virōta naṭavaṭikkaikaḷaik kaṇṭittu iṭatucārik kaṭcikaḷ cārpil cennaiyil akṭōpar 21-m tēti ārppāṭṭam naṭaiperum ena akkaṭcikaḷ veḷiyiṭṭuḷḷa kūṭṭarikkaiyil terivikkappaṭṭuḷḷatu .
+# sent_id = dev-s21/ta
+# text = தி.மு.க. அரசின் தொழிலாளர் விரோத நடவடிக்கைகளைக் கண்டித்து இடதுசாரிக் கட்சிகள் சார்பில் சென்னையில் அக்டோபர் 21-ம் தேதி ஆர்ப்பாட்டம் நடைபெறும் என அக்கட்சிகள் வெளியிட்டுள்ள கூட்டறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+# translit = ti.mu.ka. aracin tolilāḷar virōta naṭavaṭikkaikaḷaik kaṇṭittu iṭatucārik kaṭcikaḷ cārpil cennaiyil akṭōpar 21-m tēti ārppāṭṭam naṭaiperum ena akkaṭcikaḷ veḷiyiṭṭuḷḷa kūṭṭarikkaiyil terivikkappaṭṭuḷḷatu.
 # orig_file_sentence 001#21
 1	தி.மு.க.	தி.மு.க.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=ti.mu.ka.|LTranslit=ti.mu.ka.
 2	அரசின்	அரசு	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=aracin|LTranslit=aracu
@@ -508,9 +508,9 @@
 23	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	21	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 24	.	.	PUNCT	Z#-------	PunctType=Peri	21	punct	_	Translit=.|LTranslit=.
 
-# sent_id s22/ta
-# full_sent இந்திய கம்யூனிஸ்ட் மற்றும் மார்க்சிஸ்ட் கட்சியின் மாநில நிர்வாகிகள் கூட்டம் சென்னையில் வியாழக்கிழமை நடைபெற்றது .
-# full_sent_translit intiya kamyūnisṭ marrum mārkcisṭ kaṭciyin mānila nirvākikaḷ kūṭṭam cennaiyil viyālakkilamai naṭaiperratu .
+# sent_id = dev-s22/ta
+# text = இந்திய கம்யூனிஸ்ட் மற்றும் மார்க்சிஸ்ட் கட்சியின் மாநில நிர்வாகிகள் கூட்டம் சென்னையில் வியாழக்கிழமை நடைபெற்றது.
+# translit = intiya kamyūnisṭ marrum mārkcisṭ kaṭciyin mānila nirvākikaḷ kūṭṭam cennaiyil viyālakkilamai naṭaiperratu.
 # orig_file_sentence 001#22
 1	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=intiya|LTranslit=intiyā
 2	கம்யூனிஸ்ட்	கம்யூனிஸ்ட்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=kamyūnisṭ|LTranslit=kamyūnisṭ
@@ -525,9 +525,9 @@
 11	நடைபெற்றது	நடைபெறு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=naṭaiperratu|LTranslit=naṭaiperu
 12	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id s23/ta
-# full_sent இக்கூட்டத்தில் மார்க்சிஸ்ட் கட்சி மத்தியக் குழு உறுப்பினர் என். வரதராஜன் , மாநில செயற்குழு உறுப்பினர்கள் கே. பாலகிருஷ்ணன் , ப. செல்வசிங் , இந்திய கம்யூனிஸட் கட்சி தேசிய கட்டுப்பாட்டுக் குழுத் தலைவர் ஆர். நல்லகண்ணு , மாநில துணைச் செயலாளர் சி. மகேந்திரன் , மாநில செயற்குழு உறுப்பினர்கள் ஏ.எம். கோபு , எஸ்.எஸ். தியாகராஜன் , கே. சுப்பராயன் ஆகியோர் கலந்து கொண்டனர் .
-# full_sent_translit ikkūṭṭattil mārkcisṭ kaṭci mattiyak kulu uruppinar en. varatarājan , mānila ceyarkulu uruppinarkaḷ kē. pālakiruṣṇan , pa. celvaciṅ , intiya kamyūnisaṭ kaṭci tēciya kaṭṭuppāṭṭuk kulut talaivar ār. nallakaṇṇu , mānila tuṇaic ceyalāḷar ci. makēntiran , mānila ceyarkulu uruppinarkaḷ ē.em. kōpu , es.es. tiyākarājan , kē. cupparāyan ākiyōr kalantu koṇṭanar .
+# sent_id = dev-s23/ta
+# text = இக்கூட்டத்தில் மார்க்சிஸ்ட் கட்சி மத்தியக் குழு உறுப்பினர் என். வரதராஜன், மாநில செயற்குழு உறுப்பினர்கள் கே. பாலகிருஷ்ணன், ப. செல்வசிங், இந்திய கம்யூனிஸட் கட்சி தேசிய கட்டுப்பாட்டுக் குழுத் தலைவர் ஆர். நல்லகண்ணு, மாநில துணைச் செயலாளர் சி. மகேந்திரன், மாநில செயற்குழு உறுப்பினர்கள் ஏ.எம். கோபு, எஸ்.எஸ். தியாகராஜன், கே. சுப்பராயன் ஆகியோர் கலந்து கொண்டனர்.
+# translit = ikkūṭṭattil mārkcisṭ kaṭci mattiyak kulu uruppinar en. varatarājan, mānila ceyarkulu uruppinarkaḷ kē. pālakiruṣṇan, pa. celvaciṅ, intiya kamyūnisaṭ kaṭci tēciya kaṭṭuppāṭṭuk kulut talaivar ār. nallakaṇṇu, mānila tuṇaic ceyalāḷar ci. makēntiran, mānila ceyarkulu uruppinarkaḷ ē.em. kōpu, es.es. tiyākarājan, kē. cupparāyan ākiyōr kalantu koṇṭanar.
 # orig_file_sentence 001#23
 1	இக்கூட்டத்தில்	கூட்டம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	47	obl	_	Translit=ikkūṭṭattil|LTranslit=kūṭṭam
 2	மார்க்சிஸ்ட்	மார்க்சிஸ்ட்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=mārkcisṭ|LTranslit=mārkcisṭ
@@ -579,9 +579,9 @@
 48	கொண்டனர்	கொள்	AUX	VR-D3PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	47	aux	_	SpaceAfter=No|Translit=koṇṭanar|LTranslit=koḷ
 49	.	.	PUNCT	Z#-------	PunctType=Peri	47	punct	_	Translit=.|LTranslit=.
 
-# sent_id s24/ta
-# full_sent என்.எல்.சி. நிறுவன ஒப்பந்தத் தொழிலாளர்களும் , ஸ்ரீபெரும்புதூர் ஃபாக்ஸ்கான் நிறுவன தொழிலாளர்களும் தங்கள் கோரிக்கைகளுக்காக வேலைநிறுத்தத்தில் ஈடுபட்டுள்ளனர் .
-# full_sent_translit en.el.ci. niruvana oppantat tolilāḷarkaḷum , srīperumputūr ḥpākskān niruvana tolilāḷarkaḷum taṅkaḷ kōrikkaikaḷukkāka vēlainiruttattil īṭupaṭṭuḷḷanar .
+# sent_id = dev-s24/ta
+# text = என்.எல்.சி. நிறுவன ஒப்பந்தத் தொழிலாளர்களும், ஸ்ரீபெரும்புதூர் ஃபாக்ஸ்கான் நிறுவன தொழிலாளர்களும் தங்கள் கோரிக்கைகளுக்காக வேலைநிறுத்தத்தில் ஈடுபட்டுள்ளனர்.
+# translit = en.el.ci. niruvana oppantat tolilāḷarkaḷum, srīperumputūr ḥpākskān niruvana tolilāḷarkaḷum taṅkaḷ kōrikkaikaḷukkāka vēlainiruttattil īṭupaṭṭuḷḷanar.
 # orig_file_sentence 001#24
 1	என்.எல்.சி.	என்.எல்.சி.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=en.el.ci.|LTranslit=en.el.ci.
 2	நிறுவன	நிறுவனம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=niruvana|LTranslit=niruvanam
@@ -606,9 +606,9 @@
 17	உள்ளனர்	உள்	AUX	VR-T3PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	16	aux	_	Translit=uḷḷanar|LTranslit=uḷ
 18	.	.	PUNCT	Z#-------	PunctType=Peri	16	punct	_	Translit=.|LTranslit=.
 
-# sent_id s25/ta
-# full_sent தொழிலாளர்களுடன் பேச்சுவார்த்தை நடத்தி , சுமூக தீர்வு காணப்படவில்லை .
-# full_sent_translit tolilāḷarkaḷuṭan pēccuvārttai naṭatti , cumūka tīrvu kāṇappaṭavillai .
+# sent_id = dev-s25/ta
+# text = தொழிலாளர்களுடன் பேச்சுவார்த்தை நடத்தி, சுமூக தீர்வு காணப்படவில்லை.
+# translit = tolilāḷarkaḷuṭan pēccuvārttai naṭatti, cumūka tīrvu kāṇappaṭavillai.
 # orig_file_sentence 001#25
 1-2	தொழிலாளர்களுடன்	_	_	_	_	_	_	_	_
 1	தொழிலாளர்கள்	தொழிலாளர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	8	obl	_	Translit=tolilāḷarkaḷ|LTranslit=tolilāḷar
@@ -623,9 +623,9 @@
 9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	_	Translit=illai|LTranslit=il
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id s26/ta
-# full_sent இப்பிரச்னையில் தி.மு.க. சார்பிலான தொ.மு.ச. தொழிற்சங்கத்துடன் சேர்ந்து , ஆலை நிர்வாகங்கள் தொழிலாளர்ளுக்கு எதிராக செயல்படுகின்றன .
-# full_sent_translit ippiracnaiyil ti.mu.ka. cārpilāna to.mu.ca. tolircaṅkattuṭan cērntu , ālai nirvākaṅkaḷ tolilāḷarḷukku etirāka ceyalpaṭukinrana .
+# sent_id = dev-s26/ta
+# text = இப்பிரச்னையில் தி.மு.க. சார்பிலான தொ.மு.ச. தொழிற்சங்கத்துடன் சேர்ந்து, ஆலை நிர்வாகங்கள் தொழிலாளர்ளுக்கு எதிராக செயல்படுகின்றன.
+# translit = ippiracnaiyil ti.mu.ka. cārpilāna to.mu.ca. tolircaṅkattuṭan cērntu, ālai nirvākaṅkaḷ tolilāḷarḷukku etirāka ceyalpaṭukinrana.
 # orig_file_sentence 001#26
 1	இப்பிரச்னையில்	பிரச்னை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	13	obl	_	Translit=ippiracnaiyil|LTranslit=piracnai
 2	தி.மு.க.	தி.மு.க.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=ti.mu.ka.|LTranslit=ti.mu.ka.
@@ -643,9 +643,9 @@
 13	செயல்படுகின்றன	செயல்படு	VERB	Vr-P3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceyalpaṭukinrana|LTranslit=ceyalpaṭu
 14	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.|LTranslit=.
 
-# sent_id s27/ta
-# full_sent பிரச்னைக்கு தீர்வு காண தி.மு.க. அரசு எந்த நடவடிக்கையும் எடுக்கவில்லை .
-# full_sent_translit piracnaikku tīrvu kāṇa ti.mu.ka. aracu enta naṭavaṭikkaiyum eṭukkavillai .
+# sent_id = dev-s27/ta
+# text = பிரச்னைக்கு தீர்வு காண தி.மு.க. அரசு எந்த நடவடிக்கையும் எடுக்கவில்லை.
+# translit = piracnaikku tīrvu kāṇa ti.mu.ka. aracu enta naṭavaṭikkaiyum eṭukkavillai.
 # orig_file_sentence 001#27
 1	பிரச்னைக்கு	பிரச்னை	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=piracnaikku|LTranslit=piracnai
 2	தீர்வு	தீர்வு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	_	Translit=tīrvu|LTranslit=tīrvu
@@ -661,9 +661,9 @@
 10	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	9	aux	_	Translit=illai|LTranslit=il
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id s28/ta
-# full_sent பன்னாட்டு தொழில் நிறுவனங்களில் தொழிற்சங்க உரிமைகள் மறுக்கப் படுகின்றன .
-# full_sent_translit pannāṭṭu tolil niruvanaṅkaḷil tolircaṅka urimaikaḷ marukkap paṭukinrana .
+# sent_id = dev-s28/ta
+# text = பன்னாட்டு தொழில் நிறுவனங்களில் தொழிற்சங்க உரிமைகள் மறுக்கப் படுகின்றன.
+# translit = pannāṭṭu tolil niruvanaṅkaḷil tolircaṅka urimaikaḷ marukkap paṭukinrana.
 # orig_file_sentence 001#28
 1	பன்னாட்டு	பன்னாடு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=pannāṭṭu|LTranslit=pannāṭu
 2	தொழில்	தொழில்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=tolil|LTranslit=tolil
@@ -674,18 +674,18 @@
 7	படுகின்றன	படு	AUX	VR-P3PNPA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	6	aux	_	SpaceAfter=No|Translit=paṭukinrana|LTranslit=paṭu
 8	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id s29/ta
-# full_sent தொழிலாளர்கள் பழிவாங்கப் படுகின்றனர் .
-# full_sent_translit tolilāḷarkaḷ palivāṅkap paṭukinranar .
+# sent_id = dev-s29/ta
+# text = தொழிலாளர்கள் பழிவாங்கப் படுகின்றனர்.
+# translit = tolilāḷarkaḷ palivāṅkap paṭukinranar.
 # orig_file_sentence 001#29
 1	தொழிலாளர்கள்	தொழிலாளர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	2	nsubj	_	Translit=tolilāḷarkaḷ|LTranslit=tolilāḷar
 2	பழிவாங்கப்	பழிவாங்கு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=palivāṅkap|LTranslit=palivāṅku
 3	படுகின்றனர்	படு	AUX	VR-P3PAPA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	2	aux	_	SpaceAfter=No|Translit=paṭukinranar|LTranslit=paṭu
 4	.	.	PUNCT	Z#-------	PunctType=Peri	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id s30/ta
-# full_sent இதற்கு தமிழக அரசும் உடந்தையாக உள்ளது .
-# full_sent_translit itarku tamilaka aracum uṭantaiyāka uḷḷatu .
+# sent_id = dev-s30/ta
+# text = இதற்கு தமிழக அரசும் உடந்தையாக உள்ளது.
+# translit = itarku tamilaka aracum uṭantaiyāka uḷḷatu.
 # orig_file_sentence 001#30
 1	இதற்கு	இது	ADV	AA-------	_	7	advmod	_	Translit=itarku|LTranslit=itu
 2	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=tamilaka|LTranslit=tamilakam
@@ -698,9 +698,9 @@
 7	உள்ளது	உள்	VERB	Vr-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=uḷḷatu|LTranslit=uḷ
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id s31/ta
-# full_sent மேலும் , டாஸ்மாக் பணியாளர்கள் , சத்துணவு ஊழியர்கள் போராடியபோது அவர்களை ஒடுக்க தமிழக அரசு காவல் துறையை ஏவியது .
-# full_sent_translit mēlum , ṭāsmāk paṇiyāḷarkaḷ , cattuṇavu ūliyarkaḷ pōrāṭiyapōtu avarkaḷai oṭukka tamilaka aracu kāval turaiyai ēviyatu .
+# sent_id = dev-s31/ta
+# text = மேலும், டாஸ்மாக் பணியாளர்கள், சத்துணவு ஊழியர்கள் போராடியபோது அவர்களை ஒடுக்க தமிழக அரசு காவல் துறையை ஏவியது.
+# translit = mēlum, ṭāsmāk paṇiyāḷarkaḷ, cattuṇavu ūliyarkaḷ pōrāṭiyapōtu avarkaḷai oṭukka tamilaka aracu kāval turaiyai ēviyatu.
 # orig_file_sentence 001#31
 1	மேலும்	மேலும்	ADV	AA-------	_	15	advmod	_	SpaceAfter=No|Translit=mēlum|LTranslit=mēlum
 2	,	,	PUNCT	Z:-------	PunctType=Comm	15	punct	_	Translit=,|LTranslit=,
@@ -719,9 +719,9 @@
 15	ஏவியது	ஏவு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ēviyatu|LTranslit=ēvu
 16	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.|LTranslit=.
 
-# sent_id s32/ta
-# full_sent எனவே , தமிழக அரசின் இத்தகைய நடவடிக்கைகளைக் கண்டித்து சென்னையில் அக்டோபர் 21-ம் தேதி இரு கம்யூனிஸ்ட் கட்சிகள் சார்பில் ஆர்ப்பாட்டம் நடைபெறும் .
-# full_sent_translit enavē , tamilaka aracin ittakaiya naṭavaṭikkaikaḷaik kaṇṭittu cennaiyil akṭōpar 21-m tēti iru kamyūnisṭ kaṭcikaḷ cārpil ārppāṭṭam naṭaiperum .
+# sent_id = dev-s32/ta
+# text = எனவே, தமிழக அரசின் இத்தகைய நடவடிக்கைகளைக் கண்டித்து சென்னையில் அக்டோபர் 21-ம் தேதி இரு கம்யூனிஸ்ட் கட்சிகள் சார்பில் ஆர்ப்பாட்டம் நடைபெறும்.
+# translit = enavē, tamilaka aracin ittakaiya naṭavaṭikkaikaḷaik kaṇṭittu cennaiyil akṭōpar 21-m tēti iru kamyūnisṭ kaṭcikaḷ cārpil ārppāṭṭam naṭaiperum.
 # orig_file_sentence 001#32
 1	எனவே	எனவே	ADV	AA-------	_	17	advmod	_	SpaceAfter=No|Translit=enavē|LTranslit=enavē
 2	,	,	PUNCT	Z:-------	PunctType=Comm	17	punct	_	Translit=,|LTranslit=,
@@ -742,9 +742,9 @@
 17	நடைபெறும்	நடைபெறு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=naṭaiperum|LTranslit=naṭaiperu
 18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
-# sent_id s33/ta
-# full_sent இந்திய கம்யூனிஸ்ட் மாநிலச் செயலாளர் தா. பாண்டியன் , மார்க்சிஸ்ட் கட்சி மாநிலச் செயலாளர் ஜி. ராமகிருஷ்ணன் ஆகியோர் தலைமையில் இந்த ஆர்ப்பாட்டம் நடைபெறும் என்று அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது .
-# full_sent_translit intiya kamyūnisṭ mānilac ceyalāḷar tā. pāṇṭiyan , mārkcisṭ kaṭci mānilac ceyalāḷar ji. rāmakiruṣṇan ākiyōr talaimaiyil inta ārppāṭṭam naṭaiperum enru anta arikkaiyil terivikkappaṭṭuḷḷatu .
+# sent_id = dev-s33/ta
+# text = இந்திய கம்யூனிஸ்ட் மாநிலச் செயலாளர் தா. பாண்டியன், மார்க்சிஸ்ட் கட்சி மாநிலச் செயலாளர் ஜி. ராமகிருஷ்ணன் ஆகியோர் தலைமையில் இந்த ஆர்ப்பாட்டம் நடைபெறும் என்று அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+# translit = intiya kamyūnisṭ mānilac ceyalāḷar tā. pāṇṭiyan, mārkcisṭ kaṭci mānilac ceyalāḷar ji. rāmakiruṣṇan ākiyōr talaimaiyil inta ārppāṭṭam naṭaiperum enru anta arikkaiyil terivikkappaṭṭuḷḷatu.
 # orig_file_sentence 001#33
 1	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=intiya|LTranslit=intiyā
 2	கம்யூனிஸ்ட்	கம்யூனிஸ்ட்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=kamyūnisṭ|LTranslit=kamyūnisṭ
@@ -773,9 +773,9 @@
 24	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	22	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 25	.	.	PUNCT	Z#-------	PunctType=Peri	22	punct	_	Translit=.|LTranslit=.
 
-# sent_id s34/ta
-# full_sent அமெரிக்க அதிபர் ஒபாமாவின் இந்தியப் பயணம் மிகுந்த எதிர்பார்ப்பை ஏற்படுத்தியுள்ளது .
-# full_sent_translit amerikka atipar opāmāvin intiyap payaṇam mikunta etirpārppai ērpaṭuttiyuḷḷatu .
+# sent_id = dev-s34/ta
+# text = அமெரிக்க அதிபர் ஒபாமாவின் இந்தியப் பயணம் மிகுந்த எதிர்பார்ப்பை ஏற்படுத்தியுள்ளது.
+# translit = amerikka atipar opāmāvin intiyap payaṇam mikunta etirpārppai ērpaṭuttiyuḷḷatu.
 # orig_file_sentence 001#34
 1	அமெரிக்க	அமெரிக்கா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=amerikka|LTranslit=amerikkā
 2	அதிபர்	அதிபர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	3	nmod	_	Translit=atipar|LTranslit=atipar
@@ -789,9 +789,9 @@
 9	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id s35/ta
-# full_sent இரு நாடுகள் இடையிலான உறவில் ஒபாமாவின் பயணம் புதிய அத்தியாயமாக இருக்கும் என்று அமெரிக்காவுக்கான இந்திய தூதர் மீரா சங்கர் தெரிவித்தார் .
-# full_sent_translit iru nāṭukaḷ iṭaiyilāna uravil opāmāvin payaṇam putiya attiyāyamāka irukkum enru amerikkāvukkāna intiya tūtar mīrā caṅkar terivittār .
+# sent_id = dev-s35/ta
+# text = இரு நாடுகள் இடையிலான உறவில் ஒபாமாவின் பயணம் புதிய அத்தியாயமாக இருக்கும் என்று அமெரிக்காவுக்கான இந்திய தூதர் மீரா சங்கர் தெரிவித்தார்.
+# translit = iru nāṭukaḷ iṭaiyilāna uravil opāmāvin payaṇam putiya attiyāyamāka irukkum enru amerikkāvukkāna intiya tūtar mīrā caṅkar terivittār.
 # orig_file_sentence 001#35
 1	இரு	இரு	NUM	Ux-------	NumType=Card	2	nummod	_	Translit=iru|LTranslit=iru
 2	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	3	nmod	_	Translit=nāṭukaḷ|LTranslit=nāṭu
@@ -815,9 +815,9 @@
 18	தெரிவித்தார்	தெரிவி	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=terivittār|LTranslit=terivi
 19	.	.	PUNCT	Z#-------	PunctType=Peri	18	punct	_	Translit=.|LTranslit=.
 
-# sent_id s36/ta
-# full_sent ஜார்ஜ் வாஷிங்டன் பல்கலைக் கழக மாணவர்களிடம் பேசிய அவர் , ஒபாமாவின் இந்தியப் பயணம் இரு நாடுகள் இடையிலான உறவை மேலும் வலுப்படுத்துவதோடு , அனைத்துத் துறைகளிலும் இணைந்து செயல்படுவதற்கான வாய்ப்புகளைப் பிரகாசப்படுத்தியுள்ளது .
-# full_sent_translit jārj vāṣiṅṭan palkalaik kalaka māṇavarkaḷiṭam pēciya avar , opāmāvin intiyap payaṇam iru nāṭukaḷ iṭaiyilāna uravai mēlum valuppaṭuttuvatōṭu , anaittut turaikaḷilum iṇaintu ceyalpaṭuvatarkāna vāyppukaḷaip pirakācappaṭuttiyuḷḷatu .
+# sent_id = dev-s36/ta
+# text = ஜார்ஜ் வாஷிங்டன் பல்கலைக் கழக மாணவர்களிடம் பேசிய அவர், ஒபாமாவின் இந்தியப் பயணம் இரு நாடுகள் இடையிலான உறவை மேலும் வலுப்படுத்துவதோடு, அனைத்துத் துறைகளிலும் இணைந்து செயல்படுவதற்கான வாய்ப்புகளைப் பிரகாசப்படுத்தியுள்ளது.
+# translit = jārj vāṣiṅṭan palkalaik kalaka māṇavarkaḷiṭam pēciya avar, opāmāvin intiyap payaṇam iru nāṭukaḷ iṭaiyilāna uravai mēlum valuppaṭuttuvatōṭu, anaittut turaikaḷilum iṇaintu ceyalpaṭuvatarkāna vāyppukaḷaip pirakācappaṭuttiyuḷḷatu.
 # orig_file_sentence 001#36
 1	ஜார்ஜ்	ஜார்ஜ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=jārj|LTranslit=jārj
 2	வாஷிங்டன்	வாஷிங்டன்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=vāṣiṅṭan|LTranslit=vāṣiṅṭan
@@ -857,9 +857,9 @@
 30	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	29	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 31	.	.	PUNCT	Z#-------	PunctType=Peri	29	punct	_	Translit=.|LTranslit=.
 
-# sent_id s37/ta
-# full_sent இரு நாடுகளின் நலன் மட்டுமின்றி சர்வதேச அளவில் பயன்பெறும் வகையில் ஒபாமாவின் இந்தியப் பயணம் அமையும் .
-# full_sent_translit iru nāṭukaḷin nalan maṭṭuminri carvatēca aḷavil payanperum vakaiyil opāmāvin intiyap payaṇam amaiyum .
+# sent_id = dev-s37/ta
+# text = இரு நாடுகளின் நலன் மட்டுமின்றி சர்வதேச அளவில் பயன்பெறும் வகையில் ஒபாமாவின் இந்தியப் பயணம் அமையும்.
+# translit = iru nāṭukaḷin nalan maṭṭuminri carvatēca aḷavil payanperum vakaiyil opāmāvin intiyap payaṇam amaiyum.
 # orig_file_sentence 001#37
 1	இரு	இரு	NUM	Ux-------	NumType=Card	2	nummod	_	Translit=iru|LTranslit=iru
 2	நாடுகளின்	நாடு	NOUN	NNG-3PN--	Case=Gen|Gender=Neut|Number=Plur|Person=3	3	nmod	_	Translit=nāṭukaḷin|LTranslit=nāṭu
@@ -875,9 +875,9 @@
 12	அமையும்	அமை	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=amaiyum|LTranslit=amai
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id s38/ta
-# full_sent இரு நாடுகளில் நிலவும் உறுதியான அரசியல் சூழல் இதற்கு உறுதுணையாக உள்ளது .
-# full_sent_translit iru nāṭukaḷil nilavum urutiyāna araciyal cūlal itarku urutuṇaiyāka uḷḷatu .
+# sent_id = dev-s38/ta
+# text = இரு நாடுகளில் நிலவும் உறுதியான அரசியல் சூழல் இதற்கு உறுதுணையாக உள்ளது.
+# translit = iru nāṭukaḷil nilavum urutiyāna araciyal cūlal itarku urutuṇaiyāka uḷḷatu.
 # orig_file_sentence 001#38
 1	இரு	இரு	NUM	Ux-------	NumType=Card	2	nummod	_	Translit=iru|LTranslit=iru
 2	நாடுகளில்	நாடு	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	3	obl	_	Translit=nāṭukaḷil|LTranslit=nāṭu
@@ -892,9 +892,9 @@
 10	உள்ளது	உள்	VERB	Vr-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=uḷḷatu|LTranslit=uḷ
 11	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.|LTranslit=.
 
-# sent_id s39/ta
-# full_sent பொதுவாக இரு நாடுகளும் பயனடையும் விஷயங்களில் கவனம் செலுத்துவதோடு , புதிதாக உருவெடுக்கும் சர்வதேச அச்சுறுத்தல் மற்றும் சவால்களை சேர்ந்து சமாளிப்பது குறித்தும் உத்திகள் வகுக்கப்படும் .
-# full_sent_translit potuvāka iru nāṭukaḷum payanaṭaiyum viṣayaṅkaḷil kavanam celuttuvatōṭu , putitāka uruveṭukkum carvatēca accuruttal marrum cavālkaḷai cērntu camāḷippatu kurittum uttikaḷ vakukkappaṭum .
+# sent_id = dev-s39/ta
+# text = பொதுவாக இரு நாடுகளும் பயனடையும் விஷயங்களில் கவனம் செலுத்துவதோடு, புதிதாக உருவெடுக்கும் சர்வதேச அச்சுறுத்தல் மற்றும் சவால்களை சேர்ந்து சமாளிப்பது குறித்தும் உத்திகள் வகுக்கப்படும்.
+# translit = potuvāka iru nāṭukaḷum payanaṭaiyum viṣayaṅkaḷil kavanam celuttuvatōṭu, putitāka uruveṭukkum carvatēca accuruttal marrum cavālkaḷai cērntu camāḷippatu kurittum uttikaḷ vakukkappaṭum.
 # orig_file_sentence 001#39
 1	பொதுவாக	பொது	ADV	AA-------	_	5	advmod	_	Translit=potuvāka|LTranslit=potu
 2	இரு	இரு	NUM	Ux-------	NumType=Card	3	nummod	_	Translit=iru|LTranslit=iru
@@ -925,9 +925,9 @@
 23	ப்படும்	படு	AUX	VR-F3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Pass	22	aux	_	Translit=ppaṭum|LTranslit=paṭu
 24	.	.	PUNCT	Z#-------	PunctType=Peri	22	punct	_	Translit=.|LTranslit=.
 
-# sent_id s40/ta
-# full_sent எதிர்காலத்தில் சேர்ந்து செயல்படும் துறைகளைக் கண்டறிந்து அதற்குரிய உத்திகளை வகுக்கவும் இந்தப் பயணம் உதவிகரமாக அமையும் .
-# full_sent_translit etirkālattil cērntu ceyalpaṭum turaikaḷaik kaṇṭarintu atarkuriya uttikaḷai vakukkavum intap payaṇam utavikaramāka amaiyum .
+# sent_id = dev-s40/ta
+# text = எதிர்காலத்தில் சேர்ந்து செயல்படும் துறைகளைக் கண்டறிந்து அதற்குரிய உத்திகளை வகுக்கவும் இந்தப் பயணம் உதவிகரமாக அமையும்.
+# translit = etirkālattil cērntu ceyalpaṭum turaikaḷaik kaṇṭarintu atarkuriya uttikaḷai vakukkavum intap payaṇam utavikaramāka amaiyum.
 # orig_file_sentence 001#40
 1	எதிர்காலத்தில்	எதிர்காலம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	13	obl	_	Translit=etirkālattil|LTranslit=etirkālam
 2	சேர்ந்து	சேர்	ADV	AA-------	_	3	advmod	_	Translit=cērntu|LTranslit=cēr
@@ -945,9 +945,9 @@
 13	அமையும்	அமை	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=amaiyum|LTranslit=amai
 14	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.|LTranslit=.
 
-# sent_id s41/ta
-# full_sent ஆப்கானிஸ்தான் மற்றும் பாகிஸ்தான் குறித்து அமெரிக்காவும் இந்தியாவும் தொடர்ந்து கருத்துகளைப் பரிமாறிக் கொண்டு வருகிறது .
-# full_sent_translit āpkānistān marrum pākistān kurittu amerikkāvum intiyāvum toṭarntu karuttukaḷaip parimārik koṇṭu varukiratu .
+# sent_id = dev-s41/ta
+# text = ஆப்கானிஸ்தான் மற்றும் பாகிஸ்தான் குறித்து அமெரிக்காவும் இந்தியாவும் தொடர்ந்து கருத்துகளைப் பரிமாறிக் கொண்டு வருகிறது.
+# translit = āpkānistān marrum pākistān kurittu amerikkāvum intiyāvum toṭarntu karuttukaḷaip parimārik koṇṭu varukiratu.
 # orig_file_sentence 001#41
 1	ஆப்கானிஸ்தான்	ஆப்கானிஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obl	_	Translit=āpkānistān|LTranslit=āpkānistān
 2	மற்றும்	மற்றும்	CCONJ	CC-------	_	3	cc	_	Translit=marrum|LTranslit=marrum
@@ -966,9 +966,9 @@
 13	வருகிறது	வரு	AUX	VR-P3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	SpaceAfter=No|Translit=varukiratu|LTranslit=varu
 14	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id s42/ta
-# full_sent இது தவிர , தெற்காசிய பிராந்தியத்தில் ஏற்படும் நிகழ்வுகள் குறித்த பரிமாற்றமும் அவ்வப்போது மேற்கொள்ளப் படுகிறது .
-# full_sent_translit itu tavira , terkāciya pirāntiyattil ērpaṭum nikalvukaḷ kuritta parimārramum avvappōtu mērkoḷḷap paṭukiratu .
+# sent_id = dev-s42/ta
+# text = இது தவிர, தெற்காசிய பிராந்தியத்தில் ஏற்படும் நிகழ்வுகள் குறித்த பரிமாற்றமும் அவ்வப்போது மேற்கொள்ளப் படுகிறது.
+# translit = itu tavira, terkāciya pirāntiyattil ērpaṭum nikalvukaḷ kuritta parimārramum avvappōtu mērkoḷḷap paṭukiratu.
 # orig_file_sentence 001#42
 1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obl	_	Translit=itu|LTranslit=itu
 2	தவிர	தவிர	ADP	PP-------	AdpType=Post	1	case	_	SpaceAfter=No|Translit=tavira|LTranslit=tavira
@@ -986,9 +986,9 @@
 13	படுகிறது	படு	AUX	VR-P3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	12	aux	_	SpaceAfter=No|Translit=paṭukiratu|LTranslit=paṭu
 14	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id s43/ta
-# full_sent கிழக்கு ஆசியா குறித்த பேச்சுவார்த்தை நடத்த முடிவு செய்யப்பட்டுள்ளது .
-# full_sent_translit kilakku āciyā kuritta pēccuvārttai naṭatta muṭivu ceyyappaṭṭuḷḷatu .
+# sent_id = dev-s43/ta
+# text = கிழக்கு ஆசியா குறித்த பேச்சுவார்த்தை நடத்த முடிவு செய்யப்பட்டுள்ளது.
+# translit = kilakku āciyā kuritta pēccuvārttai naṭatta muṭivu ceyyappaṭṭuḷḷatu.
 # orig_file_sentence 001#43
 1	கிழக்கு	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=kilakku|LTranslit=kilakku
 2	ஆசியா	ஆசியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	_	Translit=āciyā|LTranslit=āciyā
@@ -1002,9 +1002,9 @@
 9	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	6	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 10	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id s44/ta
-# full_sent இதன் மூலம் ஆசியான் நாடுகள் இடையே பொருளாதாரம் மற்றும் பாதுகாப்பு கட்டமைப்புகள் குறித்து தகவல் பரிமாறவும் , அதை வலுப்படுத்துவது Kஉறித்தும் ஆராயப்படும் .
-# full_sent_translit itan mūlam āciyān nāṭukaḷ iṭaiyē poruḷātāram marrum pātukāppu kaṭṭamaippukaḷ kurittu takaval parimāravum , atai valuppaṭuttuvatu Kurittum ārāyappaṭum .
+# sent_id = dev-s44/ta
+# text = இதன் மூலம் ஆசியான் நாடுகள் இடையே பொருளாதாரம் மற்றும் பாதுகாப்பு கட்டமைப்புகள் குறித்து தகவல் பரிமாறவும், அதை வலுப்படுத்துவது Kஉறித்தும் ஆராயப்படும்.
+# translit = itan mūlam āciyān nāṭukaḷ iṭaiyē poruḷātāram marrum pātukāppu kaṭṭamaippukaḷ kurittu takaval parimāravum, atai valuppaṭuttuvatu Kurittum ārāyappaṭum.
 # orig_file_sentence 001#44
 1	இதன்	இது	PRON	RpG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obl	_	Translit=itan|LTranslit=itu
 2	மூலம்	மூலம்	ADP	PP-------	AdpType=Post	1	case	_	Translit=mūlam|LTranslit=mūlam
@@ -1031,9 +1031,9 @@
 20	ப்படும்	படு	AUX	VR-F3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Pass	19	aux	_	Translit=ppaṭum|LTranslit=paṭu
 21	.	.	PUNCT	Z#-------	PunctType=Peri	19	punct	_	Translit=.|LTranslit=.
 
-# sent_id s45/ta
-# full_sent இரு நாடுஉம் இணைந்து ஆப்பிரிக்காவை மேம்படுத்துவது Kஉறித்தும் விரிவாக பேசப்படும் .
-# full_sent_translit iru nāṭuum iṇaintu āppirikkāvai mēmpaṭuttuvatu Kurittum virivāka pēcappaṭum .
+# sent_id = dev-s45/ta
+# text = இரு நாடுஉம் இணைந்து ஆப்பிரிக்காவை மேம்படுத்துவது Kஉறித்தும் விரிவாக பேசப்படும்.
+# translit = iru nāṭuum iṇaintu āppirikkāvai mēmpaṭuttuvatu Kurittum virivāka pēcappaṭum.
 # orig_file_sentence 001#45
 1	இரு	இரு	NUM	Ux-------	NumType=Card	2	nummod	_	Translit=iru|LTranslit=iru
 2-3	நாடுஉம்	_	_	_	_	_	_	_	_
@@ -1051,9 +1051,9 @@
 11	ப்படும்	படு	AUX	VR-F3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Pass	10	aux	_	Translit=ppaṭum|LTranslit=paṭu
 12	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.|LTranslit=.
 
-# sent_id s46/ta
-# full_sent இரு நாடுகள் மட்டுமே சார்ந்த விஷயங்கள் அல்லாது சர்வதேச சமூகத்தை காக்கும் பணிகளில் இணைந்து செயல்படுவது குறித்து ஆராயப்படும் .
-# full_sent_translit iru nāṭukaḷ maṭṭumē cārnta viṣayaṅkaḷ allātu carvatēca camūkattai kākkum paṇikaḷil iṇaintu ceyalpaṭuvatu kurittu ārāyappaṭum .
+# sent_id = dev-s46/ta
+# text = இரு நாடுகள் மட்டுமே சார்ந்த விஷயங்கள் அல்லாது சர்வதேச சமூகத்தை காக்கும் பணிகளில் இணைந்து செயல்படுவது குறித்து ஆராயப்படும்.
+# translit = iru nāṭukaḷ maṭṭumē cārnta viṣayaṅkaḷ allātu carvatēca camūkattai kākkum paṇikaḷil iṇaintu ceyalpaṭuvatu kurittu ārāyappaṭum.
 # orig_file_sentence 001#46
 1	இரு	இரு	NUM	Ux-------	NumType=Card	2	nummod	_	Translit=iru|LTranslit=iru
 2	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	nmod	_	Translit=nāṭukaḷ|LTranslit=nāṭu
@@ -1071,9 +1071,9 @@
 14	ஆராயப்படும்	ஆராய்	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ārāyappaṭum|LTranslit=ārāy
 15	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.|LTranslit=.
 
-# sent_id s47/ta
-# full_sent குறிப்பாக கடல் பாதுகாப்பு , அதிகரித்து வரும் இணையதள மோசடி , குற்றங்களை தடுப்பது Kஉறித்தும் இரு நாடுகளும் விவாதிக்கும் .
-# full_sent_translit kurippāka kaṭal pātukāppu , atikarittu varum iṇaiyataḷa mōcaṭi , kurraṅkaḷai taṭuppatu Kurittum iru nāṭukaḷum vivātikkum .
+# sent_id = dev-s47/ta
+# text = குறிப்பாக கடல் பாதுகாப்பு, அதிகரித்து வரும் இணையதள மோசடி, குற்றங்களை தடுப்பது Kஉறித்தும் இரு நாடுகளும் விவாதிக்கும்.
+# translit = kurippāka kaṭal pātukāppu, atikarittu varum iṇaiyataḷa mōcaṭi, kurraṅkaḷai taṭuppatu Kurittum iru nāṭukaḷum vivātikkum.
 # orig_file_sentence 001#47
 1	குறிப்பாக	குறிப்பாக	ADV	AA-------	_	17	advmod	_	Translit=kurippāka|LTranslit=kurippāka
 2	கடல்	கடல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=kaṭal|LTranslit=kaṭal
@@ -1096,9 +1096,9 @@
 17	விவாதிக்கும்	விவாதி	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vivātikkum|LTranslit=vivāti
 18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
-# sent_id s48/ta
-# full_sent இந்தியா , அமெரிக்கா இடையிலான உறவின் புதிய பரிமாணமாக ஆக்க பணிகளில் அணு சக்தியை பயன்படுத்துவதற்கான ஒப்பந்தம் கையெழுத்தாகியுள்ளது .
-# full_sent_translit intiyā , amerikkā iṭaiyilāna uravin putiya parimāṇamāka ākka paṇikaḷil aṇu caktiyai payanpaṭuttuvatarkāna oppantam kaiyeluttākiyuḷḷatu .
+# sent_id = dev-s48/ta
+# text = இந்தியா, அமெரிக்கா இடையிலான உறவின் புதிய பரிமாணமாக ஆக்க பணிகளில் அணு சக்தியை பயன்படுத்துவதற்கான ஒப்பந்தம் கையெழுத்தாகியுள்ளது.
+# translit = intiyā, amerikkā iṭaiyilāna uravin putiya parimāṇamāka ākka paṇikaḷil aṇu caktiyai payanpaṭuttuvatarkāna oppantam kaiyeluttākiyuḷḷatu.
 # orig_file_sentence 001#48
 1	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	SpaceAfter=No|Translit=intiyā|LTranslit=intiyā
 2	,	,	PUNCT	Z:-------	PunctType=Comm	3	punct	_	Translit=,|LTranslit=,
@@ -1124,9 +1124,9 @@
 18	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	17	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 19	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
-# sent_id s49/ta
-# full_sent இரு நாடுகள் இடையிலான கூட்டு முயற்சியில் இதுவரை அணுசக்தித் துறையிலான ஒத்துழைப்பு இல்லாமல் இருந்தது .
-# full_sent_translit iru nāṭukaḷ iṭaiyilāna kūṭṭu muyarciyil ituvarai aṇucaktit turaiyilāna ottulaippu illāmal iruntatu .
+# sent_id = dev-s49/ta
+# text = இரு நாடுகள் இடையிலான கூட்டு முயற்சியில் இதுவரை அணுசக்தித் துறையிலான ஒத்துழைப்பு இல்லாமல் இருந்தது.
+# translit = iru nāṭukaḷ iṭaiyilāna kūṭṭu muyarciyil ituvarai aṇucaktit turaiyilāna ottulaippu illāmal iruntatu.
 # orig_file_sentence 001#49
 1	இரு	இரு	NUM	Ux-------	NumType=Card	2	nummod	_	Translit=iru|LTranslit=iru
 2	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	3	nmod	_	Translit=nāṭukaḷ|LTranslit=nāṭu
@@ -1145,9 +1145,9 @@
 13	இருந்தது	இரு	AUX	VR-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iruntatu|LTranslit=iru
 14	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.|LTranslit=.
 
-# sent_id s50/ta
-# full_sent அணுசக்தி ஒப்பந்தம் கையெழுத்தானதால் அத்துறையிலும் இனி இரு நாடுகளும் கூட்டாக ஈடுபடும் வாய்ப்பு பிரகாசமடைந்துள்ளது .
-# full_sent_translit aṇucakti oppantam kaiyeluttānatāl atturaiyilum ini iru nāṭukaḷum kūṭṭāka īṭupaṭum vāyppu pirakācamaṭaintuḷḷatu .
+# sent_id = dev-s50/ta
+# text = அணுசக்தி ஒப்பந்தம் கையெழுத்தானதால் அத்துறையிலும் இனி இரு நாடுகளும் கூட்டாக ஈடுபடும் வாய்ப்பு பிரகாசமடைந்துள்ளது.
+# translit = aṇucakti oppantam kaiyeluttānatāl atturaiyilum ini iru nāṭukaḷum kūṭṭāka īṭupaṭum vāyppu pirakācamaṭaintuḷḷatu.
 # orig_file_sentence 001#50
 1	அணுசக்தி	அணுசக்தி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=aṇucakti|LTranslit=aṇucakti
 2	ஒப்பந்தம்	ஒப்பந்தம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=oppantam|LTranslit=oppantam
@@ -1170,9 +1170,9 @@
 15	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	14	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 16	.	.	PUNCT	Z#-------	PunctType=Peri	14	punct	_	Translit=.|LTranslit=.
 
-# sent_id s51/ta
-# full_sent அமெரிக்க நிறுவனங்களுடன் இணைந்து அணு மின் நிலையங்களுக்குத் தேவையான அணு உலைகளைத் தயாரிப்பதற்கான வர்த்தக ரீதியிலான பேச்சுவார்த்தை விரைவில் தொடங்கும் .
-# full_sent_translit amerikka niruvanaṅkaḷuṭan iṇaintu aṇu min nilaiyaṅkaḷukkut tēvaiyāna aṇu ulaikaḷait tayārippatarkāna varttaka rītiyilāna pēccuvārttai viraivil toṭaṅkum .
+# sent_id = dev-s51/ta
+# text = அமெரிக்க நிறுவனங்களுடன் இணைந்து அணு மின் நிலையங்களுக்குத் தேவையான அணு உலைகளைத் தயாரிப்பதற்கான வர்த்தக ரீதியிலான பேச்சுவார்த்தை விரைவில் தொடங்கும்.
+# translit = amerikka niruvanaṅkaḷuṭan iṇaintu aṇu min nilaiyaṅkaḷukkut tēvaiyāna aṇu ulaikaḷait tayārippatarkāna varttaka rītiyilāna pēccuvārttai viraivil toṭaṅkum.
 # orig_file_sentence 001#51
 1	அமெரிக்க	அமெரிக்கா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=amerikka|LTranslit=amerikkā
 2-3	நிறுவனங்களுடன்	_	_	_	_	_	_	_	_
@@ -1199,9 +1199,9 @@
 19	தொடங்கும்	தொடங்கு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=toṭaṅkum|LTranslit=toṭaṅku
 20	.	.	PUNCT	Z#-------	PunctType=Peri	19	punct	_	Translit=.|LTranslit=.
 
-# sent_id s52/ta
-# full_sent இதேபோல இந்திய விண்வெளி ஆய்வில் அமெரிக்காவுடனான கூட்டு புதிய அத்தியாயத்தை ஏற்படுத்த உதவும் .
-# full_sent_translit itēpōla intiya viṇveḷi āyvil amerikkāvuṭanāna kūṭṭu putiya attiyāyattai ērpaṭutta utavum .
+# sent_id = dev-s52/ta
+# text = இதேபோல இந்திய விண்வெளி ஆய்வில் அமெரிக்காவுடனான கூட்டு புதிய அத்தியாயத்தை ஏற்படுத்த உதவும்.
+# translit = itēpōla intiya viṇveḷi āyvil amerikkāvuṭanāna kūṭṭu putiya attiyāyattai ērpaṭutta utavum.
 # orig_file_sentence 001#52
 1	இதேபோல	இதேபோல்	ADV	AA-------	_	12	advmod	_	Translit=itēpōla|LTranslit=itēpōl
 2	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=intiya|LTranslit=intiyā
@@ -1218,9 +1218,9 @@
 12	உதவும்	உதவு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=utavum|LTranslit=utavu
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id s53/ta
-# full_sent நீராதாரம் , பருவ நிலை நிலவரம் , வானியல் ஆய்வு , விமான சேவை உள்ளிட்டவற்றில் இணைந்து செயல்படுவதற்கான வாய்ப்பு அதிகரித்துள்ளது .
-# full_sent_translit nīrātāram , paruva nilai nilavaram , vāniyal āyvu , vimāna cēvai uḷḷiṭṭavarril iṇaintu ceyalpaṭuvatarkāna vāyppu atikarittuḷḷatu .
+# sent_id = dev-s53/ta
+# text = நீராதாரம், பருவ நிலை நிலவரம், வானியல் ஆய்வு, விமான சேவை உள்ளிட்டவற்றில் இணைந்து செயல்படுவதற்கான வாய்ப்பு அதிகரித்துள்ளது.
+# translit = nīrātāram, paruva nilai nilavaram, vāniyal āyvu, vimāna cēvai uḷḷiṭṭavarril iṇaintu ceyalpaṭuvatarkāna vāyppu atikarittuḷḷatu.
 # orig_file_sentence 001#53
 1	நீராதாரம்	நீராதாரம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nmod	_	SpaceAfter=No|Translit=nīrātāram|LTranslit=nīrātāram
 2	,	,	PUNCT	Z:-------	PunctType=Comm	5	punct	_	Translit=,|LTranslit=,
@@ -1244,9 +1244,9 @@
 18	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	17	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 19	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
-# sent_id s54/ta
-# full_sent மேலும் ஐக்கிய நாடுகள் பாதுகாப்புக் கவுன்சிலில் நிரந்தர உறுப்பினர் இடத்தைப் பிடிக்க இந்தியாவுக்கு அமெரிக்கா உதவும் .
-# full_sent_translit mēlum aikkiya nāṭukaḷ pātukāppuk kavuncilil nirantara uruppinar iṭattaip piṭikka intiyāvukku amerikkā utavum .
+# sent_id = dev-s54/ta
+# text = மேலும் ஐக்கிய நாடுகள் பாதுகாப்புக் கவுன்சிலில் நிரந்தர உறுப்பினர் இடத்தைப் பிடிக்க இந்தியாவுக்கு அமெரிக்கா உதவும்.
+# translit = mēlum aikkiya nāṭukaḷ pātukāppuk kavuncilil nirantara uruppinar iṭattaip piṭikka intiyāvukku amerikkā utavum.
 # orig_file_sentence 001#54
 1	மேலும்	மேலும்	ADV	AA-------	_	9	advmod	_	Translit=mēlum|LTranslit=mēlum
 2	ஐக்கிய	ஐக்கிய	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=aikkiya|LTranslit=aikkiya
@@ -1262,9 +1262,9 @@
 12	உதவும்	உதவு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=utavum|LTranslit=utavu
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id s55/ta
-# full_sent இதற்காக பாதுகாப்புக் கவுன்சில் விரிவாக்க நடவடிக்கையை அமெரிக்கா ஏற்கும் என நம்புவதாக மீரா சங்கர் கூறினார் .
-# full_sent_translit itarkāka pātukāppuk kavuncil virivākka naṭavaṭikkaiyai amerikkā ērkum ena nampuvatāka mīrā caṅkar kūrinār .
+# sent_id = dev-s55/ta
+# text = இதற்காக பாதுகாப்புக் கவுன்சில் விரிவாக்க நடவடிக்கையை அமெரிக்கா ஏற்கும் என நம்புவதாக மீரா சங்கர் கூறினார்.
+# translit = itarkāka pātukāppuk kavuncil virivākka naṭavaṭikkaiyai amerikkā ērkum ena nampuvatāka mīrā caṅkar kūrinār.
 # orig_file_sentence 001#55
 1	இதற்காக	இது	ADV	AA-------	_	7	advmod	_	Translit=itarkāka|LTranslit=itu
 2	பாதுகாப்புக்	பாதுகாப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=pātukāppuk|LTranslit=pātukāppu
@@ -1282,9 +1282,9 @@
 13	கூறினார்	கூறு	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kūrinār|LTranslit=kūru
 14	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.|LTranslit=.
 
-# sent_id s56/ta
-# full_sent 2008-ம் ஆண்டு ஏற்பட்ட சர்வதேச பொருளாதார நெருக்கடியைத் தொடர்ந்து சர்வதேச நிதி அமைப்புகளான உலக வங்கி மற்றும் அன்னியச் செலாவணி நிதியம் ( ஐஎமெப் ) உள்ளிட்டவற்றில் நிதிச் சீர்திருத்தம் செய்ய வேண்டும் என்ற இந்தியாவின் கோரிக்கை ஏற்கப்பட்டுள்ளது .
-# full_sent_translit 2008-m āṇṭu ērpaṭṭa carvatēca poruḷātāra nerukkaṭiyait toṭarntu carvatēca niti amaippukaḷāna ulaka vaṅki marrum anniyac celāvaṇi nitiyam ( aiemep ) uḷḷiṭṭavarril nitic cīrtiruttam ceyya vēṇṭum enra intiyāvin kōrikkai ērkappaṭṭuḷḷatu .
+# sent_id = dev-s56/ta
+# text = 2008-ம் ஆண்டு ஏற்பட்ட சர்வதேச பொருளாதார நெருக்கடியைத் தொடர்ந்து சர்வதேச நிதி அமைப்புகளான உலக வங்கி மற்றும் அன்னியச் செலாவணி நிதியம் (ஐஎமெப்) உள்ளிட்டவற்றில் நிதிச் சீர்திருத்தம் செய்ய வேண்டும் என்ற இந்தியாவின் கோரிக்கை ஏற்கப்பட்டுள்ளது.
+# translit = 2008-m āṇṭu ērpaṭṭa carvatēca poruḷātāra nerukkaṭiyait toṭarntu carvatēca niti amaippukaḷāna ulaka vaṅki marrum anniyac celāvaṇi nitiyam (aiemep) uḷḷiṭṭavarril nitic cīrtiruttam ceyya vēṇṭum enra intiyāvin kōrikkai ērkappaṭṭuḷḷatu.
 # orig_file_sentence 001#56
 1	2008-ம்	2008	ADJ	Uy-------	NumType=Ord	2	amod	_	Translit=2008-m|LTranslit=2008
 2	ஆண்டு	ஆண்டு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=āṇṭu|LTranslit=āṇṭu
@@ -1320,9 +1320,9 @@
 30	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	29	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 31	.	.	PUNCT	Z#-------	PunctType=Peri	29	punct	_	Translit=.|LTranslit=.
 
-# sent_id s57/ta
-# full_sent இது தொடர்பான ஆலோசனைகளையும் இந்தியா வழங்கி வருகிறது .
-# full_sent_translit itu toṭarpāna ālōcanaikaḷaiyum intiyā valaṅki varukiratu .
+# sent_id = dev-s57/ta
+# text = இது தொடர்பான ஆலோசனைகளையும் இந்தியா வழங்கி வருகிறது.
+# translit = itu toṭarpāna ālōcanaikaḷaiyum intiyā valaṅki varukiratu.
 # orig_file_sentence 001#57
 1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Translit=itu|LTranslit=itu
 2	தொடர்பான	தொடர்பு	ADJ	JJ-------	_	3	amod	_	Translit=toṭarpāna|LTranslit=toṭarpu
@@ -1334,9 +1334,9 @@
 7	வருகிறது	வரு	AUX	VR-P3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=varukiratu|LTranslit=varu
 8	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id s58/ta
-# full_sent 100 கோடிக்கும் அதிகமான மக்கள் தொகை கொண்ட இந்தியாவில் பொருளாதார வளர்ச்சி ஏற்பட்டுள்ளது .
-# full_sent_translit 100 kōṭikkum atikamāna makkaḷ tokai koṇṭa intiyāvil poruḷātāra vaḷarcci ērpaṭṭuḷḷatu .
+# sent_id = dev-s58/ta
+# text = 100 கோடிக்கும் அதிகமான மக்கள் தொகை கொண்ட இந்தியாவில் பொருளாதார வளர்ச்சி ஏற்பட்டுள்ளது.
+# translit = 100 kōṭikkum atikamāna makkaḷ tokai koṇṭa intiyāvil poruḷātāra vaḷarcci ērpaṭṭuḷḷatu.
 # orig_file_sentence 001#58
 1	100	100	NUM	U=-------	NumForm=Digit	2	nummod	_	Translit=100|LTranslit=100
 2-3	கோடிக்கும்	_	_	_	_	_	_	_	_
@@ -1354,9 +1354,9 @@
 12	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	_	Translit=uḷḷatu|LTranslit=uḷ
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id s59/ta
-# full_sent சர்வதேச அளவில் தமக்குள்ள பொறுப்பை செயல்படுத்துவதில் அமெரிக்காவுடன் இணைந்து பணியாற்ற இந்தியா ஆர்வமாக உள்ளது என்றார் மீரா சங்கர் .
-# full_sent_translit carvatēca aḷavil tamakkuḷḷa poruppai ceyalpaṭuttuvatil amerikkāvuṭan iṇaintu paṇiyārra intiyā ārvamāka uḷḷatu enrār mīrā caṅkar .
+# sent_id = dev-s59/ta
+# text = சர்வதேச அளவில் தமக்குள்ள பொறுப்பை செயல்படுத்துவதில் அமெரிக்காவுடன் இணைந்து பணியாற்ற இந்தியா ஆர்வமாக உள்ளது என்றார் மீரா சங்கர்.
+# translit = carvatēca aḷavil tamakkuḷḷa poruppai ceyalpaṭuttuvatil amerikkāvuṭan iṇaintu paṇiyārra intiyā ārvamāka uḷḷatu enrār mīrā caṅkar.
 # orig_file_sentence 001#59
 1	சர்வதேச	சர்வதேசம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=carvatēca|LTranslit=carvatēcam
 2	அளவில்	அளவு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=aḷavil|LTranslit=aḷavu
@@ -1380,9 +1380,9 @@
 17	சங்கர்	சங்கர்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	15	nsubj	_	SpaceAfter=No|Translit=caṅkar|LTranslit=caṅkar
 18	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	_	Translit=.|LTranslit=.
 
-# sent_id s60/ta
-# full_sent பாஜகவுடன் கூட்டணி வைத்துக் கொண்டு மதச்சார்பின்மை குறித்து பிகார் முதல்வர் நிதீஷ் குமார் எப்படி பேச முடியும் என்று கேள்வி எழுப்பி உள்ளார் காங்கிரஸ் பொதுச் செயலாளர் ராகுல் காந்தி .
-# full_sent_translit pājakavuṭan kūṭṭaṇi vaittuk koṇṭu mataccārpinmai kurittu pikār mutalvar nitīṣ kumār eppaṭi pēca muṭiyum enru kēḷvi eluppi uḷḷār kāṅkiras potuc ceyalāḷar rākul kānti .
+# sent_id = dev-s60/ta
+# text = பாஜகவுடன் கூட்டணி வைத்துக் கொண்டு மதச்சார்பின்மை குறித்து பிகார் முதல்வர் நிதீஷ் குமார் எப்படி பேச முடியும் என்று கேள்வி எழுப்பி உள்ளார் காங்கிரஸ் பொதுச் செயலாளர் ராகுல் காந்தி.
+# translit = pājakavuṭan kūṭṭaṇi vaittuk koṇṭu mataccārpinmai kurittu pikār mutalvar nitīṣ kumār eppaṭi pēca muṭiyum enru kēḷvi eluppi uḷḷār kāṅkiras potuc ceyalāḷar rākul kānti.
 # orig_file_sentence 001#60
 1-2	பாஜகவுடன்	_	_	_	_	_	_	_	_
 1	பாஜகவ்	பாஜக	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obl	_	Translit=pājakav|LTranslit=pājaka
@@ -1410,9 +1410,9 @@
 23	காந்தி	காந்தி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	17	nsubj	_	SpaceAfter=No|Translit=kānti|LTranslit=kānti
 24	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
-# sent_id s61/ta
-# full_sent அவரது மதச்சார்பின்மை நம்பகத்தன்மைக்கு உகந்ததாக இல்லை என்றும் அவர் கூறினார் .
-# full_sent_translit avaratu mataccārpinmai nampakattanmaikku ukantatāka illai enrum avar kūrinār .
+# sent_id = dev-s61/ta
+# text = அவரது மதச்சார்பின்மை நம்பகத்தன்மைக்கு உகந்ததாக இல்லை என்றும் அவர் கூறினார்.
+# translit = avaratu mataccārpinmai nampakattanmaikku ukantatāka illai enrum avar kūrinār.
 # orig_file_sentence 001#61
 1	அவரது	அவர்	PRON	RpG-3SH--	Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nmod	_	Translit=avaratu|LTranslit=avar
 2	மதச்சார்பின்மை	மதச்சார்பின்மை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obj	_	Translit=mataccārpinmai|LTranslit=mataccārpinmai
@@ -1428,9 +1428,9 @@
 10	கூறினார்	கூறு	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kūrinār|LTranslit=kūru
 11	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.|LTranslit=.
 
-# sent_id s62/ta
-# full_sent பிகார் சட்டப்பேரவைத் தேர்தலையொட்டி கோதா மற்றும் சிக்தி ஆகிய இடங்களில் வியாழக்கிழமை நடைபெற்ற தேர்தல் பிரசாரத்தில் பேசும் போது அவர் இவ்வாறு கூறினார் .
-# full_sent_translit pikār caṭṭappēravait tērtalaiyoṭṭi kōtā marrum cikti ākiya iṭaṅkaḷil viyālakkilamai naṭaiperra tērtal piracārattil pēcum pōtu avar ivvāru kūrinār .
+# sent_id = dev-s62/ta
+# text = பிகார் சட்டப்பேரவைத் தேர்தலையொட்டி கோதா மற்றும் சிக்தி ஆகிய இடங்களில் வியாழக்கிழமை நடைபெற்ற தேர்தல் பிரசாரத்தில் பேசும் போது அவர் இவ்வாறு கூறினார்.
+# translit = pikār caṭṭappēravait tērtalaiyoṭṭi kōtā marrum cikti ākiya iṭaṅkaḷil viyālakkilamai naṭaiperra tērtal piracārattil pēcum pōtu avar ivvāru kūrinār.
 # orig_file_sentence 001#62
 1	பிகார்	பிகார்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=pikār|LTranslit=pikār
 2	சட்டப்பேரவைத்	சட்டப்பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=caṭṭappēravait|LTranslit=caṭṭappēravai
@@ -1453,9 +1453,9 @@
 18	கூறினார்	கூறு	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kūrinār|LTranslit=kūru
 19	.	.	PUNCT	Z#-------	PunctType=Peri	18	punct	_	Translit=.|LTranslit=.
 
-# sent_id s63/ta
-# full_sent பாஜகவுடன் கூட்டணி வைத்திருக்கிறீர்கள் .
-# full_sent_translit pājakavuṭan kūṭṭaṇi vaittirukkirīrkaḷ .
+# sent_id = dev-s63/ta
+# text = பாஜகவுடன் கூட்டணி வைத்திருக்கிறீர்கள்.
+# translit = pājakavuṭan kūṭṭaṇi vaittirukkirīrkaḷ.
 # orig_file_sentence 001#63
 1-2	பாஜகவுடன்	_	_	_	_	_	_	_	_
 1	பாஜகவ்	பாஜக	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obl	_	Translit=pājakav|LTranslit=pājaka
@@ -1466,9 +1466,9 @@
 5	இருக்கிறீர்கள்	இரு	AUX	VR-P2PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Translit=irukkirīrkaḷ|LTranslit=iru
 6	.	.	PUNCT	Z#-------	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id s64/ta
-# full_sent ஒரு தலைவர் ( மோடி ) இங்கு வந்து பிரசாரம் செய்து விடக் கூடாது என்று அஞ்சுகிறீர்கள் .
-# full_sent_translit oru talaivar ( mōṭi ) iṅku vantu piracāram ceytu viṭak kūṭātu enru añcukirīrkaḷ .
+# sent_id = dev-s64/ta
+# text = ஒரு தலைவர் (மோடி) இங்கு வந்து பிரசாரம் செய்து விடக் கூடாது என்று அஞ்சுகிறீர்கள்.
+# translit = oru talaivar (mōṭi) iṅku vantu piracāram ceytu viṭak kūṭātu enru añcukirīrkaḷ.
 # orig_file_sentence 001#64
 1	ஒரு	ஒரு	ADJ	JJ-------	_	2	amod	_	Translit=oru|LTranslit=oru
 2	தலைவர்	தலைவர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	9	nsubj	_	Translit=talaivar|LTranslit=talaivar
@@ -1485,9 +1485,9 @@
 13	அஞ்சுகிறீர்கள்	அஞ்சு	VERB	Vr-P2PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=añcukirīrkaḷ|LTranslit=añcu
 14	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.|LTranslit=.
 
-# sent_id s65/ta
-# full_sent பின்னர் எப்படி உங்கள் மதச்சார்பின்மையை நம்புவது என்று அவர் கேள்வி எழுப்பினார் .
-# full_sent_translit pinnar eppaṭi uṅkaḷ mataccārpinmaiyai nampuvatu enru avar kēḷvi eluppinār .
+# sent_id = dev-s65/ta
+# text = பின்னர் எப்படி உங்கள் மதச்சார்பின்மையை நம்புவது என்று அவர் கேள்வி எழுப்பினார்.
+# translit = pinnar eppaṭi uṅkaḷ mataccārpinmaiyai nampuvatu enru avar kēḷvi eluppinār.
 # orig_file_sentence 001#65
 1	பின்னர்	பின்னர்	ADV	AA-------	_	5	advmod	_	Translit=pinnar|LTranslit=pinnar
 2	எப்படி	எப்படி	ADV	AA-------	_	5	advmod	_	Translit=eppaṭi|LTranslit=eppaṭi
@@ -1500,9 +1500,9 @@
 9	எழுப்பினார்	எழுப்பு	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=eluppinār|LTranslit=eluppu
 10	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id s66/ta
-# full_sent பிகாரில் வகுப்புவாத அரசியலுக்கு முற்றுப்புள்ளி வைக்க காங்கிரஸ் விரும்புகிறது .
-# full_sent_translit pikāril vakuppuvāta araciyalukku murruppuḷḷi vaikka kāṅkiras virumpukiratu .
+# sent_id = dev-s66/ta
+# text = பிகாரில் வகுப்புவாத அரசியலுக்கு முற்றுப்புள்ளி வைக்க காங்கிரஸ் விரும்புகிறது.
+# translit = pikāril vakuppuvāta araciyalukku murruppuḷḷi vaikka kāṅkiras virumpukiratu.
 # orig_file_sentence 001#66
 1	பிகாரில்	பிகார்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	obl	_	Translit=pikāril|LTranslit=pikār
 2	வகுப்புவாத	வகுப்புவாதம்	ADJ	JJ-------	_	3	amod	_	Translit=vakuppuvāta|LTranslit=vakuppuvātam
@@ -1513,9 +1513,9 @@
 7	விரும்புகிறது	விரும்பு	VERB	Vr-P3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=virumpukiratu|LTranslit=virumpu
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id s67/ta
-# full_sent ஆளும் ஐக்கிய ஜனதாதளம் - பாஜக கூட்டணியானாலும் சரி அல்லது ராஷ்ட்ரீய ஜனதாதளம் - லோக் ஜனசக்தி கூட்டணியானாலும் சரி இவை இரண்டுமே மத , ஜாதி அரசியலை முன்னிறுத்தி அரசியல் லாபம் அடைய முயல்கின்றன .
-# full_sent_translit āḷum aikkiya janatātaḷam - pājaka kūṭṭaṇiyānālum cari allatu rāṣṭrīya janatātaḷam - lōk janacakti kūṭṭaṇiyānālum cari ivai iraṇṭumē mata , jāti araciyalai munnirutti araciyal lāpam aṭaiya muyalkinrana .
+# sent_id = dev-s67/ta
+# text = ஆளும் ஐக்கிய ஜனதாதளம் - பாஜக கூட்டணியானாலும் சரி அல்லது ராஷ்ட்ரீய ஜனதாதளம் - லோக் ஜனசக்தி கூட்டணியானாலும் சரி இவை இரண்டுமே மத, ஜாதி அரசியலை முன்னிறுத்தி அரசியல் லாபம் அடைய முயல்கின்றன.
+# translit = āḷum aikkiya janatātaḷam - pājaka kūṭṭaṇiyānālum cari allatu rāṣṭrīya janatātaḷam - lōk janacakti kūṭṭaṇiyānālum cari ivai iraṇṭumē mata, jāti araciyalai munnirutti araciyal lāpam aṭaiya muyalkinrana.
 # orig_file_sentence 001#67
 1	ஆளும்	ஆளு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	6	amod	_	Translit=āḷum|LTranslit=āḷu
 2	ஐக்கிய	ஐக்கிய	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=aikkiya|LTranslit=aikkiya
@@ -1551,12 +1551,12 @@
 29	அரசியல்	அரசியல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	30	nmod	_	Translit=araciyal|LTranslit=araciyal
 30	லாபம்	லாபம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	31	obj	_	Translit=lāpam|LTranslit=lāpam
 31	அடைய	அடை	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	9	advcl	_	Translit=aṭaiya|LTranslit=aṭai
-32	முயல்கின்றன	முயல்	VERB	Vr-P3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Translit=muyalkinrana|LTranslit=muyal
+32	முயல்கின்றன	முயல்	AUX	Vr-P3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Translit=muyalkinrana|LTranslit=muyal
 33	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id s68/ta
-# full_sent ஆனால் நாங்கள் ( காங்கிரஸ் ) மத , ஜாதி அரசியலை கடுமையாக எதிர்க்கிறோம் .
-# full_sent_translit ānāl nāṅkaḷ ( kāṅkiras ) mata , jāti araciyalai kaṭumaiyāka etirkkirōm .
+# sent_id = dev-s68/ta
+# text = ஆனால் நாங்கள் (காங்கிரஸ்) மத, ஜாதி அரசியலை கடுமையாக எதிர்க்கிறோம்.
+# translit = ānāl nāṅkaḷ (kāṅkiras) mata, jāti araciyalai kaṭumaiyāka etirkkirōm.
 # orig_file_sentence 001#68
 1	ஆனால்	ஆனால்	ADV	AA-------	_	11	advmod	_	Translit=ānāl|LTranslit=ānāl
 2	நாங்கள்	நாங்கள்	PRON	RpN-1PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	Translit=nāṅkaḷ|LTranslit=nāṅkaḷ
@@ -1571,9 +1571,9 @@
 11	எதிர்க்கிறோம்	எதிர்	VERB	Vr-P1PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=etirkkirōm|LTranslit=etir
 12	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id s69/ta
-# full_sent நாங்கள் சமூக நீதியையும் சமதர்மத்தையும் சமமான வளர்ச்சியையும் முன்னிறுத்தி பிரசாரம் செய்கிறோம் .
-# full_sent_translit nāṅkaḷ camūka nītiyaiyum camatarmattaiyum camamāna vaḷarcciyaiyum munnirutti piracāram ceykirōm .
+# sent_id = dev-s69/ta
+# text = நாங்கள் சமூக நீதியையும் சமதர்மத்தையும் சமமான வளர்ச்சியையும் முன்னிறுத்தி பிரசாரம் செய்கிறோம்.
+# translit = nāṅkaḷ camūka nītiyaiyum camatarmattaiyum camamāna vaḷarcciyaiyum munnirutti piracāram ceykirōm.
 # orig_file_sentence 001#69
 1	நாங்கள்	நாங்கள்	PRON	RpN-1PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Translit=nāṅkaḷ|LTranslit=nāṅkaḷ
 2	சமூக	சமூகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=camūka|LTranslit=camūkam
@@ -1592,9 +1592,9 @@
 12	செய்கிறோம்	செய்	VERB	Vr-P1PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceykirōm|LTranslit=cey
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id s70/ta
-# full_sent ஏழை , பணக்காரர் , ஹிந்து , முஸ்லிம் , சீக்கியர் , கிறிஸ்தவர் என எல்லோருக்காகவும் பாடுபடும் கட்சி காங்கிரஸ் .
-# full_sent_translit ēlai , paṇakkārar , hintu , muslim , cīkkiyar , kiristavar ena ellōrukkākavum pāṭupaṭum kaṭci kāṅkiras .
+# sent_id = dev-s70/ta
+# text = ஏழை, பணக்காரர், ஹிந்து, முஸ்லிம், சீக்கியர், கிறிஸ்தவர் என எல்லோருக்காகவும் பாடுபடும் கட்சி காங்கிரஸ்.
+# translit = ēlai, paṇakkārar, hintu, muslim, cīkkiyar, kiristavar ena ellōrukkākavum pāṭupaṭum kaṭci kāṅkiras.
 # orig_file_sentence 001#70
 1	ஏழை	ஏழை	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	16	nmod	_	SpaceAfter=No|Translit=ēlai|LTranslit=ēlai
 2	,	,	PUNCT	Z:-------	PunctType=Comm	3	punct	_	Translit=,|LTranslit=,
@@ -1617,9 +1617,9 @@
 18	காங்கிரஸ்	காங்கிரஸ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=kāṅkiras|LTranslit=kāṅkiras
 19	.	.	PUNCT	Z#-------	PunctType=Peri	18	punct	_	Translit=.|LTranslit=.
 
-# sent_id s71/ta
-# full_sent இவர்களுக்கான கட்சி என்று காங்கிரசுக்கு முத்திரை குத்த முடியாது என்றார் ராகுல் .
-# full_sent_translit ivarkaḷukkāna kaṭci enru kāṅkiracukku muttirai kutta muṭiyātu enrār rākul .
+# sent_id = dev-s71/ta
+# text = இவர்களுக்கான கட்சி என்று காங்கிரசுக்கு முத்திரை குத்த முடியாது என்றார் ராகுல்.
+# translit = ivarkaḷukkāna kaṭci enru kāṅkiracukku muttirai kutta muṭiyātu enrār rākul.
 # orig_file_sentence 001#71
 1-2	இவர்களுக்கான	_	_	_	_	_	_	_	_
 1	இவர்களுக்க்	இவர்	PRON	RpD-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nmod	_	Translit=ivarkaḷukk|LTranslit=ivar
@@ -1634,9 +1634,9 @@
 10	ராகுல்	ராகுல்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	9	nsubj	_	SpaceAfter=No|Translit=rākul|LTranslit=rākul
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id s72/ta
-# full_sent அதனால் தான் பிகாரில் அனைத்துத் தொகுதிகளிலும் தனித்துப் போட்டியிடுகிறோம் .
-# full_sent_translit atanāl tān pikāril anaittut tokutikaḷilum tanittup pōṭṭiyiṭukirōm .
+# sent_id = dev-s72/ta
+# text = அதனால் தான் பிகாரில் அனைத்துத் தொகுதிகளிலும் தனித்துப் போட்டியிடுகிறோம்.
+# translit = atanāl tān pikāril anaittut tokutikaḷilum tanittup pōṭṭiyiṭukirōm.
 # orig_file_sentence 001#72
 1	அதனால்	அதனால்	ADV	AA-------	_	8	advmod	_	Translit=atanāl|LTranslit=atanāl
 2	தான்	தான்	PART	Tq-------	_	1	advmod:emph	_	Translit=tān|LTranslit=tān
@@ -1649,9 +1649,9 @@
 8	போட்டியிடுகிறோம்	போட்டியிடு	VERB	Vr-P1P-AA	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pōṭṭiyiṭukirōm|LTranslit=pōṭṭiyiṭu
 9	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id s73/ta
-# full_sent தனித்துப் போட்டியிடுவது தொடக்கத்தில் சிரமமானது என்று எனக்குத் தெரியும் .
-# full_sent_translit tanittup pōṭṭiyiṭuvatu toṭakkattil ciramamānatu enru enakkut teriyum .
+# sent_id = dev-s73/ta
+# text = தனித்துப் போட்டியிடுவது தொடக்கத்தில் சிரமமானது என்று எனக்குத் தெரியும்.
+# translit = tanittup pōṭṭiyiṭuvatu toṭakkattil ciramamānatu enru enakkut teriyum.
 # orig_file_sentence 001#73
 1	தனித்துப்	தனித்து	ADV	AA-------	_	2	advmod	_	Translit=tanittup|LTranslit=tanittu
 2	போட்டியிடுவது	போட்டியிடு	VERB	VzNF3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	4	ccomp	_	Translit=pōṭṭiyiṭuvatu|LTranslit=pōṭṭiyiṭu
@@ -1662,18 +1662,18 @@
 7	தெரியும்	தெரி	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=teriyum|LTranslit=teri
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id s74/ta
-# full_sent ஆனால் தொடர்ந்து போராடுவோம் .
-# full_sent_translit ānāl toṭarntu pōrāṭuvōm .
+# sent_id = dev-s74/ta
+# text = ஆனால் தொடர்ந்து போராடுவோம்.
+# translit = ānāl toṭarntu pōrāṭuvōm.
 # orig_file_sentence 001#74
 1	ஆனால்	ஆனால்	ADV	AA-------	_	3	advmod	_	Translit=ānāl|LTranslit=ānāl
 2	தொடர்ந்து	தொடர்	ADV	AA-------	_	3	advmod	_	Translit=toṭarntu|LTranslit=toṭar
 3	போராடுவோம்	போராடு	VERB	Vr-F1P-AA	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pōrāṭuvōm|LTranslit=pōrāṭu
 4	.	.	PUNCT	Z#-------	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id s75/ta
-# full_sent வளர்ச்சிக்காக போராடுவோம் .
-# full_sent_translit vaḷarccikkāka pōrāṭuvōm .
+# sent_id = dev-s75/ta
+# text = வளர்ச்சிக்காக போராடுவோம்.
+# translit = vaḷarccikkāka pōrāṭuvōm.
 # orig_file_sentence 001#75
 1-2	வளர்ச்சிக்காக	_	_	_	_	_	_	_	_
 1	வளர்ச்சிக்க்	வளர்ச்சி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=vaḷarccikk|LTranslit=vaḷarcci
@@ -1681,9 +1681,9 @@
 3	போராடுவோம்	போராடு	VERB	Vr-F1P-AA	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pōrāṭuvōm|LTranslit=pōrāṭu
 4	.	.	PUNCT	Z#-------	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id s76/ta
-# full_sent இளைஞர்கள் பங்கு பெறும் அரசை அமைக்க தொடர்ந்து போராடுவோம் என்றார் அவர் .
-# full_sent_translit iḷaiñarkaḷ paṅku perum aracai amaikka toṭarntu pōrāṭuvōm enrār avar .
+# sent_id = dev-s76/ta
+# text = இளைஞர்கள் பங்கு பெறும் அரசை அமைக்க தொடர்ந்து போராடுவோம் என்றார் அவர்.
+# translit = iḷaiñarkaḷ paṅku perum aracai amaikka toṭarntu pōrāṭuvōm enrār avar.
 # orig_file_sentence 001#76
 1	இளைஞர்கள்	இளைஞர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	3	obj	_	Translit=iḷaiñarkaḷ|LTranslit=iḷaiñar
 2	பங்கு	பங்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	_	Translit=paṅku|LTranslit=paṅku
@@ -1696,9 +1696,9 @@
 9	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	8	nsubj	_	SpaceAfter=No|Translit=avar|LTranslit=avar
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id s77/ta
-# full_sent தேசிய ஊரக வேலை வாய்ப்பு உறுதித் திட்டம் போன்ற சிறந்த மத்திய திட்டங்கள் பிகாரில் ஊழல் காரணமாக சிறப்பாக அமல்படுத்தப் படவில்லை என்று அவர் குற்றம்சாட்டினார் .
-# full_sent_translit tēciya ūraka vēlai vāyppu urutit tiṭṭam pōnra ciranta mattiya tiṭṭaṅkaḷ pikāril ūlal kāraṇamāka cirappāka amalpaṭuttap paṭavillai enru avar kurramcāṭṭinār .
+# sent_id = dev-s77/ta
+# text = தேசிய ஊரக வேலை வாய்ப்பு உறுதித் திட்டம் போன்ற சிறந்த மத்திய திட்டங்கள் பிகாரில் ஊழல் காரணமாக சிறப்பாக அமல்படுத்தப் படவில்லை என்று அவர் குற்றம்சாட்டினார்.
+# translit = tēciya ūraka vēlai vāyppu urutit tiṭṭam pōnra ciranta mattiya tiṭṭaṅkaḷ pikāril ūlal kāraṇamāka cirappāka amalpaṭuttap paṭavillai enru avar kurramcāṭṭinār.
 # orig_file_sentence 001#77
 1	தேசிய	தேசியம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=tēciya|LTranslit=tēciyam
 2	ஊரக	ஊரகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	6	nmod	_	Translit=ūraka|LTranslit=ūrakam
@@ -1725,9 +1725,9 @@
 21	குற்றம்சாட்டினார்	குற்றம்சாட்டு	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kurramcāṭṭinār|LTranslit=kurramcāṭṭu
 22	.	.	PUNCT	Z#-------	PunctType=Peri	21	punct	_	Translit=.|LTranslit=.
 
-# sent_id s78/ta
-# full_sent பல்வேறு மத்திய திட்டங்களுக்காக 1 லட்சம் கோடி பிகாருக்கு அளிக்கப் படுகிறது .
-# full_sent_translit palvēru mattiya tiṭṭaṅkaḷukkāka 1 laṭcam kōṭi pikārukku aḷikkap paṭukiratu .
+# sent_id = dev-s78/ta
+# text = பல்வேறு மத்திய திட்டங்களுக்காக 1 லட்சம் கோடி பிகாருக்கு அளிக்கப் படுகிறது.
+# translit = palvēru mattiya tiṭṭaṅkaḷukkāka 1 laṭcam kōṭi pikārukku aḷikkap paṭukiratu.
 # orig_file_sentence 001#78
 1	பல்வேறு	பல்வேறு	ADJ	JJ-------	_	3	amod	_	Translit=palvēru|LTranslit=palvēru
 2	மத்திய	மத்திய	ADJ	JJ-------	_	3	amod	_	Translit=mattiya|LTranslit=mattiya
@@ -1742,9 +1742,9 @@
 10	படுகிறது	படு	AUX	VR-P3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	9	aux	_	SpaceAfter=No|Translit=paṭukiratu|LTranslit=paṭu
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id s79/ta
-# full_sent ஆனால் துரதிருஷ்டவசமாக இந்த நிதி ஏழைகளை , தேவையுள்ளோரை போய் சென்றடையவில்லை என்றார் அவர் .
-# full_sent_translit ānāl turatiruṣṭavacamāka inta niti ēlaikaḷai , tēvaiyuḷḷōrai pōy cenraṭaiyavillai enrār avar .
+# sent_id = dev-s79/ta
+# text = ஆனால் துரதிருஷ்டவசமாக இந்த நிதி ஏழைகளை, தேவையுள்ளோரை போய் சென்றடையவில்லை என்றார் அவர்.
+# translit = ānāl turatiruṣṭavacamāka inta niti ēlaikaḷai, tēvaiyuḷḷōrai pōy cenraṭaiyavillai enrār avar.
 # orig_file_sentence 001#79
 1	ஆனால்	ஆனால்	ADV	AA-------	_	9	advmod	_	Translit=ānāl|LTranslit=ānāl
 2	துரதிருஷ்டவசமாக	துரதிருஷ்டவசம்	ADV	AA-------	_	9	advmod	_	Translit=turatiruṣṭavacamāka|LTranslit=turatiruṣṭavacam
@@ -1761,9 +1761,9 @@
 12	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	11	nsubj	_	SpaceAfter=No|Translit=avar|LTranslit=avar
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id s80/ta
-# full_sent தேசிய ஜனநாயகக் கூட்டணி ஆட்சியை ஒப்பிடும் போது காங்கிரஸ் கட்சி பிகார் மாநில வளர்ச்சிக்கு அதிகம் செய்துள்ளது .
-# full_sent_translit tēciya jananāyakak kūṭṭaṇi āṭciyai oppiṭum pōtu kāṅkiras kaṭci pikār mānila vaḷarccikku atikam ceytuḷḷatu .
+# sent_id = dev-s80/ta
+# text = தேசிய ஜனநாயகக் கூட்டணி ஆட்சியை ஒப்பிடும் போது காங்கிரஸ் கட்சி பிகார் மாநில வளர்ச்சிக்கு அதிகம் செய்துள்ளது.
+# translit = tēciya jananāyakak kūṭṭaṇi āṭciyai oppiṭum pōtu kāṅkiras kaṭci pikār mānila vaḷarccikku atikam ceytuḷḷatu.
 # orig_file_sentence 001#80
 1	தேசிய	தேசியம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=tēciya|LTranslit=tēciyam
 2	ஜனநாயகக்	ஜனநாயகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=jananāyakak|LTranslit=jananāyakam
