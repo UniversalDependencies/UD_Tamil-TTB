@@ -300,7 +300,7 @@
 10	விழாவ்	விழா	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	conj	_	Translit=vilāv|LTranslit=vilā
 11	உம்	உம்	PART	Tv-------	_	10	advmod:emph	_	Translit=um|LTranslit=um
 12	தமிழ்நாடு	தமிழ்நாடு	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	13	nmod	_	Translit=tamilnāṭu|LTranslit=tamilnāṭu
-13	முழுவதும்	முழுவதும்	ADJ	JJ-------	_	16	advmod	_	Translit=muluvatum|LTranslit=muluvatum
+13	முழுவதும்	முழுவதும்	ADJ	JJ-------	_	16	obl	_	Translit=muluvatum|LTranslit=muluvatum
 14-15	கோலாகலமாகக்	_	_	_	_	_	_	_	_
 14	கோலாகலம்	கோலாகலம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	obl	_	Translit=kōlākalam|LTranslit=kōlākalam
 15	ஆகக்	ஆகு	ADV	AA-------	_	16	advmod	_	Translit=ākak|LTranslit=āku
@@ -727,7 +727,7 @@
 2	,	,	PUNCT	Z:-------	PunctType=Comm	17	punct	_	Translit=,|LTranslit=,
 3	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	_	Translit=tamilaka|LTranslit=tamilakam
 4	அரசின்	அரசு	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	7	iobj	_	Translit=aracin|LTranslit=aracu
-5	இத்தகைய	இத்தகைய	ADJ	JJ-------	_	6	advmod	_	Translit=ittakaiya|LTranslit=ittakaiya
+5	இத்தகைய	இத்தகைய	ADJ	JJ-------	_	6	obl	_	Translit=ittakaiya|LTranslit=ittakaiya
 6	நடவடிக்கைகளைக்	நடவடிக்கை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	7	obj	_	Translit=naṭavaṭikkaikaḷaik|LTranslit=naṭavaṭikkai
 7	கண்டித்து	கண்டி	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	17	advcl	_	Translit=kaṇṭittu|LTranslit=kaṇṭi
 8	சென்னையில்	சென்னை	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	17	obl	_	Translit=cennaiyil|LTranslit=cennai
@@ -1776,7 +1776,7 @@
 9	பிகார்	பிகார்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nmod	_	Translit=pikār|LTranslit=pikār
 10	மாநில	மாநிலம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	11	nmod	_	Translit=mānila|LTranslit=mānilam
 11	வளர்ச்சிக்கு	வளர்ச்சி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	13	obl	_	Translit=vaḷarccikku|LTranslit=vaḷarcci
-12	அதிகம்	அதிகம்	PRON	QQ-------	NumType=Card	13	obj	_	Translit=atikam|LTranslit=atikam
+12	அதிகம்	அதிகம்	DET	QQ-------	NumType=Card	13	obj	_	Translit=atikam|LTranslit=atikam
 13-14	செய்துள்ளது	_	_	_	_	_	_	_	SpaceAfter=No
 13	செய்த்	செய்	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	_	Translit=ceyt|LTranslit=cey
 14	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	13	aux	_	Translit=uḷḷatu|LTranslit=uḷ

@@ -32,6 +32,8 @@ Changelog
 
 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
+  * Reconsidered PRON vs. DET distinction.
+  * Improved advmod vs. obl distinction.
 2016-05-15 v1.3
   * Added Latin transliteration of lemmas and full sentences.
   * Added orthographic words (surface tokens) and their mapping to nodes.
