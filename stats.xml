@@ -10,7 +10,7 @@
   <lemmas unique="2023" /><!-- ., ,, உள், உம், என், படு, இரு, ஆகு, அவர், இந்தியா, தெரிவி, செய், ஆக, ஆன, நாடு -->
   <forms unique="3583" /><!-- ., ,, உம், ஆக, உள்ளது, ஆன, என்று, உள்ள, அவர், பட்ட், வேண்டும், இந்த, மற்றும், அரசு, நாடுகள் -->
   <fusions unique="620" /><!-- என்றும், இடையிலான, செயலாளராக, தெரிவிக்கப்பட்டுள்ளது, தெரிவித்துள்ளது, தெரிவித்துள்ளார், இடத்தையும், குறிப்பிடத்தக்கது, வெளியிட்டுள்ள, Kஉறித்தும், பேருக்கும், ஆதரவாக, காரணமாக, குறிப்பிடப்பட்டுள்ளது, கூறியுள்ளார் -->
-  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
     <tag name="ADJ">682</tag><!-- உள், மத்திய, இரு, ஒரு, நடைபெறு, உள்ளிடு, கடந்த, வரு, புதிய, வா -->
     <tag name="ADP">288</tag><!-- ஆகு, உடன், குறி, இலிருந்து, மீது, இரு, மூலம், சார்பு, போல், உள் -->
@@ -27,7 +27,7 @@
     <tag name="VERB">1170</tag><!-- தெரிவி, செய், கூறு, வழங்கு, செல், பெறு, இரு, குறிப்பிடு, ஏற்படு, நடைபெறு -->
     <tag name="X">1</tag><!-- என் -->
   </tags>
-  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="41">
     <feat name="AdpType" value="Post" upos="ADP">288</feat><!-- ஆக, உடன், இலிருந்து, குறித்து, மீது, சார்பில், மூலம், இடம், இருந்து, இடையில் -->
     <feat name="Animacy" value="Anim" upos="AUX,NOUN,PRON,PROPN,VERB">420</feat><!-- உள்ளனர், பேர், மக்கள், அதிகாரிகள், அனைவரும், அவர்கள், தனது, புலிகள், போலீஸார், நான் -->
