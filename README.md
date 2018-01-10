@@ -47,6 +47,7 @@ improved.
   * Improved conversion of AuxY.
 
 
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.2
 License: CC BY-NC-SA 3.0
@@ -61,3 +62,4 @@ Contributors: Ramasamy, Loganathan; Zeman, Daniel
 Contributing: elsewhere
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
+</pre>
