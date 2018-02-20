@@ -37,6 +37,8 @@ improved.
 
 # Changelog
 
+* 2018-04-15 v2.2
+  * Repository renamed from UD_Tamil to UD_Tamil-TTB.
 * 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
   * Reconsidered PRON vs. DET distinction.
