@@ -72,7 +72,7 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">155</feat><!-- பட்ட், பட்டது, பட்டு, ப்படும், படுகிறது, ப்பட, படவ், படுகின்றனர், பட்டதற்கு, பட்டனர் -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="28">
+  <deps unique="29">
     <dep name="acl">35</dep>
     <dep name="advcl">357</dep>
     <dep name="advmod">410</dep>
@@ -89,14 +89,15 @@
     <dep name="cop">1</dep>
     <dep name="csubj">11</dep>
     <dep name="det">115</dep>
-    <dep name="iobj">37</dep>
+    <dep name="iobj">34</dep>
     <dep name="mark">286</dep>
     <dep name="nmod">1979</dep>
     <dep name="nsubj">665</dep>
     <dep name="nsubj:pass">1</dep>
     <dep name="nummod">218</dep>
-    <dep name="obj">652</dep>
+    <dep name="obj">642</dep>
     <dep name="obl">879</dep>
+    <dep name="obl:arg">13</dep>
     <dep name="parataxis">5</dep>
     <dep name="punct">1000</dep>
     <dep name="root">600</dep>
