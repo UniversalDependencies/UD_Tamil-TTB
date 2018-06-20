@@ -37,6 +37,10 @@ improved.
 
 # Changelog
 
+* 2018-04-15 v2.2
+  * Repository renamed from UD_Tamil to UD_Tamil-TTB.
+  * Added enhanced representation of dependencies propagated across coordination.
+    The distinction of shared and private dependents is derived deterministically from the original Prague annotation.
 * 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
   * Reconsidered PRON vs. DET distinction.
@@ -47,6 +51,7 @@ improved.
   * Improved conversion of AuxY.
 
 
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.2
 License: CC BY-NC-SA 3.0
@@ -61,3 +66,4 @@ Contributors: Ramasamy, Loganathan; Zeman, Daniel
 Contributing: elsewhere
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
+</pre>
