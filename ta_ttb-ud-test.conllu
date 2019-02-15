@@ -112,7 +112,7 @@
 2	பிகாரில்	பிகார்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	Translit=pikāril|LTranslit=pikār
 3	உம்	உம்	PART	Tv-------	_	2	advmod:emph	2:advmod:emph	Translit=um|LTranslit=um
 4	காங்கிரஸ்	காங்கிரஸ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj	2:nsubj	Translit=kāṅkiras|LTranslit=kāṅkiras
-5	வெற்றி	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	obj	2:obj	Translit=verri|LTranslit=verri
+5	வெற்றி	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod	Translit=verri|LTranslit=verri
 6	பெறும்	பெறு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	cc	2:cc	Translit=perum|LTranslit=peru
 7	என்ற	என்	PART	Td-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	8	nmod	8:nmod	Translit=enra|LTranslit=en
 8	நம்பிக்கை	நம்பிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	Translit=nampikkai|LTranslit=nampikkai
@@ -1261,7 +1261,7 @@
 5	பச்சையம்மாள்	பச்சையம்மாள்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	15	nsubj	15:nsubj	Translit=paccaiyammāḷ|LTranslit=paccaiyammāḷ
 6	என்பவர்	என்	NOUN	NPNF3SH-A	Case=Nom|Gender=Com|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	8	nmod	8:nmod	Translit=enpavar|LTranslit=en
 7	டி.	டி.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=ṭi.|LTranslit=ṭi.
-8	வேலுசாமி	வேலுசாமி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	9	obj	9:obj	Translit=vēlucāmi|LTranslit=vēlucāmi
+8	வேலுசாமி	வேலுசாமி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	9	nmod	9:nmod	Translit=vēlucāmi|LTranslit=vēlucāmi
 9	என்பவர்	என்	NOUN	NPNF3SH-A	Case=Nom|Gender=Com|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	15	obl	15:obl	Translit=enpavar|LTranslit=en
 10	உடன்	உடன்	ADP	PP-------	AdpType=Post	9	case	9:case	Translit=uṭan|LTranslit=uṭan
 11	கணவன்	கணவன்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	15	obl	15:obl	Translit=kaṇavan|LTranslit=kaṇavan
@@ -1411,7 +1411,7 @@
 33	கோரும்	கோரு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	34	amod	34:amod	Translit=kōrum|LTranslit=kōru
 34	மனைவியர்	மனைவியர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	40	nsubj	40:nsubj	Translit=manaiviyar|LTranslit=manaiviyar
 35	4	4	NUM	U=-------	NumForm=Digit	36	nummod	36:nummod	Translit=4|LTranslit=4
-36	அம்சங்களைப்	அம்சம்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	38	obj	38:obj	Translit=amcaṅkaḷaip|LTranslit=amcam
+36	அம்சங்களைப்	அம்சம்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	38	nmod	38:nmod	Translit=amcaṅkaḷaip|LTranslit=amcam
 37	பூர்த்தி	பூர்த்தி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	38	nmod	38:nmod	Translit=pūrtti|LTranslit=pūrtti
 38-39	செய்தவர்களாக	_	_	_	_	_	_	_	_
 38	செய்தவர்கள்	செய்	NOUN	NPNF3PH-A	Case=Nom|Gender=Com|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	39	obj	39:obj	Translit=ceytavarkaḷ|LTranslit=cey
@@ -2203,7 +2203,7 @@
 5	நார்வேயில்	நார்வே	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	conj	3:conj|6:nmod	Translit=nārvēyil|LTranslit=nārvē
 6	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	8	amod	8:amod	Translit=uḷḷa|LTranslit=uḷ
 7	புலிகள்	புலி	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	8	nmod	8:nmod	Translit=pulikaḷ|LTranslit=puli
-8	அமைப்பைச்	அமைப்பு	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	Translit=amaippaic|LTranslit=amaippu
+8	அமைப்பைச்	அமைப்பு	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod	Translit=amaippaic|LTranslit=amaippu
 9	சேர்ந்தவர்கள்	சேர்	NOUN	NPNF3PH-A	Case=Nom|Gender=Com|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	12	nsubj	12:nsubj	Translit=cērntavarkaḷ|LTranslit=cēr
 10	மீண்டும்	மீண்டும்	ADV	AA-------	_	11	advmod	11:advmod	Translit=mīṇṭum|LTranslit=mīṇṭum
 11	ஒருங்கிணைய	ஒருங்கிணை	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	12	advcl	12:advcl	Translit=oruṅkiṇaiya|LTranslit=oruṅkiṇai
@@ -2311,7 +2311,7 @@
 1	சாதாரணமாக	சாதாரணம்	ADV	AA-------	_	15	advmod	15:advmod	Translit=cātāraṇamāka|LTranslit=cātāraṇam
 2	புலிகளின்	புலி	NOUN	NNG-3PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3	4	nmod	4:nmod	Translit=pulikaḷin|LTranslit=puli
 3	தற்கொலைப்	தற்கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=tarkolaip|LTranslit=tarkolai
-4	படையைச்	படை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=paṭaiyaic|LTranslit=paṭai
+4	படையைச்	படை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=paṭaiyaic|LTranslit=paṭai
 5	சேர்ந்தவர்கள்	சேர்	NOUN	NPNF3PA-A	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Part	15	nsubj	15:nsubj	Translit=cērntavarkaḷ|LTranslit=cēr
 6	இந்த	இந்த	DET	DD-------	_	7	det	7:det	Translit=inta|LTranslit=inta
 7	ஜாக்கெட்டுகளை	ஜாக்கெட்டு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	8	obj	8:obj	Translit=jākkeṭṭukaḷai|LTranslit=jākkeṭṭu
@@ -2405,7 +2405,7 @@
 5-6	சந்தேகிக்கப்படும்	_	_	_	_	_	_	_	_
 5	சந்தேகிக்க	சந்தேகி	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	7	advcl	7:advcl	Translit=cantēkikka|LTranslit=cantēki
 6	ப்படும்	படு	AUX	VR-F3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Pass	5	aux	5:aux	Translit=ppaṭum|LTranslit=paṭu
-7	நபர்களை	நபர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	10	obj	10:obj	Translit=naparkaḷai|LTranslit=napar
+7	நபர்களை	நபர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	10	nmod	10:nmod	Translit=naparkaḷai|LTranslit=napar
 8	இலங்கை	இலங்கை	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod	Translit=ilaṅkai|LTranslit=ilaṅkai
 9	ராணுவத்தினர்	ராணுவத்தினர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	10	nsubj	10:nsubj	Translit=rāṇuvattinar|LTranslit=rāṇuvattinar
 10	கைது	கைது	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	13	obl	13:obl	Translit=kaitu|LTranslit=kaitu

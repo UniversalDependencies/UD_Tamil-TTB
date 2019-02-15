@@ -97,9 +97,9 @@
 # text = தனக்கு உடல் நிலை இடம் தரா விட்டாலும், அரசு நிகழ்ச்சியில் பங்கேற்க வந்துள்ளதாக முதல்வர் கருணாநிதி தெரிவித்தார்.
 # translit = tanakku uṭal nilai iṭam tarā viṭṭālum, aracu nikalcciyil paṅkērka vantuḷḷatāka mutalvar karuṇāniti terivittār.
 # orig_file_sentence 001#5
-1	தனக்கு	தன்	PRON	RhD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	obj	4:obj	Translit=tanakku|LTranslit=tan
+1	தனக்கு	தன்	PRON	RhD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	nmod	4:nmod	Translit=tanakku|LTranslit=tan
 2	உடல்	உடல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=uṭal|LTranslit=uṭal
-3	நிலை	நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	Translit=nilai|LTranslit=nilai
+3	நிலை	நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=nilai|LTranslit=nilai
 4	இடம்	இடம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	obl	12:obl	Translit=iṭam|LTranslit=iṭam
 5	தரா	தரு	VERB	Vt-T----N	Polarity=Neg|VerbForm=Part	4	acl	4:acl	Translit=tarā|LTranslit=taru
 6-7	விட்டாலும்	_	_	_	_	_	_	_	SpaceAfter=No
@@ -248,7 +248,7 @@
 9	அந்தக்	அந்த	DET	DD-------	_	10	det	10:det	Translit=antak|LTranslit=anta
 10	கடமையை	கடமை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	11	obj	11:obj	Translit=kaṭamaiyai|LTranslit=kaṭamai
 11	நிறைவேற்ற	நிறைவேற்று	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	19	xcomp	19:xcomp	Translit=niraivērra|LTranslit=niraivērru
-12	உடல்நிலை	உடல்நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	13	obj	13:obj	Translit=uṭalnilai|LTranslit=uṭalnilai
+12	உடல்நிலை	உடல்நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	13	nmod	13:nmod	Translit=uṭalnilai|LTranslit=uṭalnilai
 13	இடம்	இடம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	19	obl	19:obl	Translit=iṭam|LTranslit=iṭam
 14	தரா	தரு	VERB	Vt-T----N	Polarity=Neg|VerbForm=Part	13	acl	13:acl	Translit=tarā|LTranslit=taru
 15-16	விட்டாலும்	_	_	_	_	_	_	_	SpaceAfter=No
@@ -913,7 +913,7 @@
 13	சர்வதேச	சர்வதேசம்	ADJ	JJ-------	_	14	amod	14:amod	Translit=carvatēca|LTranslit=carvatēcam
 14	அச்சுறுத்தல்	அச்சுறுத்தல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	18	obj	18:obj	Translit=accuruttal|LTranslit=accuruttal
 15	மற்றும்	மற்றும்	CCONJ	CC-------	_	14	cc	14:cc	Translit=marrum|LTranslit=marrum
-16	சவால்களை	சவால்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	14	obj	14:obj	Translit=cavālkaḷai|LTranslit=cavāl
+16	சவால்களை	சவால்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	14	nmod	14:nmod	Translit=cavālkaḷai|LTranslit=cavāl
 17	சேர்ந்து	சேர்	ADV	AA-------	_	18	advmod	18:advmod	Translit=cērntu|LTranslit=cēr
 18	சமாளிப்பது	சமாளி	VERB	VzNF3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	22	advcl	22:advcl	Translit=camāḷippatu|LTranslit=camāḷi
 19-20	குறித்தும்	_	_	_	_	_	_	_	_
@@ -1084,7 +1084,7 @@
 7	இணையதள	இணையதளம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=iṇaiyataḷa|LTranslit=iṇaiyataḷam
 8	மோசடி	மோசடி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	conj	3:conj|11:obj	SpaceAfter=No|Translit=mōcaṭi|LTranslit=mōcaṭi
 9	,	,	PUNCT	Z:-------	PunctType=Comm	3	punct	3:punct|8:punct	Translit=,|LTranslit=,
-10	குற்றங்களை	குற்றம்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	3	obj	3:obj|8:obj	Translit=kurraṅkaḷai|LTranslit=kurram
+10	குற்றங்களை	குற்றம்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	3	nmod	3:nmod|8:nmod	Translit=kurraṅkaḷai|LTranslit=kurram
 11	தடுப்பது	தடு	VERB	VzNF3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	17	ccomp	17:ccomp	Translit=taṭuppatu|LTranslit=taṭu
 12-13	Kஉறித்தும்	_	_	_	_	_	_	_	_
 12	Kஉறித்த்	குறி	ADP	PP-------	AdpType=Post	11	mark	11:mark	Translit=Kuritt|LTranslit=kuri
@@ -1110,7 +1110,7 @@
 7	புதிய	புதிய	ADJ	JJ-------	_	8	amod	8:amod	Translit=putiya|LTranslit=putiya
 8-9	பரிமாணமாக	_	_	_	_	_	_	_	_
 8	பரிமாணம்	பரிமாணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl	Translit=parimāṇam|LTranslit=parimāṇam
-9	ஆக	ஆகு	ADP	PP-------	AdpType=Post	17	advmod	17:advmod	Translit=āka|LTranslit=āku
+9	ஆக	ஆகு	ADP	PP-------	AdpType=Post	17	obl	17:obl	Translit=āka|LTranslit=āku
 10	ஆக்க	ஆக்க	ADJ	JJ-------	_	11	amod	11:amod	Translit=ākka|LTranslit=ākka
 11	பணிகளில்	பணி	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	14	obl	14:obl	Translit=paṇikaḷil|LTranslit=paṇi
 12	அணு	அணு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	13	nmod	13:nmod	Translit=aṇu|LTranslit=aṇu

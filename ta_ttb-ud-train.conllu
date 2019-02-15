@@ -344,7 +344,7 @@
 # text = மீறுவோருக்கு ஒரு லட்சம் அபராதத் தொகையுடன் மூன்று ஆண்டுகள் சிறைத் தண்டனை.
 # translit = mīruvōrukku oru laṭcam aparātat tokaiyuṭan mūnru āṇṭukaḷ cirait taṇṭanai.
 # orig_file_sentence 001#14
-1	மீறுவோருக்கு	மீறுவோர்	NOUN	NPDF3PH-A	Case=Dat|Gender=Com|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	10	obj	10:obj	Translit=mīruvōrukku|LTranslit=mīruvōr
+1	மீறுவோருக்கு	மீறுவோர்	NOUN	NPDF3PH-A	Case=Dat|Gender=Com|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	10	nmod	10:nmod	Translit=mīruvōrukku|LTranslit=mīruvōr
 2	ஒரு	ஒரு	ADJ	JJ-------	_	3	amod	3:amod	Translit=oru|LTranslit=oru
 3	லட்சம்	லட்சம்	NUM	Ux-------	NumType=Card	5	nummod	5:nummod	Translit=laṭcam|LTranslit=laṭcam
 4	அபராதத்	அபராதம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=aparātat|LTranslit=aparātam
@@ -371,7 +371,7 @@
 8	தங்களின்	தன்	PRON	RhG-3PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	nmod	9:nmod	Translit=taṅkaḷin|LTranslit=tan
 9	மூதாதையர்கள்	மூதாதையர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	10	nsubj	10:nsubj	Translit=mūtātaiyarkaḷ|LTranslit=mūtātaiyar
 10	வாழ்ந்த	வாழ்	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	11	amod	11:amod	Translit=vālnta|LTranslit=vāl
-11	வீட்டை	வீடு	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	obj	12:obj	Translit=vīṭṭai|LTranslit=vīṭu
+11	வீட்டை	வீடு	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod	Translit=vīṭṭai|LTranslit=vīṭu
 12	விரிவாக்கம்	விரிவாக்கம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	obl	17:obl|20:obl|24:obl	Translit=virivākkam|LTranslit=virivākkam
 13-14	செய்யவோ	_	_	_	_	_	_	_	SpaceAfter=No
 13	செய்யவ்	செய்	AUX	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	12	aux	12:aux	Translit=ceyyav|LTranslit=cey
@@ -1944,7 +1944,7 @@
 3	சிக்கிய்	சிக்கு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	4	advcl	4:advcl	Translit=cikkiy|LTranslit=cikku
 4	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	6	amod	6:amod	Translit=uḷḷa|LTranslit=uḷ
 5	கிரிக்கெட்	கிரிக்கெட்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=kirikkeṭ|LTranslit=kirikkeṭ
-6	வீரர்களை	வீரர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	9	obj	9:obj	Translit=vīrarkaḷai|LTranslit=vīrar
+6	வீரர்களை	வீரர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	9	nmod	9:nmod	Translit=vīrarkaḷai|LTranslit=vīrar
 7	லண்டன்	லண்டன்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=laṇṭan|LTranslit=laṇṭan
 8	போலீஸார்	போலீஸார்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	9	nsubj	9:nsubj	Translit=pōlīsār|LTranslit=pōlīsār
 9	கைது	கைது	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	obj	17:obj	Translit=kaitu|LTranslit=kaitu
@@ -2399,7 +2399,7 @@
 2	தலைமைச்	தலைமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=talaimaic|LTranslit=talaimai
 3-4	செயலாளராக	_	_	_	_	_	_	_	_
 3	செயலாளர்	செயலாளர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	4	obl	4:obl	Translit=ceyalāḷar|LTranslit=ceyalāḷar
-4	ஆக	ஆகு	ADP	PP-------	AdpType=Post	5	advmod	5:advmod	Translit=āka|LTranslit=āku
+4	ஆக	ஆகு	ADP	PP-------	AdpType=Post	5	obl	5:obl	Translit=āka|LTranslit=āku
 5	நியமிக்கப்	நியமி	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	9	advcl	9:advcl	Translit=niyamikkap|LTranslit=niyami
 6	பட்டதற்கு	படு	AUX	VZDD3SNPA	Case=Dat|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Pass	5	aux	5:aux	Translit=paṭṭatarku|LTranslit=paṭu
 7	தனது	தன்	PRON	RhG-3SA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	nmod	8:nmod	Translit=tanatu|LTranslit=tan
@@ -2422,7 +2422,7 @@
 1	1977-ம்	1977	ADJ	Uy-------	NumType=Ord	2	amod	2:amod	Translit=1977-m|LTranslit=1977
 2	ஆண்டு	ஆண்டு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=āṇṭu|LTranslit=āṇṭu
 3	ஐ.ஏ.எஸ்.	ஐ.ஏ.எஸ்.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=ai.ē.es.|LTranslit=ai.ē.es.
-4	அணியைச்	அணி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=aṇiyaic|LTranslit=aṇi
+4	அணியைச்	அணி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=aṇiyaic|LTranslit=aṇi
 5	சேர்ந்தவர்	சேர்	NOUN	NPND3SH-A	Case=Nom|Gender=Com|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Part	0	root	0:root	Translit=cērntavar|LTranslit=cēr
 6	மாலதி	மாலதி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	5	nsubj	5:nsubj	SpaceAfter=No|Translit=mālati|LTranslit=mālati
 7	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
@@ -2431,7 +2431,7 @@
 # text = தஞ்சையை பூர்வீகமாகக் கொண்ட அவர், 1954-ம் ஆண்டு பிறந்தார்.
 # translit = tañcaiyai pūrvīkamākak koṇṭa avar, 1954-m āṇṭu pirantār.
 # orig_file_sentence 001#97
-1	தஞ்சையை	தஞ்சை	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obj	2:obj	Translit=tañcaiyai|LTranslit=tañcai
+1	தஞ்சையை	தஞ்சை	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod	Translit=tañcaiyai|LTranslit=tañcai
 2-3	பூர்வீகமாகக்	_	_	_	_	_	_	_	_
 2	பூர்வீகம்	பூர்வீகம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl	Translit=pūrvīkam|LTranslit=pūrvīkam
 3	ஆகக்	ஆகு	PART	Tg-------	_	4	advmod	4:advmod	Translit=ākak|LTranslit=āku
@@ -2785,7 +2785,7 @@
 7	தலைமைச்	தலைமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=talaimaic|LTranslit=talaimai
 8-9	செயலாளராக	_	_	_	_	_	_	_	_
 8	செயலாளர்	செயலாளர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	9	obl	9:obl	Translit=ceyalāḷar|LTranslit=ceyalāḷar
-9	ஆக	ஆகு	ADP	PP-------	AdpType=Post	11	advmod	11:advmod	Translit=āka|LTranslit=āku
+9	ஆக	ஆகு	ADP	PP-------	AdpType=Post	11	obl	11:obl	Translit=āka|LTranslit=āku
 10	நான்	நான்	PRON	RpN-1SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	Translit=nān|LTranslit=nān
 11	இருந்த	இரு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	12	amod	12:amod	Translit=irunta|LTranslit=iru
 12	காலத்தில்	காலம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	15	obl	15:obl	Translit=kālattil|LTranslit=kālam
@@ -2815,7 +2815,7 @@
 10	தகவல்	தகவல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nmod	11:nmod	Translit=takaval|LTranslit=takaval
 11-12	ஆணையராக	_	_	_	_	_	_	_	_
 11	ஆணையர்	ஆணையர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	12	obl	12:obl	Translit=āṇaiyar|LTranslit=āṇaiyar
-12	ஆக	ஆகு	ADP	PP-------	AdpType=Post	14	advmod	14:advmod	Translit=āka|LTranslit=āku
+12	ஆக	ஆகு	ADP	PP-------	AdpType=Post	14	obl	14:obl	Translit=āka|LTranslit=āku
 13	கே.எஸ்.ஸ்ரீபதி	கே.எஸ்.ஸ்ரீபதி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	14	nmod	14:nmod	Translit=kē.es.srīpati|LTranslit=kē.es.srīpati
 14	நியமிக்கக்	நியமி	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	17	ccomp	17:ccomp	Translit=niyamikkak|LTranslit=niyami
 15	கூடும்	கூடு	AUX	VR-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	14	aux	14:aux	Translit=kūṭum|LTranslit=kūṭu
@@ -2866,7 +2866,7 @@
 # orig_file_sentence 002#20
 1	பதவி	பதவி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=patavi|LTranslit=patavi
 2	நீட்டிப்பு	நீட்டிப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=nīṭṭippu|LTranslit=nīṭṭippu
-3	காலம்	காலம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	Translit=kālam|LTranslit=kālam
+3	காலம்	காலம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=kālam|LTranslit=kālam
 4	நிறைவு	நிறைவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl	Translit=niraivu|LTranslit=niraivu
 5	பெறுவதற்கு	பெறு	VERB	VzDF3SNAA	Case=Dat|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	4	acl	4:acl	Translit=peruvatarku|LTranslit=peru
 6	முன்பே	முன்பே	ADP	PP-------	AdpType=Post	4	case	4:case	Translit=munpē|LTranslit=munpē
@@ -3014,7 +3014,7 @@
 9	செய்து	செய்	AUX	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	8	aux	8:aux	SpaceAfter=No|Translit=ceytu|LTranslit=cey
 10	,	,	PUNCT	Z:-------	PunctType=Comm	13	punct	13:punct	Translit=,|LTranslit=,
 11	380	380	NUM	U=-------	NumForm=Digit	12	nummod	12:nummod	Translit=380|LTranslit=380
-12	கோடி	கோடி	NUM	Ux-------	NumType=Card	13	obj	13:obj	Translit=kōṭi|LTranslit=kōṭi
+12	கோடி	கோடி	NUM	Ux-------	NumType=Card	13	nmod	13:nmod	Translit=kōṭi|LTranslit=kōṭi
 13	ஒதுக்கீடு	ஒதுக்கீடு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=otukkīṭu|LTranslit=otukkīṭu
 14-15	செய்துள்ளது	_	_	_	_	_	_	_	SpaceAfter=No
 14	செய்த்	செய்	AUX	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	13	aux	13:aux	Translit=ceyt|LTranslit=cey
@@ -3230,7 +3230,7 @@
 3	பின்னடைவுக்கு	பின்னடைவு	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl	Translit=pinnaṭaivukku|LTranslit=pinnaṭaivu
 4	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=tamilaka|LTranslit=tamilakam
 5	அரசின்	அரசு	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=aracin|LTranslit=aracu
-6	அணுகுமுறை	அணுகுமுறை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	Translit=aṇukumurai|LTranslit=aṇukumurai
+6	அணுகுமுறை	அணுகுமுறை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod	Translit=aṇukumurai|LTranslit=aṇukumurai
 7	தான்	தான்	PART	Tq-------	_	6	advmod:emph	6:advmod:emph	Translit=tān|LTranslit=tān
 8	முழுக்	முழு	DET	QQ-------	NumType=Card	9	obl	9:obl	Translit=muluk|LTranslit=mulu
 9	காரணம்	காரணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=kāraṇam|LTranslit=kāraṇam
@@ -4173,7 +4173,7 @@
 2	சம்பவத்தைய்	சம்பவம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=campavattaiy|LTranslit=campavam
 3	அடுத்து	அடுத்து	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	16	advcl	16:advcl	Translit=aṭuttu|LTranslit=aṭuttu
 4	,	,	PUNCT	Z:-------	PunctType=Comm	16	punct	16:punct	Translit=,|LTranslit=,
-5	பயணத்தை	பயணம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	Translit=payaṇattai|LTranslit=payaṇam
+5	பயணத்தை	பயணம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=payaṇattai|LTranslit=payaṇam
 6	ரத்து	ரத்து	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl	Translit=rattu|LTranslit=rattu
 7	செய்து	செய்	AUX	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	6	aux	6:aux	Translit=ceytu|LTranslit=cey
 8	விட்டு	வீடு	AUX	VT-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	6	aux	6:aux	SpaceAfter=No|Translit=viṭṭu|LTranslit=vīṭu
@@ -4323,7 +4323,7 @@
 3	நல்லெண்ண	நல்லெண்ணம்	ADJ	JJ-------	_	4	amod	4:amod	Translit=nalleṇṇa|LTranslit=nalleṇṇam
 4-5	நடவடிக்கையாக	_	_	_	_	_	_	_	SpaceAfter=No
 4	நடவடிக்கைய்	நடவடிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl	Translit=naṭavaṭikkaiy|LTranslit=naṭavaṭikkai
-5	ஆக	ஆகு	ADP	PP-------	AdpType=Post	13	advmod	13:advmod	Translit=āka|LTranslit=āku
+5	ஆக	ஆகு	ADP	PP-------	AdpType=Post	13	obl	13:obl	Translit=āka|LTranslit=āku
 6	,	,	PUNCT	Z:-------	PunctType=Comm	13	punct	13:punct	Translit=,|LTranslit=,
 7	பாகிஸ்தான்	பாகிஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=pākistān|LTranslit=pākistān
 8	நாட்டைச்	நாடு	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	Translit=nāṭṭaic|LTranslit=nāṭu
@@ -4367,7 +4367,7 @@
 4	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	3	aux	3:aux	Translit=paṭṭ|LTranslit=paṭu
 5	இருந்த	இரு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	7	amod	7:amod	Translit=irunta|LTranslit=iru
 6	58	58	NUM	U=-------	NumForm=Digit	7	nummod	7:nummod	Translit=58|LTranslit=58
-7	மீனவர்களை	மீனவர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	8	obj	8:obj	Translit=mīnavarkaḷai|LTranslit=mīnavar
+7	மீனவர்களை	மீனவர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	8	nmod	8:nmod	Translit=mīnavarkaḷai|LTranslit=mīnavar
 8	விடுதலை	விடுதலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	obl	14:obl	Translit=viṭutalai|LTranslit=viṭutalai
 9	செய்ய	செய்	AUX	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	8	aux	8:aux	Translit=ceyya|LTranslit=cey
 10	செப்டம்பர்	செப்டம்பர்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod	Translit=cepṭampar|LTranslit=cepṭampar
@@ -4423,7 +4423,7 @@
 22	இருந்து	இரு	ADP	PP-------	AdpType=Post	21	case	21:case	Translit=iruntu|LTranslit=iru
 23	2	2	NUM	U=-------	NumForm=Digit	24	nummod	24:nummod	Translit=2|LTranslit=2
 24-25	பேரும்	_	_	_	_	_	_	_	_
-24	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	nsubj	25:nsubj	Translit=pēr|LTranslit=pēr
+24	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	dep	25:dep	Translit=pēr|LTranslit=pēr
 25	உம்	உம்	PART	Tv-------	_	26	advmod:emph	26:advmod:emph	Translit=um|LTranslit=um
 26	விடுவிக்கப்	விடுவி	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=viṭuvikkap|LTranslit=viṭuvi
 27	படுகின்றனர்	படு	AUX	VR-P3PHPA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Pass	26	aux	26:aux	SpaceAfter=No|Translit=paṭukinranar|LTranslit=paṭu
@@ -4488,7 +4488,7 @@
 10	ஆண்டு	ஆண்டு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	obl	15:obl	Translit=āṇṭu|LTranslit=āṇṭu
 11	மொத்தம்	மொத்தம்	ADJ	JJ-------	_	13	amod	13:amod	Translit=mottam|LTranslit=mottam
 12	213	213	NUM	U=-------	NumForm=Digit	13	nummod	13:nummod	Translit=213|LTranslit=213
-13	கைதிகளை	கைதி	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	15	obj	15:obj	Translit=kaitikaḷai|LTranslit=kaiti
+13	கைதிகளை	கைதி	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	15	nmod	15:nmod	Translit=kaitikaḷai|LTranslit=kaiti
 14	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	nsubj	15:nsubj	Translit=intiyā|LTranslit=intiyā
 15	விடுதலை	விடுதலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	18	nsubj	18:nsubj	Translit=viṭutalai|LTranslit=viṭutalai
 16-17	செய்துள்ளது	_	_	_	_	_	_	_	_
@@ -4556,7 +4556,7 @@
 # translit = amerikkāvin pātukāppukku itu mukkiyam enpatāl atarkāna paṇikaḷ toṭarntu naṭaiperum.
 # orig_file_sentence 002#99
 1	அமெரிக்காவின்	அமெரிக்கா	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod	Translit=amerikkāvin|LTranslit=amerikkā
-2	பாதுகாப்புக்கு	பாதுகாப்பு	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	Translit=pātukāppukku|LTranslit=pātukāppu
+2	பாதுகாப்புக்கு	பாதுகாப்பு	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=pātukāppukku|LTranslit=pātukāppu
 3	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Translit=itu|LTranslit=itu
 4	முக்கியம்	முக்கியம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl	Translit=mukkiyam|LTranslit=mukkiyam
 5	என்பதால்	என்	PART	TzIF3SN-A	Case=Ins|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger	4	mark	4:mark	Translit=enpatāl|LTranslit=en
@@ -4863,7 +4863,7 @@
 11	சதவீதம்	சதவீதம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod	Translit=catavītam|LTranslit=catavītam
 12	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	15	nsubj	15:nsubj	Translit=pēr|LTranslit=pēr
 13	தங்கள்	தன்	PRON	RpG-3PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3|PronType=Prs	14	nmod	14:nmod	Translit=taṅkaḷ|LTranslit=tan
-14	வாக்குகளை	வாக்கு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	15	obj	15:obj	Translit=vākkukaḷai|LTranslit=vākku
+14	வாக்குகளை	வாக்கு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	15	nmod	15:nmod	Translit=vākkukaḷai|LTranslit=vākku
 15	பதிவு	பதிவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=pativu|LTranslit=pativu
 16	செய்திருந்தனர்	செய்திரு	VERB	Vr-D3PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	15	acl	15:acl	SpaceAfter=No|Translit=ceytiruntanar|LTranslit=ceytiru
 17	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	15:punct	Translit=.|LTranslit=.
@@ -5500,7 +5500,7 @@
 11	எமெலேக்கள்	எமெலே	PROPN	NEN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	14	nmod	14:nmod	Translit=emelēkkaḷ|LTranslit=emelē
 12	உட்பட	உட்பட	ADP	PP-------	AdpType=Post	11	case	11:case	Translit=uṭpaṭa|LTranslit=uṭpaṭa
 13	16	16	NUM	U=-------	NumForm=Digit	14	nummod	14:nummod	Translit=16|LTranslit=16
-14	எமெலேக்களை	எமெலே	PROPN	NEA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	15	obj	15:obj	Translit=emelēkkaḷai|LTranslit=emelē
+14	எமெலேக்களை	எமெலே	PROPN	NEA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	15	nmod	15:nmod	Translit=emelēkkaḷai|LTranslit=emelē
 15	தகுதி	தகுதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=takuti|LTranslit=takuti
 16	நீக்கம்	நீக்கம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	nmod	15:nmod	Translit=nīkkam|LTranslit=nīkkam
 17-18	செய்துள்ளனர்	_	_	_	_	_	_	_	SpaceAfter=No
@@ -5536,7 +5536,7 @@
 10	வாக்களித்த	வாக்களி	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	11	amod	11:amod	Translit=vākkaḷitta|LTranslit=vākkaḷi
 11	பின்னர்	பின்னர்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	obl	14:obl	Translit=pinnar|LTranslit=pinnar
 12	தான்	தான்	PART	Tq-------	_	11	advmod:emph	11:advmod:emph	Translit=tān|LTranslit=tān
-13	அவர்களை	அவர்	PRON	RpA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3|PronType=Prs	14	obj	14:obj	Translit=avarkaḷai|LTranslit=avar
+13	அவர்களை	அவர்	PRON	RpA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3|PronType=Prs	14	nmod	14:nmod	Translit=avarkaḷai|LTranslit=avar
 14	தகுதி	தகுதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=takuti|LTranslit=takuti
 15	நீக்கம்	நீக்கம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nmod	14:nmod	Translit=nīkkam|LTranslit=nīkkam
 16	செய்ய	செய்	AUX	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	14	aux	14:aux	Translit=ceyya|LTranslit=cey
@@ -5583,7 +5583,7 @@
 9	குழப்பம்	குழப்பம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	conj	3:conj|17:nsubj	Translit=kulappam|LTranslit=kulappam
 10	நாட்டின்	நாடு	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	11	nmod	11:nmod	Translit=nāṭṭin|LTranslit=nāṭu
 11-12	ஜனநாயகத்திற்கே	_	_	_	_	_	_	_	_
-11	ஜனநாயகத்திற்க்	ஜனநாயகம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	17	obj	17:obj	Translit=jananāyakattirk|LTranslit=jananāyakam
+11	ஜனநாயகத்திற்க்	ஜனநாயகம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	17	nmod	17:nmod	Translit=jananāyakattirk|LTranslit=jananāyakam
 12	ஏ	ஏ	PART	Tk-------	_	11	advmod:emph	11:advmod:emph	Translit=ē|LTranslit=ē
 13	மிகப்பெரிய	மிகப்பெரிய	ADJ	JJ-------	_	14	amod	14:amod	Translit=mikapperiya|LTranslit=mikapperiya
 14	களங்கத்தை	களங்கம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	15	obj	15:obj	Translit=kaḷaṅkattai|LTranslit=kaḷaṅkam
@@ -5836,7 +5836,7 @@
 # orig_file_sentence 003#51
 1	மீனவ	மீனவ	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=mīnava|LTranslit=mīnava
 2	விரோதச்	விரோதம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=virōtac|LTranslit=virōtam
-3	செயலுக்குத்	செயல்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	Translit=ceyalukkut|LTranslit=ceyal
+3	செயலுக்குத்	செயல்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=ceyalukkut|LTranslit=ceyal
 4	துணை	துணை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl	Translit=tuṇai|LTranslit=tuṇai
 5	போகும்	போ	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	8	amod	8:amod	Translit=pōkum|LTranslit=pō
 6	அமைச்சர்	அமைச்சர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nmod	8:nmod	Translit=amaiccar|LTranslit=amaiccar
@@ -6399,7 +6399,7 @@
 3	அதிமுக	அதிமுக	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=atimuka|LTranslit=atimuka
 4	பொதுச்	பொது	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=potuc|LTranslit=potu
 5	செயலாளர்	செயலாளர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	6	nmod	6:nmod	Translit=ceyalāḷar|LTranslit=ceyalāḷar
-6	ஜெயலலிதாவை	ஜெயலலிதா	PROPN	NEA-3SH--	Case=Acc|Gender=Com|Number=Sing|Person=3|Polite=Form	8	obj	8:obj	Translit=jeyalalitāvai|LTranslit=jeyalalitā
+6	ஜெயலலிதாவை	ஜெயலலிதா	PROPN	NEA-3SH--	Case=Acc|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nmod	8:nmod	Translit=jeyalalitāvai|LTranslit=jeyalalitā
 7	அடிக்கடி	அடிக்கடி	ADV	AA-------	_	8	advmod	8:advmod	Translit=aṭikkaṭi|LTranslit=aṭikkaṭi
 8	தொந்தரவு	தொந்தரவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=tontaravu|LTranslit=tontaravu
 9	செய்து	செய்	AUX	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	8	aux	8:aux	Translit=ceytu|LTranslit=cey
@@ -6840,7 +6840,7 @@
 2	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=intiyāvukku|LTranslit=intiyā
 3	128	128	NUM	U=-------	NumForm=Digit	4	nummod	4:nummod	Translit=128|LTranslit=128
 4	நாடுகளின்	நாடு	NOUN	NNG-3PN--	Case=Gen|Gender=Neut|Number=Plur|Person=3	5	nmod	5:nmod	Translit=nāṭukaḷin|LTranslit=nāṭu
-5	ஆதரவு	ஆதரவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	Translit=ātaravu|LTranslit=ātaravu
+5	ஆதரவு	ஆதரவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=ātaravu|LTranslit=ātaravu
 6	தேவை	தேவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=tēvai|LTranslit=tēvai
 7	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
 
@@ -7234,7 +7234,7 @@
 13	பால்	பால்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nmod	14:nmod	Translit=pāl|LTranslit=pāl
 14	ஹென்றி	ஹென்றி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	17	nsubj	17:nsubj	Translit=henri|LTranslit=henri
 15	ஞாயிற்றுக்கிழமை	ஞாயிற்றுக்கிழமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	obl	17:obl	Translit=ñāyirrukkilamai|LTranslit=ñāyirrukkilamai
-16	வேலையை	வேலை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	17	obj	17:obj	Translit=vēlaiyai|LTranslit=vēlai
+16	வேலையை	வேலை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	17	nmod	17:nmod	Translit=vēlaiyai|LTranslit=vēlai
 17	ராஜிநாமா	ராஜிநாமா	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=rājināmā|LTranslit=rājināmā
 18	செய்தார்	செய்	AUX	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	17	aux	17:aux	SpaceAfter=No|Translit=ceytār|LTranslit=cey
 19	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	17:punct	Translit=.|LTranslit=.
@@ -7307,7 +7307,7 @@
 # translit = ṣīlā tīṭcittai kēli ceyta ṭi.vi. varṇanaiyāḷar mītu uriya naṭavaṭikkai eṭukka vēṇṭum enrum kēṭṭuk koṇṭatu.
 # orig_file_sentence 004#28
 1	ஷீலா	ஷீலா	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	2	nmod	2:nmod	Translit=ṣīlā|LTranslit=ṣīlā
-2	தீட்சித்தை	தீட்சித்	PROPN	NEA-3SH--	Case=Acc|Gender=Com|Number=Sing|Person=3|Polite=Form	3	obj	3:obj	Translit=tīṭcittai|LTranslit=tīṭcit
+2	தீட்சித்தை	தீட்சித்	PROPN	NEA-3SH--	Case=Acc|Gender=Com|Number=Sing|Person=3|Polite=Form	3	nmod	3:nmod	Translit=tīṭcittai|LTranslit=tīṭcit
 3	கேலி	கேலி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obl	4:obl	Translit=kēli|LTranslit=kēli
 4	செய்த	செய்	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	6	amod	6:amod	Translit=ceyta|LTranslit=cey
 5	டி.வி.	டி.வி.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=ṭi.vi.|LTranslit=ṭi.vi.
@@ -7353,7 +7353,7 @@
 4	உரிய	உரிய	ADJ	JJ-------	_	5	amod	5:amod	Translit=uriya|LTranslit=uriya
 5	நடவடிக்கை	நடவடிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=naṭavaṭikkai|LTranslit=naṭavaṭikkai
 6-8	எடுப்பதாகவும்	_	_	_	_	_	_	_	_
-6	எடுப்பத்	எடு	PART	TzNF3SN-A	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger	9	obj	9:obj	Translit=eṭuppat|LTranslit=eṭu
+6	எடுப்பத்	எடு	PART	TzNF3SN-A	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger	9	nmod	9:nmod	Translit=eṭuppat|LTranslit=eṭu
 7	ஆகவ்	ஆகு	PART	Tg-------	_	6	mark	6:mark	Translit=ākav|LTranslit=āku
 8	உம்	உம்	PART	Tv-------	_	6	advmod:emph	6:advmod:emph	Translit=um|LTranslit=um
 9	உறுதி	உறுதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=uruti|LTranslit=uruti
@@ -7368,7 +7368,7 @@
 2	பால்	பால்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=pāl|LTranslit=pāl
 3	ஹென்றி	ஹென்றி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	6	nsubj	6:nsubj	Translit=henri|LTranslit=henri
 4	தனது	தன்	PRON	RhG-3SA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	5:nmod	Translit=tanatu|LTranslit=tan
-5	வேலையை	வேலை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	Translit=vēlaiyai|LTranslit=vēlai
+5	வேலையை	வேலை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=vēlaiyai|LTranslit=vēlai
 6	ராஜிநாமா	ராஜிநாமா	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=rājināmā|LTranslit=rājināmā
 7-8	செய்துள்ளார்	_	_	_	_	_	_	_	SpaceAfter=No
 7	செய்த்	செய்	AUX	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	6	aux	6:aux	Translit=ceyt|LTranslit=cey
@@ -7508,7 +7508,7 @@
 # text = சிலையை திருப்பி கொடுப்பவர்கள் மீது எவ்வித நடவடிக்கையும் எடுக்கப் படாது.
 # translit = cilaiyai tiruppi koṭuppavarkaḷ mītu evvita naṭavaṭikkaiyum eṭukkap paṭātu.
 # orig_file_sentence 004#38
-1	சிலையை	சிலை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=cilaiyai|LTranslit=cilai
+1	சிலையை	சிலை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=cilaiyai|LTranslit=cilai
 2	திருப்பி	திருப்பு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	3	advcl	3:advcl	Translit=tiruppi|LTranslit=tiruppu
 3	கொடுப்பவர்கள்	கொடு	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	8	obl	8:obl	Translit=koṭuppavarkaḷ|LTranslit=koṭu
 4	மீது	மீது	ADP	PP-------	AdpType=Post	3	case	3:case	Translit=mītu|LTranslit=mītu
@@ -7952,7 +7952,7 @@
 7-8	நூற்றுக்கும்	_	_	_	_	_	_	_	_
 7	நூற்றுக்க்	நூறு	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod	Translit=nūrrukk|LTranslit=nūru
 8	உம்	உம்	PART	Tv-------	_	7	advmod:emph	7:advmod:emph	Translit=um|LTranslit=um
-9	மேற்பட்டோரை	மேற்பட்டோர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	11	obj	11:obj	Translit=mērpaṭṭōrai|LTranslit=mērpaṭṭōr
+9	மேற்பட்டோரை	மேற்பட்டோர்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	11	nmod	11:nmod	Translit=mērpaṭṭōrai|LTranslit=mērpaṭṭōr
 10	போலீஸார்	போலீஸார்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	11	nsubj	11:nsubj	Translit=pōlīsār|LTranslit=pōlīsār
 11	கைது	கைது	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=kaitu|LTranslit=kaitu
 12	செய்தனர்	செய்	AUX	Vr-D3PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	11:aux	SpaceAfter=No|Translit=ceytanar|LTranslit=cey
@@ -7972,7 +7972,7 @@
 8	மற்றும்	மற்றும்	CCONJ	CC-------	_	10	cc	10:cc	Translit=marrum|LTranslit=marrum
 9	விடுதலைச்	விடுதலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nmod	10:nmod	Translit=viṭutalaic|LTranslit=viṭutalai
 10	சிறுத்தைகள்	சிறுத்தை	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	conj	7:conj|11:nmod	Translit=ciruttaikaḷ|LTranslit=ciruttai
-11	கட்சியைச்	கட்சி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	obj	12:obj	Translit=kaṭciyaic|LTranslit=kaṭci
+11	கட்சியைச்	கட்சி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod	Translit=kaṭciyaic|LTranslit=kaṭci
 12	சேர்ந்தவர்கள்	சேர்	NOUN	NPNF3PH-A	Case=Nom|Gender=Com|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	22	nsubj	22:nsubj	Translit=cērntavarkaḷ|LTranslit=cēr
 13	ராஜபட்சவின்	ராஜபட்ச	PROPN	NEG-3SH--	Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Form	14	nmod	14:nmod	Translit=rājapaṭcavin|LTranslit=rājapaṭca
 14	உருவப்பொம்மை	உருவப்பொம்மை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	21	nmod	21:nmod	SpaceAfter=No|Translit=uruvappommai|LTranslit=uruvappommai
@@ -7991,7 +7991,7 @@
 # translit = itaiyaṭuttu avarkaḷai pōlīsār kaitu ceytanar.
 # orig_file_sentence 004#63
 1	இதையடுத்து	இதையடுத்து	ADV	AA-------	_	4	advmod	4:advmod	Translit=itaiyaṭuttu|LTranslit=itaiyaṭuttu
-2	அவர்களை	அவர்	PRON	RpA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	Translit=avarkaḷai|LTranslit=avar
+2	அவர்களை	அவர்	PRON	RpA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3|PronType=Prs	4	nmod	4:nmod	Translit=avarkaḷai|LTranslit=avar
 3	போலீஸார்	போலீஸார்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	4	nsubj	4:nsubj	Translit=pōlīsār|LTranslit=pōlīsār
 4	கைது	கைது	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=kaitu|LTranslit=kaitu
 5	செய்தனர்	செய்	AUX	Vr-D3PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	SpaceAfter=No|Translit=ceytanar|LTranslit=cey
@@ -8008,7 +8008,7 @@
 4	ஆக	ஆக	PART	Tg-------	_	5	advmod	5:advmod	Translit=āka|LTranslit=āka
 5	கூட்டப்பட்ட	கூட்டப்படு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	7	amod	7:amod	Translit=kūṭṭappaṭṭa|LTranslit=kūṭṭappaṭu
 6	பேரவைக்	பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod	Translit=pēravaik|LTranslit=pēravai
-7	கூட்டத்தை	கூட்டம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	16	obj	16:obj	Translit=kūṭṭattai|LTranslit=kūṭṭam
+7	கூட்டத்தை	கூட்டம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	16	nmod	16:nmod	Translit=kūṭṭattai|LTranslit=kūṭṭam
 8	உயர்நீதிமன்றத்	உயர்நீதிமன்றம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod	Translit=uyarnītimanrat|LTranslit=uyarnītimanram
 9	தீர்ப்பு	தீர்ப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	Translit=tīrppu|LTranslit=tīrppu
 10	வரும்	வரு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	7	amod	7:amod	Translit=varum|LTranslit=varu
@@ -8151,7 +8151,7 @@
 1	இதனால்	இதனால்	ADV	AA-------	_	16	advmod	16:advmod	Translit=itanāl|LTranslit=itanāl
 2	சென்னையில்	சென்னை	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl	Translit=cennaiyil|LTranslit=cennai
 3	வசிக்கும்	வசி	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	5	amod	5:amod	Translit=vacikkum|LTranslit=vaci
-4	தென்மாவட்டங்களைச்	தென்மாவட்டம்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	5	obj	5:obj	Translit=tenmāvaṭṭaṅkaḷaic|LTranslit=tenmāvaṭṭam
+4	தென்மாவட்டங்களைச்	தென்மாவட்டம்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	5	nmod	5:nmod	Translit=tenmāvaṭṭaṅkaḷaic|LTranslit=tenmāvaṭṭam
 5	சேர்ந்தவர்கள்	சேர்	NOUN	NPNF3PH-A	Case=Nom|Gender=Com|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Fut|VerbForm=Part	16	nsubj	16:nsubj	Translit=cērntavarkaḷ|LTranslit=cēr
 6	ஜனவரி	ஜனவரி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=janavari|LTranslit=janavari
 7	12-ம்	12	ADJ	Uy-------	NumType=Ord	8	amod	8:amod	Translit=12-m|LTranslit=12
@@ -8285,7 +8285,7 @@
 17	குழுக்கள்	குழு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	21	nsubj	21:nsubj	Translit=kulukkaḷ|LTranslit=kulu
 18	இந்த	இந்த	DET	DD-------	_	20	det	20:det	Translit=inta|LTranslit=inta
 19	பொது	பொது	ADJ	JJ-------	_	20	amod	20:amod	Translit=potu|LTranslit=potu
-20	வேலைநிறுத்தத்துக்கு	வேலைநிறுத்தம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	21	obj	21:obj	Translit=vēlainiruttattukku|LTranslit=vēlainiruttam
+20	வேலைநிறுத்தத்துக்கு	வேலைநிறுத்தம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	21	nmod	21:nmod	Translit=vēlainiruttattukku|LTranslit=vēlainiruttam
 21	அழைப்பு	அழைப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=alaippu|LTranslit=alaippu
 22-23	விடுத்திருந்தன	_	_	_	_	_	_	_	SpaceAfter=No
 22	விடுத்த்	விடு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	21	acl	21:acl	Translit=viṭutt|LTranslit=viṭu
@@ -8385,7 +8385,7 @@
 13	15-ம்	15	ADJ	Uy-------	NumType=Ord	14	amod	14:amod	Translit=15-m|LTranslit=15
 14	தேதி	தேதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	19	obl	19:obl	Translit=tēti|LTranslit=tēti
 15	பொது	பொது	ADJ	JJ-------	_	16	amod	16:amod	Translit=potu|LTranslit=potu
-16	வேலைநிறுத்தத்துக்கு	வேலைநிறுத்தம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	19	obj	19:obj	Translit=vēlainiruttattukku|LTranslit=vēlainiruttam
+16	வேலைநிறுத்தத்துக்கு	வேலைநிறுத்தம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	19	nmod	19:nmod	Translit=vēlainiruttattukku|LTranslit=vēlainiruttam
 17	தீவிரவாத	தீவிரவாதம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	18	nmod	18:nmod	Translit=tīviravāta|LTranslit=tīviravātam
 18	குழுக்கள்	குழு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	19	nsubj	19:nsubj	Translit=kulukkaḷ|LTranslit=kulu
 19	அழைப்பு	அழைப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=alaippu|LTranslit=alaippu
@@ -8526,7 +8526,7 @@
 2	முதன்முதலில்	முதன்முதல்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	1	appos	1:appos	Translit=mutanmutalil|LTranslit=mutanmutal
 3	தொகுதி	தொகுதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=tokuti|LTranslit=tokuti
 4	மேம்பாட்டு	மேம்பாடு	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=mēmpāṭṭu|LTranslit=mēmpāṭu
-5	நிதியை	நிதி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	1	obj	1:obj	Translit=nitiyai|LTranslit=niti
+5	நிதியை	நிதி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	1	nmod	1:nmod	Translit=nitiyai|LTranslit=niti
 6	பொதுப்	பொது	ADJ	JJ-------	_	7	amod	7:amod	Translit=potup|LTranslit=potu
 7	பணிகளுக்கு	பணி	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	1	appos	1:appos	Translit=paṇikaḷukku|LTranslit=paṇi
 8	பயன்படுத்திக்	பயன்படுத்து	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	2	cc	2:cc	Translit=payanpaṭuttik|LTranslit=payanpaṭuttu
@@ -8798,7 +8798,7 @@
 # translit = antap paṇiyai manita nēya manappānmaiyōṭu nām niraivērruvōm enra anta uṇarvaip perru makkaḷaik kāppārra vēṇṭum - makkaḷukkup paṇiyārra vēṇṭum.
 # orig_file_sentence 004#98
 1	அந்தப்	அந்த	DET	DD-------	_	2	det	2:det	Translit=antap|LTranslit=anta
-2	பணியை	பணி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	Translit=paṇiyai|LTranslit=paṇi
+2	பணியை	பணி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	10	nmod	10:nmod	Translit=paṇiyai|LTranslit=paṇi
 3	மனித	மனிதன்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=manita|LTranslit=manitan
 4	நேய	நேயம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=nēya|LTranslit=nēyam
 5	மனப்பான்மையோடு	மனப்பான்மை	NOUN	NNS-3SN--	Case=Com|Gender=Neut|Number=Sing|Person=3	2	obl	2:obl	Translit=manappānmaiyōṭu|LTranslit=manappānmai
