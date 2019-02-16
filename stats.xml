@@ -80,8 +80,8 @@
     <dep name="advcl">357</dep>
     <dep name="advmod">405</dep>
     <dep name="advmod:emph">232</dep>
-    <dep name="amod">667</dep>
-    <dep name="aux">602</dep>
+    <dep name="amod">668</dep>
+    <dep name="aux">601</dep>
     <dep name="case">267</dep>
     <dep name="cc">102</dep>
     <dep name="ccomp">166</dep>

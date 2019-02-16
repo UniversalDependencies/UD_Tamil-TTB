@@ -53,7 +53,7 @@
 3	விமானப்	விமானம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=vimānap|LTranslit=vimānam
 4	போக்குவரத்தில்	போக்குவரத்து	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl	Translit=pōkkuvarattil|LTranslit=pōkkuvarattu
 5	ஏற்பட்டு	ஏற்படு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	7	acl	7:acl	Translit=ērpaṭṭu|LTranslit=ērpaṭu
-6	வரும்	வரு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	5	aux	5:aux	Translit=varum|LTranslit=varu
+6	வரும்	வரு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	7	amod	7:amod	Translit=varum|LTranslit=varu
 7	வளர்ச்சியைக்	வளர்ச்சி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	Translit=vaḷarcciyaik|LTranslit=vaḷarcci
 8	கருத்தில்	கருத்து	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl	Translit=karuttil|LTranslit=karuttu
 9	கொண்டு	கொள்	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	27	advcl	27:advcl	SpaceAfter=No|Translit=koṇṭu|LTranslit=koḷ
