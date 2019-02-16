@@ -2658,10 +2658,10 @@
 # orig_file_sentence 002#14
 1	நமது	நம்	PRON	RpG-1PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=1|PronType=Prs	2	nmod	2:nmod	Translit=namatu|LTranslit=nam
 2	எதிர்பார்ப்புகளை	எதிர்பார்ப்பு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	3	obj	3:obj	Translit=etirpārppukaḷai|LTranslit=etirpārppu
-3	நிறைவேற்றக்	நிறைவேற்று	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	4	advcl	4:advcl	Translit=niraivērrak|LTranslit=niraivērru
+3	நிறைவேற்றக்	நிறைவேற்று	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	8	advcl	8:advcl	Translit=niraivērrak|LTranslit=niraivērru
 4-5	கூடியதாக	_	_	_	_	_	_	_	_
-4	கூடியத்	கூடு	AUX	VZND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	8	aux	8:aux	Translit=kūṭiyat|LTranslit=kūṭu
-5	ஆக	ஆக	PART	Tg-------	_	4	mark	4:mark	Translit=āka|LTranslit=āka
+4	கூடியத்	கூடு	AUX	VZND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	3	aux	3:aux	Translit=kūṭiyat|LTranslit=kūṭu
+5	ஆக	ஆக	PART	Tg-------	_	3	mark	3:mark	Translit=āka|LTranslit=āka
 6	வரைவு	வரைவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod	Translit=varaivu|LTranslit=varaivu
 7	தீர்மானம்	தீர்மானம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	Translit=tīrmānam|LTranslit=tīrmānam
 8	இருந்தது	இரு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=iruntatu|LTranslit=iru
