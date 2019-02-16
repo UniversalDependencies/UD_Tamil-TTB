@@ -537,7 +537,7 @@
 6	உறுப்பினர்	உறுப்பினர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nmod	8:nmod	Translit=uruppinar|LTranslit=uruppinar
 7	என்.	என்.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=en.|LTranslit=en.
 8	வரதராஜன்	வரதராஜன்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	46	nmod	46:nmod	SpaceAfter=No|Translit=varatarājan|LTranslit=varatarājan
-9	,	,	PUNCT	Z:-------	PunctType=Comm	47	punct	47:punct	Translit=,|LTranslit=,
+9	,	,	PUNCT	Z:-------	PunctType=Comm	14	punct	14:punct	Translit=,|LTranslit=,
 10	மாநில	மாநிலம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod	Translit=mānila|LTranslit=mānilam
 11	செயற்குழு	செயற்குழு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod	Translit=ceyarkulu|LTranslit=ceyarkulu
 12	உறுப்பினர்கள்	உறுப்பினர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	14	nmod	14:nmod	Translit=uruppinarkaḷ|LTranslit=uruppinar

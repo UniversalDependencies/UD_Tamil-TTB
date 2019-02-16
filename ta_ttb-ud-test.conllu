@@ -2189,7 +2189,7 @@
 6	போரில்	போர்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl	Translit=pōril|LTranslit=pōr
 7	ராணுவம்	ராணுவம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	Translit=rāṇuvam|LTranslit=rāṇuvam
 8	வெற்றி	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=verri|LTranslit=verri
-9	பெற்றது	பெறு	AUX	VR-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	8	det	8:det	SpaceAfter=No|Translit=perratu|LTranslit=peru
+9	பெற்றது	பெறு	AUX	VR-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	8:aux	SpaceAfter=No|Translit=perratu|LTranslit=peru
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 # sent_id = test-s91
@@ -2489,7 +2489,7 @@
 13-14	அமைச்சரும்	_	_	_	_	_	_	_	SpaceAfter=No
 13	அமைச்சர்	அமைச்சர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	22	nmod	22:nmod	Translit=amaiccar|LTranslit=amaiccar
 14	உம்	உம்	PART	Tv-------	_	13	advmod:emph	13:advmod:emph	Translit=um|LTranslit=um
-15	,	,	PUNCT	Z:-------	PunctType=Comm	25	punct	25:punct	Translit=,|LTranslit=,
+15	,	,	PUNCT	Z:-------	PunctType=Comm	20	punct	20:punct	Translit=,|LTranslit=,
 16	ஐ.நா.	ஐ.நா.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nmod	17:nmod	Translit=ai.nā.|LTranslit=ai.nā.
 17	அமைப்புடன்	அமைப்பு	NOUN	NNS-3SN--	Case=Com|Gender=Neut|Number=Sing|Person=3	20	nmod	20:nmod	Translit=amaippuṭan|LTranslit=amaippu
 18	பல	பல	ADJ	JJ-------	_	19	amod	19:amod	Translit=pala|LTranslit=pala
