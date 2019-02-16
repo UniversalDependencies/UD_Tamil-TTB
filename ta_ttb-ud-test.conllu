@@ -109,11 +109,11 @@
 # orig_file_sentence 001#7
 1	அதுபோன்று	அதுபோல்	ADV	AA-------	_	10	advmod	10:advmod	Translit=atupōnru|LTranslit=atupōl
 2-3	பிகாரிலும்	_	_	_	_	_	_	_	_
-2	பிகாரில்	பிகார்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	Translit=pikāril|LTranslit=pikār
+2	பிகாரில்	பிகார்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	Translit=pikāril|LTranslit=pikār
 3	உம்	உம்	PART	Tv-------	_	2	advmod:emph	2:advmod:emph	Translit=um|LTranslit=um
-4	காங்கிரஸ்	காங்கிரஸ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj	2:nsubj	Translit=kāṅkiras|LTranslit=kāṅkiras
-5	வெற்றி	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod	Translit=verri|LTranslit=verri
-6	பெறும்	பெறு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	cc	2:cc	Translit=perum|LTranslit=peru
+4	காங்கிரஸ்	காங்கிரஸ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=kāṅkiras|LTranslit=kāṅkiras
+5	வெற்றி	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	Translit=verri|LTranslit=verri
+6	பெறும்	பெறு	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	7	acl	7:acl	Translit=perum|LTranslit=peru
 7	என்ற	என்	PART	Td-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	8	nmod	8:nmod	Translit=enra|LTranslit=en
 8	நம்பிக்கை	நம்பிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	Translit=nampikkai|LTranslit=nampikkai
 9	எனக்கு	என்	PRON	RpD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Translit=enakku|LTranslit=en
