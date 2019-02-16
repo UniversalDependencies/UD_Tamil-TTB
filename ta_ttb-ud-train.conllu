@@ -375,7 +375,7 @@
 12	விரிவாக்கம்	விரிவாக்கம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	obl	17:obl|20:obl|24:obl	Translit=virivākkam|LTranslit=virivākkam
 13-14	செய்யவோ	_	_	_	_	_	_	_	SpaceAfter=No
 13	செய்யவ்	செய்	AUX	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	12	aux	12:aux	Translit=ceyyav|LTranslit=cey
-14	ஓ	ஓ	PART	To-------	_	13	advmod:emph	13:advmod:emph	Translit=ō|LTranslit=ō
+14	ஓ	ஓ	PART	To-------	_	12	advmod:emph	12:advmod:emph	Translit=ō|LTranslit=ō
 15	,	,	PUNCT	Z:-------	PunctType=Comm	17	punct	17:punct|20:punct|24:punct	Translit=,|LTranslit=,
 16	கூடுதல்	கூடுதல்	ADJ	JJ-------	_	17	amod	17:amod	Translit=kūṭutal|LTranslit=kūṭutal
 17-18	அறையோ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -562,17 +562,17 @@
 2	அண்டை	அண்டை	ADJ	JJ-------	_	3	amod	3:amod	Translit=aṇṭai|LTranslit=aṇṭai
 3-4	நாடுகளான	_	_	_	_	_	_	_	_
 3	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod	4:nmod	Translit=nāṭukaḷ|LTranslit=nāṭu
-4	ஆன	ஆன	PART	Tg-------	_	5	nmod	5:nmod	Translit=āna|LTranslit=āna
+4	ஆன	ஆன	PART	Tg-------	_	7	nmod	7:nmod|12:nmod|22:nmod	Translit=āna|LTranslit=āna
 5	சீனா	சீனா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=cīnā|LTranslit=cīnā
 6	59வது	59	ADJ	Uy-------	NumType=Ord	7	amod	7:amod	Translit=59vatu|LTranslit=59
 7-8	இடத்தையும்	_	_	_	_	_	_	_	SpaceAfter=No
-7	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	23	obj	23:obj	Translit=iṭattaiy|LTranslit=iṭam
+7	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	25	obj	25:obj	Translit=iṭattaiy|LTranslit=iṭam
 8	உம்	உம்	PART	Tv-------	_	7	advmod:emph	7:advmod:emph	Translit=um|LTranslit=um
-9	,	,	PUNCT	Z:-------	PunctType=Comm	23	punct	23:punct	Translit=,|LTranslit=,
+9	,	,	PUNCT	Z:-------	PunctType=Comm	12	punct	12:punct	Translit=,|LTranslit=,
 10	இலங்கை	இலங்கை	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	12:nsubj	Translit=ilaṅkai|LTranslit=ilaṅkai
 11	66வது	66	ADJ	Uy-------	NumType=Ord	12	amod	12:amod	Translit=66vatu|LTranslit=66
 12-13	இடத்தையும்	_	_	_	_	_	_	_	_
-12	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	23	obj	23:obj	Translit=iṭattaiy|LTranslit=iṭam
+12	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	conj	7:conj|25:obj	Translit=iṭattaiy|LTranslit=iṭam
 13	உம்	உம்	PART	Tv-------	_	12	advmod:emph	12:advmod:emph	Translit=um|LTranslit=um
 14	பங்களாதேஷ்	பங்களாதேஷ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nsubj	17:nsubj	Translit=paṅkaḷātēṣ|LTranslit=paṅkaḷātēṣ
 15	மற்றும்	மற்றும்	CCONJ	CC-------	_	16	cc	16:cc	Translit=marrum|LTranslit=marrum
@@ -583,8 +583,8 @@
 20	மற்றும்	மற்றும்	CCONJ	CC-------	_	21	cc	21:cc	Translit=marrum|LTranslit=marrum
 21	89வது	89	ADJ	Uy-------	NumType=Ord	19	conj	19:conj|22:nummod	Translit=89vatu|LTranslit=89
 22-23	இடத்தையும்	_	_	_	_	_	_	_	_
-22	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	23	obj	23:obj	Translit=iṭattaiy|LTranslit=iṭam
-23	உம்	உம்	PART	Tv-------	_	24	advmod:emph	24:advmod:emph	Translit=um|LTranslit=um
+22	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	conj	7:conj|25:obj	Translit=iṭattaiy|LTranslit=iṭam
+23	உம்	உம்	PART	Tv-------	_	22	cc	22:cc	Translit=um|LTranslit=um
 24-25	பிடித்துள்ளன	_	_	_	_	_	_	_	SpaceAfter=No
 24	பிடித்த்	பிடு	AUX	VT-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	25	aux	25:aux	Translit=piṭitt|LTranslit=piṭu
 25	உள்ளன	உள்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=uḷḷana|LTranslit=uḷ
@@ -3392,14 +3392,14 @@
 # text = "எங்களால் முடிந்தளவு உங்களுக்கு உதவ நாங்கள் தயாராக உள்ளோம்; இயன்றவரை கண்டிப்பாகச் செய்வோம் என்று உள்ளூர் மக்களிடமும் அகதி முகாம்களில் உள்ள தமிழர்களிடம் அவர் உறுதி கூறினார்.
 # translit = "eṅkaḷāl muṭintaḷavu uṅkaḷukku utava nāṅkaḷ tayārāka uḷḷōm; iyanravarai kaṇṭippākac ceyvōm enru uḷḷūr makkaḷiṭamum akati mukāmkaḷil uḷḷa tamilarkaḷiṭam avar uruti kūrinār.
 # orig_file_sentence 002#46
-1	"	"	PUNCT	Z:-------	PunctType=Comm	23	punct	23:punct	SpaceAfter=No|Translit="|LTranslit="
+1	"	"	PUNCT	Z:-------	PunctType=Comm	8	punct	8:punct	SpaceAfter=No|Translit="|LTranslit="
 2	எங்களால்	எங்கள்	PRON	RpI-1PA--	Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=1|PronType=Prs	5	obl	5:obl	Translit=eṅkaḷāl|LTranslit=eṅkaḷ
 3	முடிந்தளவு	முடிந்தளவு	ADV	AA-------	_	5	advmod	5:advmod	Translit=muṭintaḷavu|LTranslit=muṭintaḷavu
 4	உங்களுக்கு	உங்கள்	PRON	RpD-2PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=2|PronType=Prs	5	obj	5:obj	Translit=uṅkaḷukku|LTranslit=uṅkaḷ
 5	உதவ	உதவு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	7	advcl	7:advcl	Translit=utava|LTranslit=utavu
 6	நாங்கள்	நாங்கள்	PRON	RpN-1PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	Translit=nāṅkaḷ|LTranslit=nāṅkaḷ
 7	தயாராக	தயார்	ADV	AA-------	_	8	advmod	8:advmod	Translit=tayārāka|LTranslit=tayār
-8	உள்ளோம்	உள்	AUX	VR-T1PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin|Voice=Act	23	aux	23:aux	SpaceAfter=No|Translit=uḷḷōm|LTranslit=uḷ
+8	உள்ளோம்	உள்	AUX	VR-T1PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=uḷḷōm|LTranslit=uḷ
 9	;	;	PUNCT	Z:-------	PunctType=Comm	23	punct	23:punct	Translit=;|LTranslit=;
 10	இயன்றவரை	இயன்றவரை	ADV	AA-------	_	12	advmod	12:advmod	Translit=iyanravarai|LTranslit=iyanravarai
 11	கண்டிப்பாகச்	கண்டிப்பாக	ADV	AA-------	_	12	advmod	12:advmod	Translit=kaṇṭippākac|LTranslit=kaṇṭippāka
@@ -3415,9 +3415,9 @@
 20	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	21	amod	21:amod	Translit=uḷḷa|LTranslit=uḷ
 21	தமிழர்களிடம்	தமிழர்	PROPN	NEL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	23	obl	23:obl	Translit=tamilarkaḷiṭam|LTranslit=tamilar
 22	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	23	nsubj	23:nsubj	Translit=avar|LTranslit=avar
-23	உறுதி	உறுதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=uruti|LTranslit=uruti
+23	உறுதி	உறுதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	conj	0:root|8:conj	Translit=uruti|LTranslit=uruti
 24	கூறினார்	கூறு	AUX	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	23	aux	23:aux	SpaceAfter=No|Translit=kūrinār|LTranslit=kūru
-25	.	.	PUNCT	Z#-------	PunctType=Peri	23	punct	23:punct	Translit=.|LTranslit=.
+25	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 # sent_id = train-s147
 # text = கொழும்பிலிருந்து விமானம் மூலம் வன்னி ராணுவ தலைமையகத்துக்குச் சென்ற அவர் பின்னர் அங்கிருந்து கார் மூலம் வவுனியாவுக்கு அழைத்துச் செல்லப் பட்டார்.
