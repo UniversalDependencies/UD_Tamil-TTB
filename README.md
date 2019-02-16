@@ -61,6 +61,8 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 # Changelog
 
+* 2019-05-15 v2.4
+  * Fixed some annotation errors in the original treebank, re-run the conversion.
 * 2018-04-15 v2.2
   * Repository renamed from UD_Tamil to UD_Tamil-TTB.
   * Added enhanced representation of dependencies propagated across coordination.

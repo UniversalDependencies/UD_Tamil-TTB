@@ -146,8 +146,8 @@
 12	விமான	விமானம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	13	nmod	13:nmod	Translit=vimāna|LTranslit=vimānam
 13	நிலையத்துக்கு	நிலையம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	15	obj	15:obj	Translit=nilaiyattukku|LTranslit=nilaiyam
 14	பாதிப்பு	பாதிப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	obj	15:obj	Translit=pātippu|LTranslit=pātippu
-15	ஏற்படும்	ஏற்படு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	28	amod	28:amod	Translit=ērpaṭum|LTranslit=ērpaṭu
-16	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	15	mark	15:mark	Translit=vakaiyil|LTranslit=vakai
+15	ஏற்படும்	ஏற்படு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	16	amod	16:amod	Translit=ērpaṭum|LTranslit=ērpaṭu
+16	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	28	obl	28:obl	Translit=vakaiyil|LTranslit=vakai
 17	அதிமுக	அதிமுக	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	19	nmod	19:nmod	Translit=atimuka|LTranslit=atimuka
 18	பொதுச்	பொது	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	19	nmod	19:nmod	Translit=potuc|LTranslit=potu
 19	செயலாளர்	செயலாளர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	20	nmod	20:nmod	Translit=ceyalāḷar|LTranslit=ceyalāḷar
@@ -180,8 +180,8 @@
 9	மக்களின்	மக்கள்	NOUN	NNG-3PA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3	11	nmod	11:nmod	Translit=makkaḷin|LTranslit=makkaḷ
 10	அடிப்படை	அடிப்படை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nmod	11:nmod	Translit=aṭippaṭai|LTranslit=aṭippaṭai
 11	உரிமைகளைப்	உரிமை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	12	obj	12:obj	Translit=urimaikaḷaip|LTranslit=urimai
-12	பறிக்கும்	பறி	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	14	amod	14:amod	Translit=parikkum|LTranslit=pari
-13	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	12	mark	12:mark	Translit=vakaiyil|LTranslit=vakai
+12	பறிக்கும்	பறி	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	13	amod	13:amod	Translit=parikkum|LTranslit=pari
+13	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	14	obl	14:obl	Translit=vakaiyil|LTranslit=vakai
 14	உள்ளதால்	உள்	VERB	VzLT3SNAA	Case=Loc|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|VerbForm=Ger|Voice=Act	24	advcl	24:advcl	Translit=uḷḷatāl|LTranslit=uḷ
 15	அதை	அது	PRON	RpA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	16:obj	Translit=atai|LTranslit=atu
 16	திரும்பப்	திரும்பு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	24	ccomp	24:ccomp	Translit=tirumpap|LTranslit=tirumpu
@@ -267,8 +267,8 @@
 11-12	அகதிகளாக	_	_	_	_	_	_	_	_
 11	அகதிகள்	அகதி	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	13	obl	13:obl	Translit=akatikaḷ|LTranslit=akati
 12	ஆக	ஆகு	ADP	PP-------	AdpType=Post	11	case	11:case	Translit=āka|LTranslit=āku
-13	மாற்றுகின்ற	மாற்று	ADJ	Jd-P----A	Polarity=Pos|Tense=Pres|VerbForm=Part	28	amod	28:amod	Translit=mārrukinra|LTranslit=mārru
-14	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	13	mark	13:mark	SpaceAfter=No|Translit=vakaiyil|LTranslit=vakai
+13	மாற்றுகின்ற	மாற்று	ADJ	Jd-P----A	Polarity=Pos|Tense=Pres|VerbForm=Part	14	amod	14:amod	Translit=mārrukinra|LTranslit=mārru
+14	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	28	obl	28:obl	SpaceAfter=No|Translit=vakaiyil|LTranslit=vakai
 15	,	,	PUNCT	Z:-------	PunctType=Comm	28	punct	28:punct	Translit=,|LTranslit=,
 16	மத்தியில்	மத்தி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	17	obl	17:obl	Translit=mattiyil|LTranslit=matti
 17	ஆளும்	ஆளு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	22	amod	22:amod	Translit=āḷum|LTranslit=āḷu
@@ -467,8 +467,8 @@
 9	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	11	amod	11:amod	Translit=uḷḷa|LTranslit=uḷ
 10	அடிப்படை	அடிப்படை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nmod	11:nmod	Translit=aṭippaṭai|LTranslit=aṭippaṭai
 11	உரிமைகளைப்	உரிமை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	12	obj	12:obj	Translit=urimaikaḷaip|LTranslit=urimai
-12	பறிக்கும்	பறி	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	14	amod	14:amod	Translit=parikkum|LTranslit=pari
-13	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	12	mark	12:mark	Translit=vakaiyil|LTranslit=vakai
+12	பறிக்கும்	பறி	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	13	amod	13:amod	Translit=parikkum|LTranslit=pari
+13	வகையில்	வகை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	14	obl	14:obl	Translit=vakaiyil|LTranslit=vakai
 14-15	அமைந்துள்ளது	_	_	_	_	_	_	_	SpaceAfter=No
 14	அமைந்த்	அமை	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=amaint|LTranslit=amai
 15	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	14	aux	14:aux	Translit=uḷḷatu|LTranslit=uḷ
@@ -4147,10 +4147,10 @@
 1	அவர்களால்	அவர்களால்	PRON	RpI-3PA--	Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=3|PronType=Prs	3	obl	3:obl	Translit=avarkaḷāl|LTranslit=avarkaḷāl
 2	எந்த	எந்த	DET	DD-------	_	3	det	3:det	Translit=enta|LTranslit=enta
 3-4	அச்சுறுத்தலும்	_	_	_	_	_	_	_	_
-3	அச்சுறுத்தல்	அச்சுறுத்தல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod	Translit=accuruttal|LTranslit=accuruttal
+3	அச்சுறுத்தல்	அச்சுறுத்தல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=accuruttal|LTranslit=accuruttal
 4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
 5	இல்லை	இல்	AUX	Vr-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	3	aux	3:aux	Translit=illai|LTranslit=il
-6	என்கிற	என்	ADJ	Jd-P----A	Polarity=Pos|Tense=Pres|VerbForm=Part	3	mark	3:mark	Translit=enkira|LTranslit=en
+6	என்கிற	என்	ADJ	Jd-P----A	Polarity=Pos|Tense=Pres|VerbForm=Part	7	amod	7:amod	Translit=enkira|LTranslit=en
 7	முடிவுக்கு	முடிவு	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl	Translit=muṭivukku|LTranslit=muṭivu
 8	வந்த	வா	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	13	amod	13:amod	Translit=vanta|LTranslit=vā
 9	பிறகே	பிறகு	PART	Tn-------	_	8	mark	8:mark	Translit=pirakē|LTranslit=piraku
