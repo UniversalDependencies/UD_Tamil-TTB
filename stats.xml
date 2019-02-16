@@ -81,10 +81,10 @@
     <dep name="advmod">405</dep>
     <dep name="advmod:emph">232</dep>
     <dep name="amod">667</dep>
-    <dep name="appos">7</dep>
+    <dep name="appos">6</dep>
     <dep name="aux">602</dep>
     <dep name="case">267</dep>
-    <dep name="cc">113</dep>
+    <dep name="cc">112</dep>
     <dep name="ccomp">166</dep>
     <dep name="compound">13</dep>
     <dep name="compound:prt">1</dep>
@@ -95,7 +95,7 @@
     <dep name="det">115</dep>
     <dep name="iobj">34</dep>
     <dep name="mark">286</dep>
-    <dep name="nmod">2023</dep>
+    <dep name="nmod">2025</dep>
     <dep name="nsubj">664</dep>
     <dep name="nsubj:pass">1</dep>
     <dep name="nummod">218</dep>
