@@ -1168,7 +1168,7 @@
 37	கொடி	கொடி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	38	nmod	38:nmod	Translit=koṭi|LTranslit=koṭi
 38	மரத்தில்	மரம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	43	obl	43:obl	SpaceAfter=No|Translit=marattil|LTranslit=maram
 39	,	,	PUNCT	Z:-------	PunctType=Comm	43	punct	43:punct	Translit=,|LTranslit=,
-40	சிவாச்சாரியர்களால்	சிவாச்சாரியர்	PROPN	NEI-3PA--	Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=3	43	obj	43:obj	Translit=civāccāriyarkaḷāl|LTranslit=civāccāriyar
+40	சிவாச்சாரியர்களால்	சிவாச்சாரியர்	PROPN	NEI-3PA--	Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=3	43	obl:arg	43:obl:arg	Translit=civāccāriyarkaḷāl|LTranslit=civāccāriyar
 41	ஆவணித்	ஆவணி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	42	nmod	42:nmod	Translit=āvaṇit|LTranslit=āvaṇi
 42	திருவிழா	திருவிழா	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	43	nsubj	43:nsubj	Translit=tiruvilā|LTranslit=tiruvilā
 43	கொடியேற்றப்	கொடியேற்று	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=koṭiyērrap|LTranslit=koṭiyērru

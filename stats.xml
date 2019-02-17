@@ -98,9 +98,9 @@
     <dep name="nsubj">664</dep>
     <dep name="nsubj:pass">1</dep>
     <dep name="nummod">218</dep>
-    <dep name="obj">539</dep>
+    <dep name="obj">538</dep>
     <dep name="obl">892</dep>
-    <dep name="obl:arg">88</dep>
+    <dep name="obl:arg">89</dep>
     <dep name="parataxis">5</dep>
     <dep name="punct">1000</dep>
     <dep name="root">600</dep>
