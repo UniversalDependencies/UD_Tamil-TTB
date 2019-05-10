@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>600</sentences><tokens>8635</tokens><words>9581</words><fused>835</fused></total>
+    <train><sentences>400</sentences><tokens>5734</tokens><words>6329</words><fused>520</fused></train>
+    <dev><sentences>80</sentences><tokens>1129</tokens><words>1263</words><fused>121</fused></dev>
+    <test><sentences>120</sentences><tokens>1772</tokens><words>1989</words><fused>194</fused></test>
   </size>
   <lemmas unique="2023" /><!-- ., ,, உள், உம், என், படு, இரு, ஆகு, அவர், இந்தியா, தெரிவி, செய், ஆக, ஆன, நாடு -->
   <forms unique="3583" /><!-- ., ,, உம், ஆக, உள்ளது, ஆன, என்று, உள்ள, அவர், பட்ட், வேண்டும், இந்த, மற்றும், அரசு, நாடுகள் -->
@@ -73,31 +76,31 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="29">
-    <dep name="acl">35</dep>
+    <dep name="acl">41</dep>
     <dep name="advcl">357</dep>
-    <dep name="advmod">410</dep>
-    <dep name="advmod:emph">232</dep>
-    <dep name="amod">667</dep>
-    <dep name="appos">7</dep>
-    <dep name="aux">602</dep>
+    <dep name="advmod">405</dep>
+    <dep name="advmod:emph">231</dep>
+    <dep name="amod">669</dep>
+    <dep name="aux">601</dep>
     <dep name="case">267</dep>
-    <dep name="cc">113</dep>
+    <dep name="cc">103</dep>
     <dep name="ccomp">166</dep>
     <dep name="compound">13</dep>
     <dep name="compound:prt">1</dep>
-    <dep name="conj">230</dep>
+    <dep name="conj">236</dep>
     <dep name="cop">1</dep>
     <dep name="csubj">11</dep>
-    <dep name="det">115</dep>
-    <dep name="iobj">34</dep>
-    <dep name="mark">286</dep>
-    <dep name="nmod">1979</dep>
-    <dep name="nsubj">665</dep>
+    <dep name="dep">1</dep>
+    <dep name="det">114</dep>
+    <dep name="iobj">27</dep>
+    <dep name="mark">280</dep>
+    <dep name="nmod">2019</dep>
+    <dep name="nsubj">664</dep>
     <dep name="nsubj:pass">1</dep>
-    <dep name="nummod">218</dep>
-    <dep name="obj">642</dep>
-    <dep name="obl">879</dep>
-    <dep name="obl:arg">13</dep>
+    <dep name="nummod">217</dep>
+    <dep name="obj">538</dep>
+    <dep name="obl">892</dep>
+    <dep name="obl:arg">89</dep>
     <dep name="parataxis">5</dep>
     <dep name="punct">1000</dep>
     <dep name="root">600</dep>

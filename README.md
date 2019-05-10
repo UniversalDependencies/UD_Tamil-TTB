@@ -17,26 +17,53 @@ improved.
 
 ## References:
 
-* http://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/ ... TamilTB
-* http://ufal.mff.cuni.cz/hamledt ... HamleDT
-* http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
-* http://ufal.mff.cuni.cz/interset ... Interset was used to convert POS tags and features
+* [TamilTB](http://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/)
+* [HamleDT](http://ufal.mff.cuni.cz/hamledt)
+* [Treex](http://ufal.mff.cuni.cz/treex) is the software used for conversion
+* [Interset](http://ufal.mff.cuni.cz/interset) was used to convert POS tags and features
+* Loganathan Ramasamy, Zdeněk Žabokrtský. 2012.
+  [Prague Dependency Style Treebank for Tamil](http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html).
+  In: *Proceedings of Eighth International Conference on Language Resources and Evaluation (LREC 2012),*
+  İstanbul, Turkey, ISBN 978-2-9517408-7-7, pp. 1888–1894.
 
-    @inproceedings{ta,
-      author    = {Ramasamy, Loganathan and \v{Z}abokrtsk\'{y}, Zden\v{e}k},
-      year      = {2012},
-      title     = {Prague Dependency Style Treebank for {Tamil}},
-      booktitle = {Proceedings of Eighth International Conference on Language Resources and Evaluation ({LREC} 2012)},
-      address   = {\.{I}stanbul, Turkey},
-      editor    = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Uğur Doğan and Bente Maegaard and Joseph Mariani and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
-      isbn      = {978-2-9517408-7-7},
-      pages     = {1888--1894},
-      url       = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
-    }
+<pre>
+@inproceedings{ta,
+  author    = {Ramasamy, Loganathan and \v{Z}abokrtsk\'{y}, Zden\v{e}k},
+  year      = {2012},
+  title     = {Prague Dependency Style Treebank for {Tamil}},
+  booktitle = {Proceedings of Eighth International Conference on Language Resources and Evaluation ({LREC} 2012)},
+  address   = {\.{I}stanbul, Turkey},
+  editor    = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Uğur Doğan and Bente Maegaard and Joseph Mariani and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
+  isbn      = {978-2-9517408-7-7},
+  pages     = {1888--1894},
+  url       = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
+}
+</pre>
+
+
+# Source of annotations
+
+This table summarizes the origins and checking of the various columns of the CoNLL-U data.
+
+| Column | Status |
+| ------ | ------ |
+| ID | Sentence segmentation and tokenization (including cutting off certain suffixes that constitute independent syntactic words) was automatically done and then hand-corrected. |
+| FORM | Identical to TamilTB form. |
+| LEMMA | Gold (preprocessed and then manually corrected). |
+| UPOSTAG | Converted automatically from XPOSTAG (via [Interset](https://ufal.mff.cuni.cz/interset)). |
+| XPOSTAG | Gold (preprocessed and then manually corrected). |
+| FEATS | Converted automatically from XPOSTAG (via Interset). |
+| HEAD | Original TamilTB annotation is manual (preprocessed by a rule-based parser and then manually corrected). Automatic conversion to UD; human checking of patterns revealed by automatic consistency tests. |
+| DEPREL | Original TamilTB annotation is manual (preprocessed by a rule-based parser and then manually corrected). Automatic conversion to UD; human checking of patterns revealed by automatic consistency tests. |
+| DEPS | &mdash; (currently unused) |
+| MISC | Information about token spacing restored using heuristics. Mapping between multi-word tokens and syntactic words verified against the source text. |
 
 
 # Changelog
 
+* 2019-05-15 v2.4
+  * Fixed some annotation errors in the original treebank, re-run the conversion.
+  * Dative and instrumental objects are now treated as oblique arguments.
 * 2018-04-15 v2.2
   * Repository renamed from UD_Tamil to UD_Tamil-TTB.
   * Added enhanced representation of dependencies propagated across coordination.
