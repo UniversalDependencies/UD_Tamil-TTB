@@ -61,6 +61,8 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 # Changelog
 
+* 2020-05-15 v2.6
+  * Added enhanced relations with case information.
 * 2019-05-15 v2.4
   * Fixed some annotation errors in the original treebank, re-run the conversion.
   * Dative and instrumental objects are now treated as oblique arguments.
