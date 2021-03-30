@@ -61,6 +61,8 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Distinguished acl:relcl from other acl.
 * 2020-05-15 v2.6
   * Added enhanced relations with case information.
 * 2019-05-15 v2.4
