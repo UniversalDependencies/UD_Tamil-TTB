@@ -50,7 +50,7 @@
     <feat name="Number" value="Plur" upos="AUX,NOUN,PRON,PROPN,VERB">909</feat><!-- நாடுகள், இல்லை, உள்ளனர், பேர், மக்கள், உள்ளன, அதிகாரிகள், வருகின்றனர், அனைவரும், அவர்கள் -->
     <feat name="Number" value="Sing" upos="AUX,NOUN,NUM,PART,PRON,PROPN,VERB">4395</feat><!-- உள்ளது, அவர், வேண்டும், அரசு, இந்தியா, உள்ளார், தலைவர், பட்டது, செயலாளர், தெரிவித்தார் -->
     <feat name="NumForm" value="Digit" upos="NUM">149</feat><!-- 2, 10, 20, 3, 80, 16, 4, 5, 50, 6 -->
-    <feat name="NumType" value="Card" upos="DET,NUM">122</feat><!-- இரு, ஆயிரம், மூன்று, லட்சம், இரண்டு, ஆயிரத்து, கோடி, மிக, மிகப், மீட்டர் -->
+    <feat name="NumType" value="Card" upos="DET,NUM">282</feat><!-- இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு -->
     <feat name="NumType" value="Ord" upos="ADJ,NUM">52</feat><!-- முதல், இரண்டாவது, 1992-ம், 1-ம், 12-ம், 125-ம், 15-ம், 21-ம், 11வது, 12வது -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">68</feat><!-- நான், உள்ளோம், எனது, நாம், உள்ளேன், தனக்கு, நாங்கள், போராடுவோம், எனக்கு, கொள்கிறேன் -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">12</feat><!-- நீங்கள், அஞ்சுகிறீர்கள், இருக்கிறீர்கள், இருங்கள், உங்களுக்கு, உங்களைச், உங்கள், கவலைப்படாதீர்கள், வருகிறீர்கள், விரும்புகிறீர்கள் -->
@@ -75,8 +75,9 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">155</feat><!-- பட்ட், பட்டது, பட்டு, ப்படும், படுகிறது, ப்பட, படவ், படுகின்றனர், பட்டதற்கு, பட்டனர் -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="29">
-    <dep name="acl">132</dep>
+  <deps unique="30">
+    <dep name="acl">63</dep>
+    <dep name="acl:relcl">69</dep>
     <dep name="advcl">358</dep>
     <dep name="advmod">401</dep>
     <dep name="advmod:emph">231</dep>
