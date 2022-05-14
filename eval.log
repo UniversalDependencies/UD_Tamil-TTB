@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Tamil-TTB:
-commit eb68273b61318c22f8325aa0779b3b39cb90c644
+commit 8b0538d10bccb09151ecd50f75f67ef596b2cb8b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 09:59:48 2021 +0200
+Date:   Wed Nov 3 17:05:26 2021 +0100
 Size: counted 9581 of 9581 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.51956394133747.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,12 +25,63 @@ Udapi: found 205 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 9581 words.
 Genres: found 1 out of 17 known.
 validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-dev.conllu
-*** PASSED ***
+[Line 9 Sent dev-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:dat' in '11:obl:dat'
+
+The following 60 enhanced relations are currently permitted in language [ta]:
+acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
+
+[Line 10 Sent dev-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:dat' in '7:obl:dat'
+[Line 11 Sent dev-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:இல்:nom' in '11:obl:இல்:nom'
+[Line 32 Sent dev-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:com' in '10:obl:com'
+[Line 45 Sent dev-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:com' in '11:obl:com'
+[Line 48 Sent dev-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:com' in '11:obl:com'
+[Line 50 Sent dev-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '10:nmod:nom'
+[Line 58 Sent dev-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '18:nmod:nom'
+[Line 68 Sent dev-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '23:obl:loc'
+...suppressing further errors regarding Enhanced
+Enhanced errors: 351
+*** FAILED *** with 351 errors
+Exit code: 1
 validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-test.conllu
-*** PASSED ***
+[Line 6 Sent test-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:இலிருந்து:nom' in '4:nmod:இலிருந்து:nom'
+
+The following 60 enhanced relations are currently permitted in language [ta]:
+acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
+
+[Line 13 Sent test-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:dat' in '9:obl:dat'
+[Line 28 Sent test-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:இலிருந்து:nom' in '9:obl:இலிருந்து:nom'
+[Line 42 Sent test-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '2:nmod:nom'
+[Line 43 Sent test-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '5:obl:loc'
+[Line 44 Sent test-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '4:nmod:nom'
+[Line 49 Sent test-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:dat' in '9:nmod:dat'
+[Line 54 Sent test-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:இடம்:gen' in '15:obl:arg:இடம்:gen'
+[Line 66 Sent test-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:com' in '5:obl:com'
+...suppressing further errors regarding Enhanced
+Enhanced errors: 483
+*** FAILED *** with 483 errors
+Exit code: 1
 validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 5 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:அருகே:nom' in '18:obl:அருகே:nom'
+
+The following 60 enhanced relations are currently permitted in language [ta]:
+acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
+
+[Line 7 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '4:nmod:nom'
+[Line 8 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '18:obl:loc'
+[Line 9 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '6:nmod:nom'
+[Line 10 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '11:nmod:nom'
+[Line 16 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:dat' in '12:nmod:dat'
+[Line 19 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:dat' in '15:nmod:dat'
+[Line 20 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:இல்:nom' in '17:nmod:இல்:nom'
+[Line 22 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '18:obl:loc'
+...suppressing further errors regarding Enhanced
+Enhanced errors: 1922
+*** FAILED *** with 1922 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -39,6 +90,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
 (weight=0.307692307692308) * (score{udapi}=0.786034860661726) = 0.241856880203608
 (weight=0.0769230769230769) * (score{udeprels}=0.540540540540541) = 0.0415800415800416
-(TOTAL score=0.546111553673142) * (availability=1) * (validity=1) = 0.546111553673142
-STARS = 2.5
-UD_Tamil-TTB	0.546111553673142	2.5
+(TOTAL score=0.546111553673142) * (availability=1) * (validity=0.01) = 0.00546111553673142
+STARS = 0
+UD_Tamil-TTB	0.00546111553673142	0
