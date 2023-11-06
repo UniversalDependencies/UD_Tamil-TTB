@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Tamil-TTB:
-commit c6847ca815dbc46afab45498ae3f6497fdf83864
+commit c1739c0397fd034200edaf4e403c2e4c9923dd75
+Merge: 1392fa0 fbea79c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 12:41:16 2022 +0100
 Size: counted 9581 of 9581 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.51956394133747.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -27,8 +27,8 @@ Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-dev.conllu
 [Line 9 Sent dev-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:dat' in '11:obl:dat'
 
-The following 60 enhanced relations are currently permitted in language [ta]:
-acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+The following 63 enhanced relations are currently permitted in language [ta]:
+acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, advmod:lmod, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, compound:svc, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
 See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
 
 [Line 10 Sent dev-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:dat' in '7:obl:dat'
@@ -46,8 +46,8 @@ Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-test.conllu
 [Line 6 Sent test-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:இலிருந்து:nom' in '4:nmod:இலிருந்து:nom'
 
-The following 60 enhanced relations are currently permitted in language [ta]:
-acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+The following 63 enhanced relations are currently permitted in language [ta]:
+acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, advmod:lmod, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, compound:svc, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
 See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
 
 [Line 13 Sent test-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:dat' in '9:obl:dat'
@@ -67,8 +67,8 @@ Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-train.conllu
 [Line 5 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:அருகே:nom' in '18:obl:அருகே:nom'
 
-The following 60 enhanced relations are currently permitted in language [ta]:
-acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+The following 63 enhanced relations are currently permitted in language [ta]:
+acl, acl:relcl, advcl, advcl:cond, advmod, advmod:emph, advmod:lmod, amod, appos, aux, aux:neg, aux:pass, case, cc, ccomp, clf, compound, compound:lvc, compound:prt, compound:redup, compound:svc, conj, cop, csubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:nc, nsubj:nc:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:agent, obl:arg, obl:cmpr, obl:inst, obl:lmod, obl:pmod, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
 See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
 
 [Line 7 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '4:nmod:nom'
