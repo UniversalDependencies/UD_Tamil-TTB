@@ -41,9 +41,9 @@
     <feat name="Case" value="Ins" upos="AUX,NOUN,PART,PRON,PROPN,VERB">24</feat><!-- உள்ளதால், என்பதால், காரணத்தால், அளிக்காததால், அவர்களால், ஆகியதால், ஆனதால், இல்லாததால், எங்களால், ஒப்பந்தத்தால் -->
     <feat name="Case" value="Loc" upos="NOUN,NUM,PRON,PROPN,VERB">487</feat><!-- நிலையில், அறிக்கையில், பகுதியில், வகையில், இந்தியாவில், கவுன்சிலில், தலைமையில், அளவில், சிறையில், சென்னையில் -->
     <feat name="Case" value="Nom" upos="AUX,NOUN,NUM,PART,PRON,PROPN,VERB">2929</feat><!-- அவர், அரசு, நாடுகள், இந்தியா, தலைவர், செயலாளர், முதல்வர், பேர், ஆண்டு, மக்கள் -->
-    <feat name="Gender" value="Com" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">1218</feat><!-- அவர், உள்ளார், தலைவர், செயலாளர், உள்ளனர், தெரிவித்தார், முதல்வர், பேர், மக்கள், என்றார் -->
+    <feat name="Gender" value="Com" upos="AUX,NOUN,PRON,PROPN,VERB">1217</feat><!-- அவர், உள்ளார், தலைவர், செயலாளர், உள்ளனர், தெரிவித்தார், முதல்வர், பேர், மக்கள், என்றார் -->
     <feat name="Gender" value="Masc" upos="NOUN">2</feat><!-- அற்றவன், ஆடவனின் -->
-    <feat name="Gender" value="Neut" upos="AUX,NOUN,NUM,PART,PRON,PROPN,VERB">4072</feat><!-- உள்ளது, வேண்டும், அரசு, நாடுகள், இந்தியா, இல்லை, பட்டது, இந்திய, ஆண்டு, அமெரிக்க -->
+    <feat name="Gender" value="Neut" upos="AUX,NOUN,PRON,PROPN,VERB">4042</feat><!-- உள்ளது, வேண்டும், அரசு, நாடுகள், இந்தியா, இல்லை, பட்டது, இந்திய, ஆண்டு, அமெரிக்க -->
     <feat name="Mood" value="Cnd" upos="AUX,PART,VERB">28</feat><!-- இருந்தால், விட்டால், ஆனால், உடைத்தால், ஏற்பட்டால், கட்டினால், பட்டால், பெற்றால், வந்தால், இருப்பின் -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- இருங்கள் -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">718</feat><!-- உள்ளது, வேண்டும், உள்ளார், இல்லை, உள்ளனர், தெரிவித்தார், பட்டது, உள்ளன, என்றார், இருந்தது -->

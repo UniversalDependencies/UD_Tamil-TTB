@@ -61,6 +61,8 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * Fixed: no Gender for numerals and particles.
 * 2021-05-15 v2.8
   * Distinguished acl:relcl from other acl.
   * Added enhanced dependencies for relative clauses.
