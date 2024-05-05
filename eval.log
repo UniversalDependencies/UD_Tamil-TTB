@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Tamil-TTB:
-commit c1739c0397fd034200edaf4e403c2e4c9923dd75
-Merge: 1392fa0 fbea79c
+commit 19cf383f74c770a70c2d832f7fff62a635b8f3bf
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 13:08:45 2023 +0100
 Size: counted 9581 of 9581 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.51956394133747.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -39,6 +39,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 50 Sent dev-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '10:nmod:nom'
 [Line 58 Sent dev-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '18:nmod:nom'
 [Line 68 Sent dev-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '23:obl:loc'
+[Line 71 Sent dev-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '8:nmod:nom'
 ...suppressing further errors regarding Enhanced
 Enhanced errors: 351
 *** FAILED *** with 351 errors
@@ -58,6 +59,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 49 Sent test-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:dat' in '9:nmod:dat'
 [Line 54 Sent test-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:இடம்:gen' in '15:obl:arg:இடம்:gen'
 [Line 66 Sent test-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:com' in '5:obl:com'
+[Line 81 Sent test-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '4:nmod:nom'
 ...suppressing further errors regarding Enhanced
 [Line 2738 Sent test-s118 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [4, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 Enhanced errors: 483
@@ -79,6 +81,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 19 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:dat' in '15:nmod:dat'
 [Line 20 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:இல்:nom' in '17:nmod:இல்:nom'
 [Line 22 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '18:obl:loc'
+[Line 26 Sent train-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '22:nmod:nom'
 ...suppressing further errors regarding Enhanced
 [Line 4427 Sent train-s192 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [11, 17] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 Enhanced errors: 1922
