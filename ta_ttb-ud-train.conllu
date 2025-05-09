@@ -4395,6 +4395,7 @@
 # sent_id = train-s192
 # text = அவர்களுடன், பஞ்சாப் மற்றும் ஜம்மு-காஷ்மீர் சிறைகளில் இருந்து தலா 7 பேரும், ராஜஸ்தான் சிறையில் இருந்து ஒருவரும், தில்லி சிறையில் இருந்து 2 பேரும் விடுவிக்கப் படுகின்றனர்.
 # translit = avarkaḷuṭan, pañcāp marrum jammu-kāṣmīr ciraikaḷil iruntu talā 7 pērum, rājastān ciraiyil iruntu oruvarum, tilli ciraiyil iruntu 2 pērum viṭuvikkap paṭukinranar.
+# text_en = Along with them, 7 people each from Punjab and Jammu and Kashmir jails, one from Rajasthan jail, and 2 from Delhi jail are being released.
 # orig_file_sentence 002#92
 1-2	அவர்களுடன்	_	_	_	_	_	_	_	SpaceAfter=No
 1	அவர்கள்	அவர்	PRON	RpN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3|PronType=Prs	26	obl	26:obl:உடன்:nom	LTranslit=avar|Translit=avarkaḷ
@@ -4408,23 +4409,23 @@
 9	தலா	தலா	ADJ	JJ-------	_	11	amod	11:amod	Translit=talā|LTranslit=talā
 10	7	7	NUM	U=-------	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Translit=7|LTranslit=7
 11-12	பேரும்	_	_	_	_	_	_	_	SpaceAfter=No
-11	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	nsubj	25:nsubj	LTranslit=pēr|Translit=pēr
-12	உம்	உம்	PART	Tv-------	_	11	advmod:emph	11:advmod:emph	LTranslit=um|Translit=um
-13	,	,	PUNCT	Z:-------	PunctType=Comm	25	punct	25:punct	Translit=,|LTranslit=,
+11	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	26	nsubj	26:nsubj	LTranslit=pēr|Translit=pēr
+12	உம்	உம்	PART	Tv-------	_	11	cc	11:cc	LTranslit=um|Translit=um
+13	,	,	PUNCT	Z:-------	PunctType=Comm	17	punct	17:punct	Translit=,|LTranslit=,
 14	ராஜஸ்தான்	ராஜஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	nmod	15:nmod:nom	Translit=rājastān|LTranslit=rājastān
 15	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	17	nmod	17:nmod:இரு:loc	Translit=ciraiyil|LTranslit=cirai
 16	இருந்து	இரு	ADP	PP-------	AdpType=Post	15	case	15:case	Translit=iruntu|LTranslit=iru
 17-18	ஒருவரும்	_	_	_	_	_	_	_	SpaceAfter=No
-17	ஒருவர்	ஒருவர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	25	nsubj	25:nsubj	LTranslit=oruvar|Translit=oruvar
-18	உம்	உம்	PART	Tv-------	_	17	advmod:emph	17:advmod:emph	LTranslit=um|Translit=um
-19	,	,	PUNCT	Z:-------	PunctType=Comm	25	punct	25:punct	Translit=,|LTranslit=,
+17	ஒருவர்	ஒருவர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	11	conj	11:conj|26:nsubj	LTranslit=oruvar|Translit=oruvar
+18	உம்	உம்	PART	Tv-------	_	17	cc	17:cc	LTranslit=um|Translit=um
+19	,	,	PUNCT	Z:-------	PunctType=Comm	24	punct	24:punct	Translit=,|LTranslit=,
 20	தில்லி	தில்லி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	21	nmod	21:nmod:nom	Translit=tilli|LTranslit=tilli
 21	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	24	nmod	24:nmod:இரு:loc	Translit=ciraiyil|LTranslit=cirai
 22	இருந்து	இரு	ADP	PP-------	AdpType=Post	21	case	21:case	Translit=iruntu|LTranslit=iru
 23	2	2	NUM	U=-------	NumForm=Digit|NumType=Card	24	nummod	24:nummod	Translit=2|LTranslit=2
 24-25	பேரும்	_	_	_	_	_	_	_	_
-24	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	dep	25:dep	LTranslit=pēr|Translit=pēr
-25	உம்	உம்	PART	Tv-------	_	26	advmod:emph	26:advmod:emph	LTranslit=um|Translit=um
+24	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	11	conj	11:conj|26:nsubj	LTranslit=pēr|Translit=pēr
+25	உம்	உம்	PART	Tv-------	_	24	cc	24:cc	LTranslit=um|Translit=um
 26	விடுவிக்கப்	விடுவி	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=viṭuvikkap|LTranslit=viṭuvi
 27	படுகின்றனர்	படு	AUX	VR-P3PHPA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Pass	26	aux	26:aux	SpaceAfter=No|Translit=paṭukinranar|LTranslit=paṭu
 28	.	.	PUNCT	Z#-------	PunctType=Peri	26	punct	26:punct	Translit=.|LTranslit=.
