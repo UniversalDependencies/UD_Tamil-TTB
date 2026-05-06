@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Tamil-TTB:
-commit d543efb2de9bbe72cce6275f3de3fc94f8901a23
-Merge: 18d8c29 4391770
+commit afe55e0c8ee0e5bfdb2c1cdb287880a22d254b58
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:55:44 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ta_ttb'
 Language code (from CoNLL-U file name) = 'ta'
@@ -25,59 +25,80 @@ Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-dev.conllu
-[Line 10 Sent dev-s1]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'விரோதம் virōtam') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 32 Sent dev-s2]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'உடன்பாடு uṭanpāṭu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 67 Sent dev-s4]: [L3 Warning pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 100 Sent dev-s5]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'இடம் iṭam') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 219 Sent dev-s11]: [L3 Warning pron-det-without-prontype] The word 'இந்தத் intat' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 248 Sent dev-s12]: [L3 Warning pron-det-without-prontype] The word 'அந்தக் antak' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 401 Sent dev-s18]: [L3 Warning pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 431 Sent dev-s20]: [L3 Warning pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 655 Sent dev-s27]: [L3 Warning pron-det-without-prontype] The word 'எந்த enta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 730 Sent dev-s32]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'நடவடிக்கைகளைக் naṭavaṭikkaikaḷaik') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-[Line 1690 Sent dev-s76]: [L3 Syntax too-many-objects] Multiple direct objects [1, 2] ('இளைஞர்கள் iḷaiñarkaḷ', 'பங்கு paṅku') under the predicate 'பெறும் perum'.
-Syntax errors: 1
-Warnings: 17
-*** FAILED *** with 1 errors
+[Line 10 Sent dev-s1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'விரோதம் virōtam') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 32 Sent dev-s2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'உடன்பாடு uṭanpāṭu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 67 Sent dev-s4]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 100 Sent dev-s5]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'இடம் iṭam') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 219 Sent dev-s11]: [L3 WARNING pron-det-without-prontype] The word 'இந்தத் intat' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 248 Sent dev-s12]: [L3 WARNING pron-det-without-prontype] The word 'அந்தக் antak' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 401 Sent dev-s18]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 431 Sent dev-s20]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 655 Sent dev-s27]: [L3 WARNING pron-det-without-prontype] The word 'எந்த enta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 730 Sent dev-s32]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'நடவடிக்கைகளைக் naṭavaṭikkaikaḷaik') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 764 Sent dev-s33]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 768 Sent dev-s33]: [L3 WARNING pron-det-without-prontype] The word 'அந்த anta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 942 Sent dev-s40]: [L3 WARNING pron-det-without-prontype] The word 'இந்தப் intap' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1362 Sent dev-s59]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'தமக்கு tamakk') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1690 Sent dev-s76]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 2] ('இளைஞர்கள் iḷaiñarkaḷ', 'பங்கு paṅku') under the predicate 'பெறும் perum'.
+[Line 1751 Sent dev-s79]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 11
+SYNTAX errors: 6
+*** FAILED *** with 6 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-test.conllu
-[Line 320 Sent test-s15]: [L3 Warning pron-det-without-prontype] The word 'அந்த anta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 332 Sent test-s16]: [L3 Warning pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 488 Sent test-s21]: [L3 Warning pron-det-without-prontype] The word 'எந்தத் entat' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 522 Sent test-s23]: [L3 Warning pron-det-without-prontype] The word 'இந்தப் intap' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 565 Sent test-s24]: [L3 Warning pron-det-without-prontype] The word 'அந்தச் antac' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 589 Sent test-s25]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'காய்ச்சல் kāyccal') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 755 Sent test-s30]: [L3 Warning obl-should-be-nmod] The parent (node [23] 'தொழிலாளர்கள் tolilāḷarkaḷ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 983 Sent test-s39]: [L3 Warning pron-det-without-prontype] The word 'எந்த enta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1013 Sent test-s40]: [L3 Warning pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1028 Sent test-s41]: [L3 Warning pron-det-without-prontype] The word 'அதிக atika' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 1334 Sent test-s55]: [L3 Syntax too-many-objects] Multiple direct objects [6, 13] ('பெண்களை peṇkaḷai', 'பெண்களைப் peṇkaḷaip') under the predicate 'பாதுகாக்கும் pātukākkum'.
-[Line 1440 Sent test-s58]: [L3 Syntax too-many-objects] Multiple direct objects [1, 8] ('1. 1.', 'துணைவர்கள் tuṇaivarkaḷ') under the predicate 'ஏற்க ērka'.
-[Line 1467 Sent test-s60]: [L3 Syntax too-many-objects] Multiple direct objects [2, 4] ('இருவர் iruvar', 'திருமணம் tirumaṇam') under the predicate 'செய்து ceytu'.
-[Line 1855 Sent test-s76]: [L3 Syntax too-many-objects] Multiple direct objects [4, 5] ('பாகங்களை pākaṅkaḷai', 'சப்ளை capḷai') under the predicate 'செய்யும் ceyyum'.
-Syntax errors: 4
-Warnings: 39
-*** FAILED *** with 4 errors
+[Line 320 Sent test-s15]: [L3 WARNING pron-det-without-prontype] The word 'அந்த anta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 332 Sent test-s16]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 488 Sent test-s21]: [L3 WARNING pron-det-without-prontype] The word 'எந்தத் entat' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 522 Sent test-s23]: [L3 WARNING pron-det-without-prontype] The word 'இந்தப் intap' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 565 Sent test-s24]: [L3 WARNING pron-det-without-prontype] The word 'அந்தச் antac' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 589 Sent test-s25]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'காய்ச்சல் kāyccal') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 755 Sent test-s30]: [L3 SYNTAX obl-should-be-nmod] The parent (node [23] 'தொழிலாளர்கள் tolilāḷarkaḷ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 983 Sent test-s39]: [L3 WARNING pron-det-without-prontype] The word 'எந்த enta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1013 Sent test-s40]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1028 Sent test-s41]: [L3 WARNING pron-det-without-prontype] The word 'அதிக atika' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1059 Sent test-s43]: [L3 WARNING pron-det-without-prontype] The word 'அதிக atika' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1106 Sent test-s45]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ரத்தன்குமார் rattankumār') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1233 Sent test-s52]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'கணவன் kaṇavan') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1258 Sent test-s53]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'பச்சையம்மாள் paccaiyammāḷ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1269 Sent test-s53]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'கணவன் kaṇavan') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1334 Sent test-s55]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 13] ('பெண்களை peṇkaḷai', 'பெண்களைப் peṇkaḷaip') under the predicate 'பாதுகாக்கும் pātukākkum'.
+[Line 1440 Sent test-s58]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 8] ('1. 1.', 'துணைவர்கள் tuṇaivarkaḷ') under the predicate 'ஏற்க ērka'.
+[Line 1467 Sent test-s60]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 4] ('இருவர் iruvar', 'திருமணம் tirumaṇam') under the predicate 'செய்து ceytu'.
+[Line 1516 Sent test-s63]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1855 Sent test-s76]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 5] ('பாகங்களை pākaṅkaḷai', 'சப்ளை capḷai') under the predicate 'செய்யும் ceyyum'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 29
+SYNTAX errors: 13
+*** FAILED *** with 13 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ta --max-err=10 UD_Tamil-TTB/ta_ttb-ud-train.conllu
-[Line 52 Sent train-s3]: [L3 Warning pron-det-without-prontype] The word 'முழுவதும் muluvatum' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 136 Sent train-s6]: [L3 Warning pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 239 Sent train-s10]: [L3 Warning pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 244 Sent train-s10]: [L3 Warning pron-det-without-prontype] The word 'அப் ap' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 245 Sent train-s10]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'வாழ்ந்தவர்கள் vālntavarkaḷ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 334 Sent train-s13]: [L3 Warning pron-det-without-prontype] The word 'எந்த enta' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 375 Sent train-s15]: [L3 Warning obl-should-be-nmod] The parent (node [17] 'அறைய் araiy') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 396 Sent train-s15]: [L3 Warning pron-det-without-prontype] The word 'இச் ic' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 444 Sent train-s17]: [L3 Warning pron-det-without-prontype] The word 'இப் ip' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 459 Sent train-s18]: [L3 Warning pron-det-without-prontype] The word 'இந்தப் intap' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 7344 Sent train-s329]: [L3 Syntax too-many-objects] Multiple direct objects [10, 11] ('அரசிடம் araciṭam', 'வருத்தம் varuttam') under the predicate 'தெரிவித்தது terivittatu'.
-[Line 8753 Sent train-s396]: [L3 Syntax too-many-objects] Multiple direct objects [3, 5] ('மருத்துவர்கள் maruttuvarkaḷ', 'கணக்கு kaṇakku') under the predicate 'காட்டினால் kāṭṭināl'.
-Syntax errors: 2
-Warnings: 119
-*** FAILED *** with 2 errors
+[Line 52 Sent train-s3]: [L3 WARNING pron-det-without-prontype] The word 'முழுவதும் muluvatum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 136 Sent train-s6]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 239 Sent train-s10]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 244 Sent train-s10]: [L3 WARNING pron-det-without-prontype] The word 'அப் ap' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 245 Sent train-s10]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'வாழ்ந்தவர்கள் vālntavarkaḷ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 334 Sent train-s13]: [L3 WARNING pron-det-without-prontype] The word 'எந்த enta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 375 Sent train-s15]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'அறைய் araiy') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 396 Sent train-s15]: [L3 WARNING pron-det-without-prontype] The word 'இச் ic' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 444 Sent train-s17]: [L3 WARNING pron-det-without-prontype] The word 'இப் ip' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 459 Sent train-s18]: [L3 WARNING pron-det-without-prontype] The word 'இந்தப் intap' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 512 Sent train-s20]: [L3 WARNING pron-det-without-prontype] The word 'மிகச் mikac' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 550 Sent train-s21]: [L3 WARNING pron-det-without-prontype] The word 'இந்த inta' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 817 Sent train-s31]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'படிகளை paṭikaḷai') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 909 Sent train-s35]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'பிரிவினர் pirivinar') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1418 Sent train-s58]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'ஏற்பாடு ērpāṭu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1420 Sent train-s58]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'ஏற்பாடு ērpāṭu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1422 Sent train-s58]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'ஏற்பாடு ērpāṭu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1776 Sent train-s70]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'கைது kaitu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1779 Sent train-s70]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'கைது kaitu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2523 Sent train-s101]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'செயலாளர் ceyalāḷar') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 80
+SYNTAX errors: 28
+*** FAILED *** with 28 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
