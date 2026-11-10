@@ -7,7 +7,7 @@
 3	சாமானிய	சாமானிய	ADJ	JJ-------	_	1	conj	1:conj|5:amod	Translit=cāmāniya|LTranslit=cāmāniya
 4	ஏழையெளிய	ஏழையெளிய	ADJ	JJ-------	_	1	conj	1:conj|5:amod	Translit=ēlaiyeḷiya|LTranslit=ēlaiyeḷiya
 5	மக்களுக்கு	மக்கள்	NOUN	NND-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3	11	obl	11:obl:dat	Translit=makkaḷukku|LTranslit=makkaḷ
-6	மனசாட்சிக்கு	மனசாட்சி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl:dat	Translit=manacāṭcikku|LTranslit=manacāṭci
+6	மனசாட்சிக்கு	மனசாட்சி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod:dat	Translit=manacāṭcikku|LTranslit=manacāṭci
 7	விரோதம்	விரோதம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl:இல்:nom	Translit=virōtam|LTranslit=virōtam
 8	இல்லாமல்	இல்	ADP	PP-------	AdpType=Post	7	case	7:case	SpaceAfter=No|Translit=illāmal|LTranslit=il
 9	,	,	PUNCT	Z:-------	PunctType=Comm	11	punct	11:punct	Translit=,|LTranslit=,
@@ -29,7 +29,7 @@
 6	மருத்துவத்	மருத்துவம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod	Translit=maruttuvat|LTranslit=maruttuvam
 7	துறை	துறை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	12:nsubj	Translit=turai|LTranslit=turai
 8	தான்	தான்	PART	Tq-------	_	7	advmod:emph	7:advmod:emph	Translit=tān|LTranslit=tān
-9	மனிதாபிமானத்தோடு	மனிதாபிமானம்	NOUN	NNS-3SN--	Case=Com|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:com	Translit=manitāpimānattōṭu|LTranslit=manitāpimānam
+9	மனிதாபிமானத்தோடு	மனிதாபிமானம்	NOUN	NNS-3SN--	Case=Com|Gender=Neut|Number=Sing|Person=3	10	nmod	10:nmod:com	Translit=manitāpimānattōṭu|LTranslit=manitāpimānam
 10	உடன்பாடு	உடன்பாடு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obj	11:obj	Translit=uṭanpāṭu|LTranslit=uṭanpāṭu
 11	கொண்ட	கொள்	VERB	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	12	acl	12:acl	Translit=koṇṭa|LTranslit=koḷ
 12	துறையாகும்	துறை	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=turaiyākum|LTranslit=turai
@@ -97,7 +97,7 @@
 # text = தனக்கு உடல் நிலை இடம் தரா விட்டாலும், அரசு நிகழ்ச்சியில் பங்கேற்க வந்துள்ளதாக முதல்வர் கருணாநிதி தெரிவித்தார்.
 # translit = tanakku uṭal nilai iṭam tarā viṭṭālum, aracu nikalcciyil paṅkērka vantuḷḷatāka mutalvar karuṇāniti terivittār.
 # orig_file_sentence 001#5
-1	தனக்கு	தன்	PRON	RhD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	obl:arg	4:obl:arg:dat	Translit=tanakku|LTranslit=tan
+1	தனக்கு	தன்	PRON	RhD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	nmod	4:nmod:dat	Translit=tanakku|LTranslit=tan
 2	உடல்	உடல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:nom	Translit=uṭal|LTranslit=uṭal
 3	நிலை	நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:nom	Translit=nilai|LTranslit=nilai
 4	இடம்	இடம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	obl	12:obl:உம்:nom	Translit=iṭam|LTranslit=iṭam
@@ -727,7 +727,7 @@
 2	,	,	PUNCT	Z:-------	PunctType=Comm	17	punct	17:punct	Translit=,|LTranslit=,
 3	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=tamilaka|LTranslit=tamilakam
 4	அரசின்	அரசு	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	7	iobj	7:iobj	Translit=aracin|LTranslit=aracu
-5	இத்தகைய	இத்தகைய	ADJ	JJ-------	_	6	obl	6:obl	Translit=ittakaiya|LTranslit=ittakaiya
+5	இத்தகைய	இத்தகைய	ADJ	JJ-------	_	6	nmod	6:nmod	Translit=ittakaiya|LTranslit=ittakaiya
 6	நடவடிக்கைகளைக்	நடவடிக்கை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	7	obj	7:obj	Translit=naṭavaṭikkaikaḷaik|LTranslit=naṭavaṭikkai
 7	கண்டித்து	கண்டி	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	17	advcl	17:advcl	Translit=kaṇṭittu|LTranslit=kaṇṭi
 8	சென்னையில்	சென்னை	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	17	obl	17:obl:loc	Translit=cennaiyil|LTranslit=cennai
@@ -1307,7 +1307,7 @@
 18	(	(	PUNCT	Z:-------	PunctType=Comm	17	punct	17:punct	SpaceAfter=No|Translit=(|LTranslit=(
 19	ஐஎமெப்	ஐஎமெப்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nmod	17:nmod:nom	SpaceAfter=No|Translit=aiemep|LTranslit=aiemep
 20	)	)	PUNCT	Z:-------	PunctType=Comm	17	punct	17:punct	Translit=)|LTranslit=)
-21	உள்ளிட்டவற்றில்	உள்ளிட்டவை	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	23	obl	23:obl:loc	Translit=uḷḷiṭṭavarril|LTranslit=uḷḷiṭṭavai
+21	உள்ளிட்டவற்றில்	உள்ளிட்டவை	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	23	nmod	23:nmod:loc	Translit=uḷḷiṭṭavarril|LTranslit=uḷḷiṭṭavai
 22	நிதிச்	நிதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	23	nsubj	23:nsubj	Translit=nitic|LTranslit=niti
 23	சீர்திருத்தம்	சீர்திருத்தம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	28	nmod	28:nmod:என்:nom	Translit=cīrtiruttam|LTranslit=cīrtiruttam
 24	செய்ய	செய்	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	23	acl	23:acl	Translit=ceyya|LTranslit=cey
@@ -1359,7 +1359,7 @@
 # translit = carvatēca aḷavil tamakkuḷḷa poruppai ceyalpaṭuttuvatil amerikkāvuṭan iṇaintu paṇiyārra intiyā ārvamāka uḷḷatu enrār mīrā caṅkar.
 # orig_file_sentence 001#59
 1	சர்வதேச	சர்வதேசம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod	Translit=carvatēca|LTranslit=carvatēcam
-2	அளவில்	அளவு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl:loc	Translit=aḷavil|LTranslit=aḷavu
+2	அளவில்	அளவு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:loc	Translit=aḷavil|LTranslit=aḷavu
 3-4	தமக்குள்ள	_	_	_	_	_	_	_	_
 3	தமக்கு	தம்	PRON	RhD-3SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	nsubj	4:nsubj	LTranslit=tam|Translit=tamakk
 4	உள்ள	உள்	ADP	Jd-T----A	Polarity=Pos|VerbForm=Part	5	acl	5:acl	LTranslit=uḷ|Translit=uḷḷa

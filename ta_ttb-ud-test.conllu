@@ -586,7 +586,7 @@
 11	கருணாகரன்	கருணாகரன்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	16	nsubj	16:nsubj	Translit=karuṇākaran|LTranslit=karuṇākaran
 12	காய்ச்சல்	காய்ச்சல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	16	nmod	16:nmod:ஆகு:nom	Translit=kāyccal|LTranslit=kāyccal
 13-14	காரணமாக	_	_	_	_	_	_	_	_
-13	காரணம்	காரணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	obl	12:obl:nom	LTranslit=kāraṇam|Translit=kāraṇam
+13	காரணம்	காரணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod:nom	LTranslit=kāraṇam|Translit=kāraṇam
 14	ஆக	ஆகு	ADP	PP-------	AdpType=Post	12	case	12:case	LTranslit=āku|Translit=āka
 15	மருத்துவமனையில்	மருத்துவமனை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	16	obl	16:obl:loc	Translit=maruttuvamanaiyil|LTranslit=maruttuvamanai
 16-19	அனுமதிக்கப்பட்டுள்ளதாக	_	_	_	_	_	_	_	_
@@ -752,7 +752,7 @@
 15	ஆகிய	ஆகு	VERB	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	17	acl:relcl	17:acl:relcl	Translit=ākiya|LTranslit=āku
 16	மூன்று	மூன்று	NUM	Ux-------	NumType=Card	17	nummod	17:nummod	Translit=mūnru|LTranslit=mūnru
 17-18	அமைப்புகளையும்	_	_	_	_	_	_	_	_
-17	அமைப்புகளைய்	அமைப்பு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	23	obl:arg	15:nsubj|23:obl:arg:சேர்:acc	LTranslit=amaippu|Translit=amaippukaḷaiy
+17	அமைப்புகளைய்	அமைப்பு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	23	nmod	15:nsubj|23:nmod:சேர்:acc	LTranslit=amaippu|Translit=amaippukaḷaiy
 18	உம்	உம்	PART	Tv-------	_	17	advmod:emph	17:advmod:emph	LTranslit=um|Translit=um
 19	சேர்ந்த	சேர்	ADP	PP-------	AdpType=Post	17	case	17:case	Translit=cērnta|LTranslit=cēr
 20	12	12	NUM	U=-------	NumForm=Digit|NumType=Card	23	nummod	23:nummod	Translit=12|LTranslit=12
@@ -1103,7 +1103,7 @@
 # text = ஹைதராபாதைச் சேர்ந்த எஞினியர் ரத்தன்குமார் நொய்டாவில் கடந்த 5 மாதங்களாக வசித்து வந்தார்.
 # translit = haitarāpātaic cērnta eñiniyar rattankumār noyṭāvil kaṭanta 5 mātaṅkaḷāka vacittu vantār.
 # orig_file_sentence 001#45
-1	ஹைதராபாதைச்	ஹைதராபாத்	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	obl:arg	4:obl:arg:சேர்:acc	Translit=haitarāpātaic|LTranslit=haitarāpāt
+1	ஹைதராபாதைச்	ஹைதராபாத்	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:சேர்:acc	Translit=haitarāpātaic|LTranslit=haitarāpāt
 2	சேர்ந்த	சேர்	ADP	PP-------	AdpType=Post	1	case	1:case	Translit=cērnta|LTranslit=cēr
 3	எஞினியர்	எஞினியர்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:nom	Translit=eñiniyar|LTranslit=eñiniyar
 4	ரத்தன்குமார்	ரத்தன்குமார்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nsubj	10:nsubj	Translit=rattankumār|LTranslit=rattankumār
@@ -1230,7 +1230,7 @@
 # orig_file_sentence 001#52
 1	கணவன்	கணவன்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	6	obl	6:obl:போல்:nom	Translit=kaṇavan|LTranslit=kaṇavan
 2	-	-	PUNCT	Z:-------	PunctType=Comm	1	punct	1:punct	Translit=-|LTranslit=-
-3	மனைவி	மனைவி	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	1	obl	1:obl:nom	Translit=manaivi|LTranslit=manaivi
+3	மனைவி	மனைவி	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	1	nmod	1:nmod:nom	Translit=manaivi|LTranslit=manaivi
 4	போல	போல்	ADP	PP-------	AdpType=Post	1	case	1:case	Translit=pōla|LTranslit=pōl
 5	சேர்ந்து	சேர்	ADV	AA-------	_	6	advcl	6:advcl	Translit=cērntu|LTranslit=cēr
 6	வாழ்ந்தோம்	வாழ்	VERB	Vr-D1P-AA	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	8:ccomp	Translit=vālntōm|LTranslit=vāl
@@ -1255,7 +1255,7 @@
 # translit = tamilnāṭṭin kōyamuttūraic cērnta ṭi. paccaiyammāḷ enpavar ṭi. vēlucāmi enpavar uṭan kaṇavan - manaivi pōla vālntatākavum, vēlucāmi ippōtu tannaip purakkaṇippatāl tanakku mātamtōrum jīvanāmcam tarumāru avarukku uttaraviṭa vēṇṭum enrum valakku toṭuttār.
 # orig_file_sentence 001#53
 1	தமிழ்நாட்டின்	தமிழ்நாடு	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod:gen	Translit=tamilnāṭṭin|LTranslit=tamilnāṭu
-2	கோயமுத்தூரைச்	கோயமுத்தூர்	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obl:arg	5:obl:arg:சேர்:acc	Translit=kōyamuttūraic|LTranslit=kōyamuttūr
+2	கோயமுத்தூரைச்	கோயமுத்தூர்	PROPN	NEA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:சேர்:acc	Translit=kōyamuttūraic|LTranslit=kōyamuttūr
 3	சேர்ந்த	சேர்	ADP	PP-------	AdpType=Post	2	case	2:case	Translit=cērnta|LTranslit=cēr
 4	டி.	டி.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:nom	Translit=ṭi.|LTranslit=ṭi.
 5	பச்சையம்மாள்	பச்சையம்மாள்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	15	nsubj	15:nsubj	Translit=paccaiyammāḷ|LTranslit=paccaiyammāḷ
@@ -1266,7 +1266,7 @@
 10	உடன்	உடன்	ADP	PP-------	AdpType=Post	9	case	9:case	Translit=uṭan|LTranslit=uṭan
 11	கணவன்	கணவன்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	15	obl	15:obl:போல்:nom	Translit=kaṇavan|LTranslit=kaṇavan
 12	-	-	PUNCT	Z:-------	PunctType=Comm	11	punct	11:punct	Translit=-|LTranslit=-
-13	மனைவி	மனைவி	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	11	obl	11:obl:nom	Translit=manaivi|LTranslit=manaivi
+13	மனைவி	மனைவி	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	11	nmod	11:nmod:nom	Translit=manaivi|LTranslit=manaivi
 14	போல	போல்	ADP	PP-------	AdpType=Post	11	case	11:case	Translit=pōla|LTranslit=pōl
 15-17	வாழ்ந்ததாகவும்	_	_	_	_	_	_	_	SpaceAfter=No
 15	வாழ்ந்தத்	வாழ்	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	34	ccomp	34:ccomp	LTranslit=vāl|Translit=vālntat
@@ -1990,9 +1990,9 @@
 3	அதிபர்	அதிபர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	5	nmod	5:nmod:nom	Translit=atipar|LTranslit=atipar
 4	ஜார்ஜ்	ஜார்ஜ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:nom	Translit=jārj|LTranslit=jārj
 5	புஷ்	புஷ்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	6	nmod	6:nmod:nom	Translit=puṣ|LTranslit=puṣ
-6	அமைச்சரவையில்	அமைச்சரவை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl:loc	Translit=amaiccaravaiyil|LTranslit=amaiccaravai
+6	அமைச்சரவையில்	அமைச்சரவை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod:loc	Translit=amaiccaravaiyil|LTranslit=amaiccaravai
 7	மிக	மிக	DET	QQ-------	NumType=Card	8	det	8:det	Translit=mika|LTranslit=mika
-8	முக்கியமானவர்களில்	முக்கியமானவர்	NOUN	NNL-3PA--	Animacy=Anim|Case=Loc|Gender=Com|Number=Plur|Person=3	9	obl	9:obl:loc	Translit=mukkiyamānavarkaḷil|LTranslit=mukkiyamānavar
+8	முக்கியமானவர்களில்	முக்கியமானவர்	NOUN	NNL-3PA--	Animacy=Anim|Case=Loc|Gender=Com|Number=Plur|Person=3	9	nmod	9:nmod:loc	Translit=mukkiyamānavarkaḷil|LTranslit=mukkiyamānavar
 9-10	ஒருவரான	_	_	_	_	_	_	_	_
 9	ஒருவர்	ஒருவர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	10	nmod	10:nmod:nom	LTranslit=oruvar|Translit=oruvar
 10	ஆன	ஆன	PART	Tg-------	_	12	nmod	12:nmod	LTranslit=āna|Translit=āna
@@ -2436,7 +2436,7 @@
 1	இந்த	இந்த	DET	DD-------	_	2	det	2:det	Translit=inta|LTranslit=inta
 2	சட்டத்துக்கு	சட்டம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	5	nsubj	5:nsubj	Translit=caṭṭattukku|LTranslit=caṭṭam
 3	சர்வதேச	சர்வதேசம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=carvatēca|LTranslit=carvatēcam
-4	அளவில்	அளவு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl:loc	Translit=aḷavil|LTranslit=aḷavu
+4	அளவில்	அளவு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:loc	Translit=aḷavil|LTranslit=aḷavu
 5	எதிர்ப்பு	எதிர்ப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl:nom	Translit=etirppu|LTranslit=etirppu
 6-7	இருந்தும்	_	_	_	_	_	_	_	_
 6	இருந்த்	இரு	AUX	VT-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	5	aux	5:aux	LTranslit=iru|Translit=irunt
@@ -2618,7 +2618,7 @@
 # translit = 1995l appōtaiya ai.nā. potuccapai talaivarum malēciya nāṭṭavarumāna rasaôli ismāyil tayāritta varaivu tīrmānattaiyum ippōtu naṭakkum pēccuvārttaiyaiyum pārkkum pōtu nām inta viṣayattil mikavum pintaṅki viṭṭatu terikiratu.
 # orig_file_sentence 002#13
 1	1995ல்	1995ல்	NUM	U=L-3SN-A	Case=Loc|Number=Sing|NumForm=Digit|NumType=Card|Person=3|Polarity=Pos	13	obj	13:obj	Translit=1995l|LTranslit=1995l
-2	அப்போதைய	அப்போதைய	ADJ	JJ-------	_	5	obl	5:obl	Translit=appōtaiya|LTranslit=appōtaiya
+2	அப்போதைய	அப்போதைய	ADJ	JJ-------	_	5	nmod	5:nmod	Translit=appōtaiya|LTranslit=appōtaiya
 3	ஐ.நா.	ஐ.நா.	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:nom	Translit=ai.nā.|LTranslit=ai.nā.
 4	பொதுச்சபை	பொதுச்சபை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:nom	Translit=potuccapai|LTranslit=potuccapai
 5-6	தலைவரும்	_	_	_	_	_	_	_	_

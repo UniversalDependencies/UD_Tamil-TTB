@@ -94,13 +94,13 @@
     <dep name="det">114</dep>
     <dep name="iobj">27</dep>
     <dep name="mark">280</dep>
-    <dep name="nmod">2024</dep>
+    <dep name="nmod">2079</dep>
     <dep name="nsubj">662</dep>
     <dep name="nsubj:pass">1</dep>
     <dep name="nummod">239</dep>
     <dep name="obj">538</dep>
-    <dep name="obl">888</dep>
-    <dep name="obl:arg">89</dep>
+    <dep name="obl">839</dep>
+    <dep name="obl:arg">83</dep>
     <dep name="parataxis">5</dep>
     <dep name="punct">1000</dep>
     <dep name="root">600</dep>
