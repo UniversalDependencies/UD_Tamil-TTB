@@ -1684,8 +1684,9 @@
 # sent_id = dev-s76
 # text = இளைஞர்கள் பங்கு பெறும் அரசை அமைக்க தொடர்ந்து போராடுவோம் என்றார் அவர்.
 # translit = iḷaiñarkaḷ paṅku perum aracai amaikka toṭarntu pōrāṭuvōm enrār avar.
+# text_en = He said that they would continue to fight to establish a government in which young people participate.
 # orig_file_sentence 001#76
-1	இளைஞர்கள்	இளைஞர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	3	obj	3:obj	Translit=iḷaiñarkaḷ|LTranslit=iḷaiñar
+1	இளைஞர்கள்	இளைஞர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	3	nsubj	3:nsubj	Translit=iḷaiñarkaḷ|LTranslit=iḷaiñar
 2	பங்கு	பங்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=paṅku|LTranslit=paṅku
 3	பெறும்	பெறு	VERB	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	4	acl:relcl	4:acl:relcl	Translit=perum|LTranslit=peru
 4	அரசை	அரசு	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	3:nsubj|5:obj	Translit=aracai|LTranslit=aracu

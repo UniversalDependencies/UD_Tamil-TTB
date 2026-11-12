@@ -1314,6 +1314,7 @@
 # sent_id = test-s55
 # text = வீட்டுக்குள் நடக்கும் கொடுமைகளிலிருந்து பெண்களை அதிலும் குறிப்பாக வீட்டு வேலை செய்யும் பெண்களைப் பாதுகாக்கும் 2005-வது சட்டத்தின் அடிப்படையில் பச்சையம்மாள் வழக்கு தொடுத்திருந்தார்.
 # translit = vīṭṭukkuḷ naṭakkum koṭumaikaḷiliruntu peṇkaḷai atilum kurippāka vīṭṭu vēlai ceyyum peṇkaḷaip pātukākkum 2005-vatu caṭṭattin aṭippaṭaiyil paccaiyammāḷ valakku toṭuttiruntār.
+# text_en = Pachaiyammal had filed a case under the 2005 Act, which protects women—especially those employed in domestic work—from abuse occurring within the household.
 # orig_file_sentence 001#55
 1-2	வீட்டுக்குள்	_	_	_	_	_	_	_	_
 1	வீட்டுக்க்	வீடு	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:உள்:dat	LTranslit=vīṭu|Translit=vīṭṭukk
@@ -1330,7 +1331,7 @@
 10	வீட்டு	வீடு	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	11	nmod	11:nmod	Translit=vīṭṭu|LTranslit=vīṭu
 11	வேலை	வேலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	obj	12:obj	Translit=vēlai|LTranslit=vēlai
 12	செய்யும்	செய்	VERB	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	13	acl:relcl	13:acl:relcl	Translit=ceyyum|LTranslit=cey
-13	பெண்களைப்	பெண்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	14	obj	12:nsubj|14:obj	Translit=peṇkaḷaip|LTranslit=peṇ
+13	பெண்களைப்	பெண்	NOUN	NNA-3PA--	Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3	6	appos	6:appos|12:nsubj	Translit=peṇkaḷaip|LTranslit=peṇ
 14	பாதுகாக்கும்	பாதுகா	VERB	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	16	acl:relcl	16:acl:relcl	Translit=pātukākkum|LTranslit=pātukā
 15	2005-வது	2005	NUM	Uy-------	NumType=Ord	16	nummod	16:nummod	Translit=2005-vatu|LTranslit=2005
 16	சட்டத்தின்	சட்டம்	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	17	nmod	14:nsubj|17:nmod:gen	Translit=caṭṭattin|LTranslit=caṭṭam
@@ -1424,8 +1425,9 @@
 # sent_id = test-s58
 # text = 1. ஒரு ஆணும் பெண்ணும் வாழ்க்கைத் துணைவர்கள் என்று சமூகம் ஏற்க வேண்டும்.
 # translit = 1. oru āṇum peṇṇum vālkkait tuṇaivarkaḷ enru camūkam ērka vēṇṭum.
+# text_en = 1. Society should accept a man and a woman as life partners.
 # orig_file_sentence 001#58
-1	1.	1.	NUM	Ux-------	NumType=Card	11	obj	11:obj	Translit=1.|LTranslit=1.
+1	1.	1.	NUM	Ux-------	NumType=Card	11	discourse	11:discourse	Translit=1.|LTranslit=1.
 2	ஒரு	ஒரு	NUM	JJ-------	NumType=Card	3	nummod	3:nummod	Translit=oru|LTranslit=oru
 3-4	ஆணும்	_	_	_	_	_	_	_	_
 3	ஆண்	ஆண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nsubj	8:nsubj	LTranslit=āṇ|Translit=āṇ
@@ -1444,8 +1446,9 @@
 # sent_id = test-s59
 # text = 2. இருவரும் திருமண வயதை எட்டியிருக்க வேண்டும்.
 # translit = 2. iruvarum tirumaṇa vayatai eṭṭiyirukka vēṇṭum.
+# text_en = 2. Both individuals must have reached the age of marriage.
 # orig_file_sentence 001#59
-1	2.	2.	NUM	Ux-------	NumType=Card	6	iobj	6:iobj	Translit=2.|LTranslit=2.
+1	2.	2.	NUM	Ux-------	NumType=Card	6	discourse	6:discourse	Translit=2.|LTranslit=2.
 2-3	இருவரும்	_	_	_	_	_	_	_	_
 2	இருவர்	இருவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	6	iobj	6:iobj	LTranslit=iruvar|Translit=iruvar
 3	உம்	உம்	PART	Tv-------	_	2	advmod:emph	2:advmod:emph	LTranslit=um|Translit=um
@@ -1458,10 +1461,11 @@
 # sent_id = test-s60
 # text = 3. இருவரும் திருமணம் செய்து கொள்வதற்கேற்ற தகுதிகளுடன் இருக்க வேண்டும்.
 # translit = 3. iruvarum tirumaṇam ceytu koḷvatarkērra takutikaḷuṭan irukka vēṇṭum.
+# text_en = 3. Both individuals must possess the qualifications required for marriage.
 # orig_file_sentence 001#60
-1	3.	3.	NUM	U=-------	NumForm=Digit|NumType=Card	10	obj	10:obj	Translit=3.|LTranslit=3.
+1	3.	3.	NUM	U=-------	NumForm=Digit|NumType=Card	10	discourse	10:discourse	Translit=3.|LTranslit=3.
 2-3	இருவரும்	_	_	_	_	_	_	_	_
-2	இருவர்	இருவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	5	obj	5:obj	LTranslit=iruvar|Translit=iruvar
+2	இருவர்	இருவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	5	nsubj	5:nsubj	LTranslit=iruvar|Translit=iruvar
 3	உம்	உம்	PART	Tv-------	_	2	advmod:emph	2:advmod:emph	LTranslit=um|Translit=um
 4	திருமணம்	திருமணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=tirumaṇam|LTranslit=tirumaṇam
 5	செய்து	செய்	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	6	advcl	6:advcl	Translit=ceytu|LTranslit=cey
@@ -1479,7 +1483,7 @@
 # text = 4. இருவரும் விருப்பப்பட்டே சில காலம் ஒன்றாகத் தங்கியிருக்க வேண்டும்;.
 # translit = 4. iruvarum viruppappaṭṭē cila kālam onrākat taṅkiyirukka vēṇṭum;.
 # orig_file_sentence 001#61
-1	4.	4.	NUM	Ux-------	NumType=Card	8	obl	8:obl	Translit=4.|LTranslit=4.
+1	4.	4.	NUM	Ux-------	NumType=Card	8	discourse	8:discourse	Translit=4.|LTranslit=4.
 2	இருவரும்	இருவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	8	nsubj	8:nsubj	Translit=iruvarum|LTranslit=iruvar
 3-4	விருப்பப்பட்டே	_	_	_	_	_	_	_	_
 3	விருப்பப்பட்ட்	விருப்பப்படு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	8	advcl	8:advcl	LTranslit=viruppappaṭu|Translit=viruppappaṭṭ
@@ -1846,12 +1850,13 @@
 # sent_id = test-s76
 # text = அணு உலைகளுக்கு உதிரி பாகங்களை சப்ளை செய்யும் நிறுவனங்கள் தான் விபத்து ஏற்பட்டால் பொறுப்பேற்க வேண்டும் என்றும், இது 80 ஆண்டுகளுக்குப் பொருந்தும் என்றும் தெரிவித்துள்ளது.
 # translit = aṇu ulaikaḷukku utiri pākaṅkaḷai capḷai ceyyum niruvanaṅkaḷ tān vipattu ērpaṭṭāl poruppērka vēṇṭum enrum, itu 80 āṇṭukaḷukkup poruntum enrum terivittuḷḷatu.
+# text_en = It has been stated that companies supplying spare parts for nuclear reactors must bear responsibility in the event of an accident, and that this provision remains applicable for 80 years.
 # orig_file_sentence 001#76
 1	அணு	அணு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod:nom	Translit=aṇu|LTranslit=aṇu
 2	உலைகளுக்கு	உலை	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	6	obl:arg	6:obl:arg:dat	Translit=ulaikaḷukku|LTranslit=ulai
 3	உதிரி	உதிரி	ADJ	JJ-------	_	4	amod	4:amod	Translit=utiri|LTranslit=utiri
 4	பாகங்களை	பாகம்	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	Translit=pākaṅkaḷai|LTranslit=pākam
-5	சப்ளை	சப்ளை	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	Translit=capḷai|LTranslit=capḷai
+5	சப்ளை	சப்ளை	NOUN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	compound	6:compound	Translit=capḷai|LTranslit=capḷai
 6	செய்யும்	செய்	VERB	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	7	acl:relcl	7:acl:relcl	Translit=ceyyum|LTranslit=cey
 7	நிறுவனங்கள்	நிறுவனம்	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	11	nsubj	6:nsubj|11:nsubj	Translit=niruvanaṅkaḷ|LTranslit=niruvanam
 8	தான்	தான்	PART	Tk-------	_	7	advmod:emph	7:advmod:emph	Translit=tān|LTranslit=tān

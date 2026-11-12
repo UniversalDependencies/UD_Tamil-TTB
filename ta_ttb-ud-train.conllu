@@ -7328,6 +7328,7 @@
 # sent_id = train-s329
 # text = இதையடுத்து பால் ஹென்றியின் செயலுக்காக நியூஸிலாந்து அரசு, இந்திய அரசிடம் வருத்தம் தெரிவித்தது.
 # translit = itaiyaṭuttu pāl henriyin ceyalukkāka niyūsilāntu aracu, intiya araciṭam varuttam terivittatu.
+# text_en = Following this, the New Zealand government expressed its regret to the Indian government over Paul Henry's actions.
 # orig_file_sentence 004#29
 1	இதையடுத்து	இதையடுத்து	ADV	AA-------	_	12	advmod	12:advmod	Translit=itaiyaṭuttu|LTranslit=itaiyaṭuttu
 2	பால்	பால்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:nom	Translit=pāl|LTranslit=pāl
@@ -7339,7 +7340,7 @@
 7	அரசு	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	12:nsubj	SpaceAfter=No|Translit=aracu|LTranslit=aracu
 8	,	,	PUNCT	Z:-------	PunctType=Comm	12	punct	12:punct	Translit=,|LTranslit=,
 9	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	10	nmod	10:nmod	Translit=intiya|LTranslit=intiyā
-10	அரசிடம்	அரசு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	12	obj	12:obj	Translit=araciṭam|LTranslit=aracu
+10	அரசிடம்	அரசு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	12	obl	12:obl	Translit=araciṭam|LTranslit=aracu
 11	வருத்தம்	வருத்தம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	obj	12:obj	Translit=varuttam|LTranslit=varuttam
 12	தெரிவித்தது	தெரிவி	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=terivittatu|LTranslit=terivi
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	12:punct	Translit=.|LTranslit=.
@@ -8744,10 +8745,11 @@
 # sent_id = train-s396
 # text = அங்கே இத்தனை மருத்துவர்கள் என்று கணக்கு காட்டினால் மாத்திரம் பயனில்லை.
 # translit = aṅkē ittanai maruttuvarkaḷ enru kaṇakku kāṭṭināl māttiram payanillai.
+# text_en = It is not enough to simply show a count of how many doctors are there.
 # orig_file_sentence 004#96
 1	அங்கே	அங்கு	ADV	AA-------	_	2	advmod	2:advmod	Translit=aṅkē|LTranslit=aṅku
 2	இத்தனை	இத்தனை	ADV	AA-------	_	3	advmod	3:advmod	Translit=ittanai|LTranslit=ittanai
-3	மருத்துவர்கள்	மருத்துவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	6	obj	6:obj	Translit=maruttuvarkaḷ|LTranslit=maruttuvar
+3	மருத்துவர்கள்	மருத்துவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	5	acl	5:acl	Translit=maruttuvarkaḷ|LTranslit=maruttuvar
 4	என்று	என்	PART	Tt-T----A	Polarity=Pos|VerbForm=Inf	3	mark	3:mark	Translit=enru|LTranslit=en
 5	கணக்கு	கணக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	Translit=kaṇakku|LTranslit=kaṇakku
 6	காட்டினால்	கட்டு	VERB	Vw-T---AA	Mood=Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	8	advcl	8:advcl	Translit=kāṭṭināl|LTranslit=kaṭṭu
